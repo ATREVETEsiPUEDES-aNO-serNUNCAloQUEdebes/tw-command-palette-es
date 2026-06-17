@@ -18,17 +18,17 @@ test('finds sidebar tabs by english title and chinese caption', async ({ page })
   const input = await openCommandPalette(page, '$');
 
   await typeIntoPalette(input, '$Recent');
-  await expect(page.locator(palettePanelSelector)).toContainText('最近 - 切换侧边栏标签页');
+  await expect(page.locator(palettePanelSelector)).toContainText('Recientemente - Cambiar pestanas de la barra lateral');
 
-  await typeIntoPalette(input, '$文件目录');
-  await expect(page.locator(palettePanelSelector)).toContainText('文件目录 - 切换侧边栏标签页');
+  await typeIntoPalette(input, '$Directorio de archivos');
+  await expect(page.locator(palettePanelSelector)).toContainText('Directorio de archivos - Cambiar pestanas de la barra lateral');
 });
 
 test('switches the current sidebar tab from the command palette', async ({ page }) => {
   const input = await openCommandPalette(page, '$');
 
   await typeIntoPalette(input, '$Recent');
-  await clickPaletteItem(page, '最近 - 切换侧边栏标签页');
+  await clickPaletteItem(page, 'Recientemente - Cambiar pestanas de la barra lateral');
 
   await expect.poll(() => getSelectedSidebarTabTitle(page)).toBe('$:/core/ui/SideBar/Recent');
   await expect(page.locator(palettePanelSelector)).toHaveCount(0);

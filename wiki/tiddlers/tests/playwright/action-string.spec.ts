@@ -20,9 +20,9 @@ test.beforeEach(async ({ page }) => {
 
 test('executes an action-string command from the application menu', async ({ page }) => {
   const input = await openCommandPalette(page, '$');
-  await typeIntoPalette(input, '$高级搜索');
+  await typeIntoPalette(input, '$Busqueda avanzada');
 
-  await clickPaletteItem(page, '高级搜索');
+  await clickPaletteItem(page, 'Busqueda avanzada');
 
   await expect.poll(() => getStoryList(page)).toContain('$:/AdvancedSearch');
 });
@@ -37,18 +37,18 @@ test('clicking the core empty-tiddler action only creates one draft', async ({ p
 });
 
 test('creates a new tiddler through the command menu wizard', async ({ page }) => {
-  const newTitle = `Playwright 新条目 ${Date.now()}`;
+  const newTitle = `Playwright Nuevos articulos ${Date.now()}`;
 
   const input = await openCommandPalette(page, '$');
-  await typeIntoPalette(input, '$输入标题');
-  await clickPaletteItem(page, '创建新条目（输入标题）');
+  await typeIntoPalette(input, '$Introduce un titulo');
+  await clickPaletteItem(page, 'Crea una nueva entrada (ingresa un titulo）');
 
-  await expect(page.locator(palettePanelSelector)).toContainText('命令参数');
-  await expect(page.locator(palettePanelSelector)).toContainText('条目标题');
+  await expect(page.locator(palettePanelSelector)).toContainText('Parametros del comando');
+  await expect(page.locator(palettePanelSelector)).toContainText('Titulo de la entrada');
 
   const wizardInput = page.locator(paletteInputSelector);
   await typeIntoPalette(wizardInput, newTitle);
-  const createItem = page.locator(palettePanelSelector).getByText(`确认输入: ${newTitle}`, { exact: true });
+  const createItem = page.locator(palettePanelSelector).getByText(`Confirmar entrada: ${newTitle}`, { exact: true });
   await expect(createItem).toBeVisible();
   await createItem.click();
 
@@ -91,10 +91,10 @@ test('adds a tag through action-string autocomplete variable prompt', async ({ p
   }, { nextFocusedTitle: focusedTitle, tagToAdd: newTag, leakingTitle: leakingTiddlerTitle });
 
   const input = await openCommandPalette(page, '$');
-  await typeIntoPalette(input, '$添加标签到当前条目');
-  await clickPaletteItem(page, '添加标签到当前条目');
+  await typeIntoPalette(input, '$Agrega una etiqueta a la entrada actual.');
+  await clickPaletteItem(page, 'Agrega una etiqueta a la entrada actual.');
 
-  await expect(page.locator(palettePanelSelector)).toContainText('新标签');
+  await expect(page.locator(palettePanelSelector)).toContainText('Nueva pestana');
 
   const wizardInput = page.locator(paletteInputSelector);
   await typeIntoPalette(wizardInput, newTag);
@@ -132,14 +132,14 @@ test('edits a specific tiddler through action-string variable prompt', async ({ 
   }, targetTitle);
 
   const input = await openCommandPalette(page, '$');
-  await typeIntoPalette(input, '$编辑条目');
-  await clickPaletteItem(page, '编辑');
+  await typeIntoPalette(input, '$Editar entrada');
+  await clickPaletteItem(page, 'Editar');
 
-  await expect(page.locator(palettePanelSelector)).toContainText('要编辑的条目');
+  await expect(page.locator(palettePanelSelector)).toContainText('El elemento a editar');
 
   const wizardInput = page.locator(paletteInputSelector);
   await typeIntoPalette(wizardInput, targetTitle);
-  await clickPaletteItem(page, `确认输入: ${targetTitle}`);
+  await clickPaletteItem(page, `Confirmar entrada: ${targetTitle}`);
 
   await expect.poll(() => getDraftCount(page)).toBe(1);
   await expect.poll(() => getDraftTitlesFor(page, targetTitle)).toHaveLength(1);
@@ -168,14 +168,14 @@ test('deletes a specific tiddler through action-string variable prompt', async (
   }, targetTitle);
 
   const input = await openCommandPalette(page, '$');
-  await typeIntoPalette(input, '$删除条目');
-  await clickPaletteItem(page, '删除');
+  await typeIntoPalette(input, '$Eliminar entrada');
+  await clickPaletteItem(page, 'Eliminar');
 
-  await expect(page.locator(palettePanelSelector)).toContainText('要删除的条目');
+  await expect(page.locator(palettePanelSelector)).toContainText('Elemento a eliminar');
 
   const wizardInput = page.locator(paletteInputSelector);
   await typeIntoPalette(wizardInput, targetTitle);
-  await clickPaletteItem(page, `确认输入: ${targetTitle}`);
+  await clickPaletteItem(page, `Confirmar entrada: ${targetTitle}`);
 
   await expect.poll(() => page.evaluate((expectedTitle) => {
     const wikiWindow = window as unknown as { $tw: any };
@@ -204,14 +204,14 @@ test('clones a tiddler through action-string variable prompt', async ({ page }) 
   }, sourceTitle);
 
   const input = await openCommandPalette(page, '$');
-  await typeIntoPalette(input, '$克隆条目');
-  await clickPaletteItem(page, '复制');
+  await typeIntoPalette(input, '$Clonar entradas');
+  await clickPaletteItem(page, 'Copiar');
 
-  await expect(page.locator(palettePanelSelector)).toContainText('模板条目');
+  await expect(page.locator(palettePanelSelector)).toContainText('Entradas de plantilla');
 
   const wizardInput = page.locator(paletteInputSelector);
   await typeIntoPalette(wizardInput, sourceTitle);
-  await clickPaletteItem(page, `确认输入: ${sourceTitle}`);
+  await clickPaletteItem(page, `Confirmar entrada: ${sourceTitle}`);
 
   await expect.poll(() => getDraftCount(page)).toBeGreaterThanOrEqual(1);
 });

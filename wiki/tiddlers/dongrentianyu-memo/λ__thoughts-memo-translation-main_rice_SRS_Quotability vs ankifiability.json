@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/rice/SRS/Quotability vs ankifiability",
-        "text": "# 可引用性 vs 可制卡性\r\n\r\n原文：[Quotability vs ankifiability](https://wiki.issarice.com/wiki/Quotability_vs_ankifiability)\r\n\r\n如果一段话很容易在其他地方引用，那这句话就是 **可引用** 的。作为一个在 Wikiquote 上[写](https://wiki.issarice.comhttps://en.wikiquote.org/wiki/Special:Contributions/Riceissa)了不少页的人，我很关注不同人作品的可引用性。有些人的作品比其他人的更容易被引用（尽管其见解是同等分量的）。\r\n\r\n如果一段话很容易能做成 [Anki](https://wiki.issarice.com/wiki/Anki) 卡片，那么它就是 **可制卡** 的。作为渴望娴熟使用 Anki 的人，对于如何把一段文字（比如数学课本或网上的文章）变成 Anki 卡片的问题，我思考颇多。有些文本更容易被 Anki 化。 \r\n\r\n在我看来，可引用的文本和可制卡的文本，都具有 **局部性** （locality）：中心思想集中在文本的一小部分，你可以把它「剪下来」，得到原子性的见解。如果见解是逐步表达出来的，而没有单独一句话或一个自然段能囊括整条见解（比如在[讨论性文本](https://wiki.issarice.com/wiki/Discursive_texts_are_difficult_to_ankify)中），制卡就很困难。\r\n\r\n在某种意义上，可以认为[渐进阅读](https://wiki.issarice.com/wiki/Incremental_reading)放弃考虑文本的可制卡性，转而使用可引用性作为凭据，判断什么内容值得加入到牌组中（因为与可引用性相比，可制卡性似乎是限制性更强的属性）。",
+        "text": "# Citabilidad vs Capacidad de produccion de tarjetas.\r\n\r\nTexto original：[Quotability vs ankifiability](https://wiki.issarice.com/wiki/Quotability_vs_ankifiability)\r\n\r\nSi un pasaje puede citarse facilmente en otro lugar, seria **cotizable** de. como persona en Wikiquote en[escribir](https://wiki.issarice.comhttps://en.wikiquote.org/wiki/Special:Contributions/Riceissa)Habiendo escrito muchas paginas, estoy muy preocupado por la citabilidad de las obras de diferentes personas. El trabajo de algunas personas se cita mas facilmente que el de otras (aunque sus ideas tienen el mismo peso).）。\r\n\r\nSi un parrafo es facil de escribir [Anki](https://wiki.issarice.com/wiki/Anki) Tarjeta, entonces es **Es posible imprimir tarjetas.** de. Tan ansioso por usar habilmente Anki Personas que saben como convertir un fragmento de texto (como un libro de texto de matematicas o un articulo en linea) en Anki He pensado mucho en el tema de las tarjetas. Algunos textos tienen mas probabilidades de ser Anki Transformacion。 \r\n\r\nEn mi opinion, tanto el texto citable como el texto cardable tienen **Localidad** （locality）：Centra la idea central en una pequena parte del texto y podras ponerla「Cortalo」，Obtenga conocimientos atomicos. Si la idea se expresa gradualmente y ninguna oracion o parrafo puede abarcar toda la idea (como en[Texto de discusion](https://wiki.issarice.com/wiki/Discursive_texts_are_difficult_to_ankify)Medio), es muy dificil hacer tarjetas.。\r\n\r\nEn cierto sentido, se puede considerar[Lectura progresiva](https://wiki.issarice.com/wiki/Incremental_reading)Abandonar la consideracion de la cardabilidad del texto y en su lugar utilizar la cita como metrica para determinar que vale la pena agregar al mazo (ya que la cardabilidad parece ser un atributo mas restrictivo que la cita).）。",
         "type": "text/markdown",
-        "caption": " 可引用性 vs 可制卡性\r",
+        "caption": " Citabilidad vs Capacidad de produccion de tarjetas.\r",
         "modified": "20230930171250230",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Quotability vs ankifiability"
     }

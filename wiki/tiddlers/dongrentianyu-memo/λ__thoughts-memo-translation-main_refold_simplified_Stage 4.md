@@ -1,397 +1,397 @@
-阶段四
+Etapa 4
 
-*有反馈吗？给我们发一封电子邮件！[Feedback@refold.la](mailto:feedback@refold.la)*
+*¿Algun comentario? Envianos un correo electronico！[Feedback@refold.la](mailto:feedback@refold.la)*
 
-恭喜！你现在精通第二语言了！
+¡Felicitaciones! Ahora dominas un segundo idioma.！
 
-你应该能够不用深思即可用你的目标语言自由交。你仍然会犯一些错误，但它们不会很频繁，且不会妨碍被理解。
+Deberia poder comunicarse libremente en el idioma de destino sin tener que pensar demasiado. Aun cometeras algunos errores, pero seran menos frecuentes y no impediran la comprension.。
 
-一些学习者对这种流利程度感到满意，对为更高水平的语言投入更多时间不感兴趣。这是一个完全合理的决定，每个学习者都需要自己决定投入多少精力。
+Algunos estudiantes estan satisfechos con este nivel de fluidez y no estan interesados ​​en invertir mas tiempo en niveles superiores del idioma. Esta es una decision perfectamente razonable y cada alumno debe decidir por si mismo cuanto esfuerzo invertir en。
 
-学习一门语言是一种无尽的追求。每种语言都足够大，没有人能在一生中学习到每个单词和文化细微差别。由你来决定你想走多远。
+Aprender un idioma es una busqueda interminable. Cada idioma es lo suficientemente grande como para que ninguna persona pueda aprender cada palabra y matiz cultural en su vida. Depende de ti decidir hasta donde quieres llegar。
 
-如果你决定继续下去，你需要决定你想专注于语言的哪些特定部分。下面，我们提出了两个类别来帮助您思考语言学习的后续步骤。
+Si decide continuar, debera decidir en que partes especificas del idioma desea centrarse. A continuacion, te proponemos dos categorias para ayudarte a pensar en tus proximos pasos en el aprendizaje de idiomas.。
 
-## 两条路径
+## Dos caminos
 
-本指南介绍了继续语言学习的两种方法：
+Esta guia explica dos formas de continuar aprendiendo idiomas.：
 
-1.扩展和深化流利度：提高你的沟通能力。
+1.Amplie y profundice la fluidez: mejore sus habilidades de comunicacion。
 
-2.努力达到原生水平：试着听起来像母语者
+2.Esfuercese por lograr el dominio nativo: intente sonar como un hablante nativo
 
-有许多高水平的外语使用者听起来不是母语，但能在各种主题中侃侃而谈
+Hay muchos hablantes de lenguas extranjeras de alto nivel que parecen no nativos pero que pueden hablar con elocuencia sobre una variedad de temas.
 
-例如，Arnold Schwarzengger是一位多才多艺的演员、公共演说家和商人，甚至曾担任加利福尼亚州州长，但你永远不会把他误认为是母语人士。
+Por ejemplo，Arnold Schwarzenggeres un consumado actor, orador publico y hombre de negocios que incluso fue gobernador de California, pero nunca lo confundirias con un hablante nativo.。
 
-你可以成为一名优秀的外语公共演讲者或作家，而不必听起来像一个母语者。同样，你可以听起来像本地人，但缺乏口才和广度的能力。
+Puedes ser un excelente orador o escritor en un idioma extranjero sin parecer un hablante nativo. Del mismo modo, puedes sonar como un nativo pero careces de elocuencia y amplitud de tus habilidades.。
 
-你想在这些道路上投资多少，由你来决定。
+Depende de ti cuanto quieres invertir en estas carreteras。
 
-##目录
+##Tabla de contenidos
 
-4A：扩展和深化流利度：
+4A：Ampliar y profundizar la fluidez：
 
-1.[主新域]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）（例如生物学、政治等）
+1.[Nuevo dominio principal]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）（Como la biologia, la politica, etc.）
 
-2.[建立特定技能]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）（例如公开演讲，创意写作）
+2.[Desarrolla habilidades especificas]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）（Por ej. hablar en publico, escritura creativa）
 
-3.[轻松聆听]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
+3.[Escucha facil]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
 
-4B：争取原生水平：
+4B：Luchar por alcanzar el nivel nativo：
 
-1.[采用原生世界观]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
+1.[Adopte una cosmovision nativa]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
 
-2.[拥抱文化]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
+2.[Abrazar la cultura]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
 
-3.[完美演讲]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
+3.[Discurso perfecto]（https://www.notion.so/Stage-4-5f4caf9de16c401b9252042fd0fffbdc）
 
-## 阶段4A：扩展和深化流利度
+## Etapa4A：Ampliar y profundizar la fluidez
 
-### 4A 1 主新域
+### 4A 1 Nuevo dominio principal
 
-您已经在第2和第3阶段掌握了第一个域名。第一个领域绝对是最难的，因为你需要同时学习所有常见词汇、特定领域的词汇和语法
+Ya estas en el2y no.3Stage domino el primer nombre de dominio. La primera area es definitivamente la mas dificil porque necesitas aprender todo el vocabulario comun, el vocabulario especifico del area y la gramatica al mismo tiempo.
 
-一旦你有了这个基础，未来的域名就会容易得多。您学习的每个新域都将比上一个域更容易。你只需要学习特定领域的词汇，偶尔还需要学习新的语法。
+Una vez que tengas esta base, los futuros nombres de dominio seran mucho mas faciles. Cada nuevo dominio que aprenda sera mas facil que el anterior. Solo necesitas aprender vocabulario especifico del dominio y ocasionalmente nueva gramatica.。
 
-有无数的领域可供选择，因此最好确定您特别感兴趣的内容，并首先解决这些问题。
+Hay innumerables areas para elegir, por lo que es mejor identificar lo que le interesa particularmente y abordarlo primero.。
 
-在决定您要投资哪些领域时，有两种方法需要考虑：
+Hay dos enfoques a considerar al decidir donde desea invertir：
 
-1.从你在NL中已经知道的域中转移知识。
+1.Desde que estuviste aquiNLTransferir conocimientos en un dominio que ya se conoce.。
 
-2.通过您的TL学习新域名。
+2.A traves de tuTLAprenda un nuevo nombre de dominio。
 
- **1）从您的NL转移知识** 
+ **1）De tuNLTransferir conocimientos** 
 
-对于您在NL中已经知道的域名，将该知识转移到您的TL中是很容易的。
+Para ti enNLNombres de dominio ya conocidos en , transfiere ese conocimiento a tuTLEs facil ganar。
 
-示例：烹饪
+Ejemplo: Cocinar
 
-如果你喜欢烹饪，并希望将这些知识传递给你的TL，那么请集中精力学习相关的烹饪词汇和消费与烹饪相关的内容。
+Si te encanta cocinar y quieres transmitir este conocimiento a tuTL，Luego, concentrate en aprender vocabulario de cocina relevante y consumir contenido relacionado con la cocina.。
 
-您在NL中可能熟悉的其他域名：
+tu eresNLOtros nombres de dominio con los que quizas estes familiarizado：
 
-- 幻想：指环王、龙与地下城。
+- Fantasia: El senor de los anillos, mazmorras y dragones。
 
--科幻小说：星际迷航，沙丘。
+-Ciencia ficcion: Star Trek, Dune。
 
--技术：计算机、编程
+-Tecnologia: Computadoras, Programacion.
 
-- 美容：化妆、时尚。
+- Belleza: Maquillaje, Moda。
 
--运动：足球（足球）、棒球、板球
+-Deportes: futbol americano (soccer), beisbol, cricket.
 
- **2）通过你的TL学习新东西** 
+ **2）A traves de tuTLAprende algo nuevo** 
 
-语言习得的最终目标是让语言变得透明。一旦你掌握了这门语言，你就可以停止*学习这门语言*，而是*通过*学习这门语言。
+El objetivo final de la adquisicion del lenguaje es hacer que el lenguaje sea transparente. Una vez que domines el idioma, puedes dejar de hacerlo.*Aprende el idioma*，En lugar*Pase*Aprende el idioma。
 
-互联网充满了教育内容和课程。通过注册这些课程，您可以同时学习一项新技能，同时巩固您的TL。
+Internet esta lleno de contenidos y cursos educativos. Al inscribirse en estos cursos, puede aprender una nueva habilidad mientras solidifica suTL。
 
-[Coursera]（https://coursera.com）提供数十门各种语言的课程。许多TL也有自己流行的电子学习平台。寻找这些，找到你感兴趣的课程，并把它们带去玩！
+[Coursera]（https://coursera.com）Ofrecer decenas de cursos en varios idiomas. muchosTLTambien tiene su propia plataforma popular de aprendizaje electronico. Buscalos para encontrar cursos que te interesen y llevalos a jugar.！
 
-学习领域示例
+Ejemplos de areas de aprendizaje
 
--科学：物理、化学、生物学、动物学、解剖学
+-Ciencias: Fisica, Quimica, Biologia, Zoologia, Anatomia
 
--电影制作：电影摄影、剪辑
+-Produccion cinematografica: cinematografia, edicion.
 
-- 历史
+- Historia
 
-政治
+Politica
 
-经济
+Economia
 
-- 锻炼
+- Ejercicio
 
-- 宗教：圣经、古兰经、律法
+- Religion: Biblia, Coran, Ley.
 
-### 4A 2。建立特定技能
+### 4A 2。Desarrolla habilidades especificas
 
-理解一个域的能力并不一定意味着你可以轻松舒适地复制它。仅仅因为你能理解公开演讲，并不意味着你擅长公开演讲。仅仅因为你能理解单口相声演员，并不意味着你可以做单口相声。
+La capacidad de comprender un dominio no significa necesariamente que puedas replicarlo facil y comodamente. El hecho de que puedas entender hablar en publico no significa que seas bueno en ello. El hecho de que puedas entender a un comediante no significa que puedas hacerlo.。
 
-这些技能超出了语言的流利程度，它们需要以你用母语发展这些技能的方式进行培训。
+Estas habilidades van mas alla de la fluidez del idioma, requieren entrenamiento de la misma manera que se desarrollan estas habilidades en su lengua materna.。
 
-例如，如果你想在你的TL中成为一名优秀的公共演讲者，那么你可以通过以下方式练习：
+Por ejemplo, si quieresTLPara convertirte en un excelente orador publico, puedes practicar de las siguientes maneras：
 
-- 阅读和聆听著名公共演讲者的演讲。
+- Lea y escuche a oradores publicos famosos.。
 
-- 跟踪那些演讲者并记住他们的演讲。
+- Sigue a los oradores y memoriza sus discursos.。
 
--在你的TL中参加公开演讲课程。
+-En tuTLToma un curso de oratoria。
 
--在你的TL中写作和练习你自己的演讲。
+-En tuTLEscribe y practica tus propios discursos.。
 
--在您的TL中聘请一名公开演讲教练，该教练将为您提供反馈。
+-En tuTLContrata a un entrenador de oratoria que te brindara comentarios.。
 
-如果您已经拥有母语的这些技能，那么大多数技能都会转移，但您需要使它们适应TL的文化。在你的NL中有趣的东西可能不会在你的TL中有趣。
+Si ya tienes estas habilidades en tu lengua materna, la mayoria de ellas se transferiran, pero tendras que adaptarlas.TLCultura. en tuNLEs posible que las cosas interesantes no esten en tuTLModeradamente interesante。
 
-以下是一些您可能想在TL中培养的技能示例：
+Aqui hay algunas cosas que quizas quieras considerarTLEjemplos de habilidades desarrolladas en：
 
--公开演讲
+-Hablar en publico
 
-- 单口喜剧和讲笑话
+- Comedia en vivo y chistes.
 
--调情
+-Coquetear
 
--正式写作
+-Escritura formal
 
-- 文学写作
+- Escritura literaria
 
--法律写作
+-Redaccion juridica
 
-- 专业的写作和口语
+- Escritura y oratoria profesional
 
--教学
+-Ensenanza
 
-- 谈判
+- Negociacion
 
-基于特定技能也让您有机会在TL中建立自己独特的角色。
+Desarrollar habilidades especificas tambien te brinda la oportunidad deTLCrea tu propio personaje unico en。
 
-到目前为止，你一直是一名演员，模仿你语言父母的角色。现在是你决定你想在TL中成为谁的机会。你口语、写作和肢体语言中的所有小怪癖和特质都是你角色的本质。这种精华贯穿任何领域，让你更真实。
+Hasta ahora has sido un actor, imitando los roles de tus padres linguisticos. Ahora depende de ti decidir en que quieres estar.TLLa oportunidad de convertirse en alguien. Todas las pequenas peculiaridades e idiosincrasias en tu habla, escritura y lenguaje corporal son la esencia de tu caracter. Esta esencia recorre cualquier ambito y te hace mas autentico。
 
-###标准化测试
+###Pruebas estandarizadas
 
-在某些时候，大多数学习者会想参加像CEFR这样的标准化测试，以证明他们在工作、大学或只是为自己的语言水平。
+En algun momento, la mayoria de los alumnos querran tomar una clase comoCEFRPruebas estandarizadas para demostrar su dominio del idioma en el trabajo, la universidad o simplemente para ellos mismos.。
 
-如果您不着急，那么Refold方法足以为测试做好准备。等到你觉得理解和说话非常舒服，测试应该很容易。
+Si no tienes prisa, entoncesRefoldEl metodo es adecuado para preparar la prueba. Espera hasta que te sientas muy comodo entendiendo y hablando, la prueba deberia ser facil.。
 
-但是，如果您的时间很短，需要快速通过这些测试，最好使用标准学习材料对其进行明确研究。其中许多测试都希望您了解在常规沉浸中可能不会遇到的词汇。明确学习考试将帮助您填补知识中的任何空白。
+Sin embargo, si tiene poco tiempo y necesita aprobar estas pruebas rapidamente, es mejor estudiarlas explicitamente utilizando materiales de estudio estandar. Muchas de estas pruebas esperan que conozcas vocabulario que quizas no encuentres en una inmersion regular. Clear Study Exam lo ayudara a llenar cualquier vacio en su conocimiento。
 
-### 4A 3。轻松聆听
+### 4A 3。Escucha facil
 
-到目前为止，您一直在轻松模式下收听：
+Hasta ahora has estado escuchando en Modo Facil：
 
-- 用耳机听
+- Escuche con auriculares
 
-- 聆听高质量的音频，没有噪音。
+- Escuche audio de alta calidad sin ruido。
 
-- 倾听发表演讲的专业人士。
+- Escuche a los profesionales dando presentaciones.。
 
--充分关注内容。
+-Presta total atencion al contenido.。
 
-在现实世界中倾听要困难得多。人们喃喃自语、结结巴巴和窃窃窃私语。你周围的世界很嘈杂，让你听不到每一个字。你的注意力会被你周围的干扰所分散：其他对话、汽车、风等。
+Escuchar en el mundo real es mucho mas dificil. La gente murmuraba, tartamudeaba y susurraba. El mundo que te rodea es demasiado ruidoso para que puedas escuchar cada palabra. Tu atencion se vera distraida por distracciones a tu alrededor: otras conversaciones, coches, viento, etc.。
 
-要轻松聆听，您需要：
+Para escuchar facilmente, necesitas：
 
--对这种语言感到如此自在，以至于你可以不费吹灰之力就能理解它。
+-Sientete tan comodo con el idioma que podras entenderlo sin esfuerzo。
 
--反复体验类似的对话，所以你几乎可以预测某人会说什么。
+-Experimenta conversaciones similares una y otra vez para que casi puedas predecir lo que alguien va a decir.。
 
--在嘈杂的环境中练习，训练你的大脑过滤掉噪音并专注于信号。
+-Practica en un ambiente ruidoso para entrenar tu cerebro a filtrar el ruido y concentrarse en la senal.。
 
-### 上下文推理
+### Razonamiento contextual
 
-Matt vs Japan有一个很棒的视频，标题是“*为什么你仍然无法理解你的目标语言？*”在[此时间戳]的部分（https://youtu.be/_LIz-Wbt4us?T=974），他描述了一种我们称之为“上下文推理”的现象。
+Matt vs JapanHay un gran video titulado“*Por que todavia no entiendes el idioma de destino？*”en[Esta marca de tiempo]parte de（https://youtu.be/_LIz-Wbt4us?T=974），Describe un fenomeno que llamamos "razonamiento contextual".。
 
-这个术语描述了你的大脑从上下文中“填空”的能力。如果你在嘈杂的环境中第一次遇到某人，并听到“____ 名字？”，你可以猜到他们问：“你叫什么名字？”。
+Este termino describe la capacidad de su cerebro para "completar los espacios en blanco" a partir del contexto. Si conoces a alguien por primera vez en un ambiente ruidoso y escuchas“____ ¿Nombre? ”, se puede adivinar que preguntaron: “¿Como te llamas?？”。
 
-通常，你的大脑做得如此之快，以至于你甚至没有意识到它正在发生。这种能力来自于数千小时的聆听和反复接触相同的情况。
+A menudo, tu cerebro lo hace tan rapido que ni siquiera te das cuenta de lo que esta sucediendo. Esta habilidad proviene de miles de horas de escucha y exposicion repetida a las mismas situaciones.。
 
-在上面的例子中，你可以预测你的新朋友说“你叫什么名字？”因为这是你第一次见到他们时最常问的问题之一。然而，你只知道这一点，因为你听过这句话，并且经历过数千次这种情况。
+En el ejemplo anterior, puedes predecir que tu nuevo amigo dira "¿Como te llamas?" porque esa es una de las preguntas mas comunes que haces cuando los conoces por primera vez. Sin embargo, solo lo sabes porque has escuchado este dicho y has estado en esta situacion miles de veces.。
 
-### 语言背景
+### Antecedentes linguisticos
 
-由于你的听力能力已经很强，被动和背景听力现在更有用。所以尽可能多地听！你花在语言上的时间越多，就越容易从上下文中猜测。最终，你将达到一个可以“完成某人的句子”的地步。
+Dado que sus habilidades para escuchar ya son solidas, la escucha pasiva y en segundo plano ahora es aun mas util. ¡Asi que escucha todo lo que puedas! Cuanto mas tiempo pases con el idioma, mas facil sera adivinarlo a partir del contexto. Con el tiempo, llegaras a un punto en el que podras "completar la frase de alguien".。
 
-### 情境
+### Situacion
 
-如果你还没有，是时候走出去，开始尽可能多地与真人交谈了。你需要重复对话数百次，这样你的大脑才能预测人们要说什么。
+Si aun no lo has hecho, es hora de salir y empezar a hablar con tantas personas reales como puedas. Necesitas repetir conversaciones cientos de veces para que tu cerebro pueda predecir lo que la gente va a decir。
 
-无论你有多先进，你都会偶尔误解别人说的话。这是正常和自然的，也发生在你的NL。
+No importa lo avanzado que seas, ocasionalmente malinterpretaras lo que alguien dice. Esto es normal y natural y le sucede a suNL。
 
-### 认真倾听
+### Escuche atentamente
 
-以下是增加听力难度的5种方法：
+Las siguientes son cosas que aumentan la dificultad de escuchar:5metodos：
 
-1.如果您还没有，请摘下耳机。您需要习惯于听来自其他音频源的干扰。
+1.Si aun no lo has hecho, quitate los auriculares. Necesita acostumbrarse a escuchar interferencias de otras fuentes de audio.。
 
-2.以低音量收听音频。
+2.Escuche audio a bajo volumen。
 
-3.在嘈杂的设置中收听音频：乘坐公共汽车时，或在嘈杂的餐厅。
+3.Escuche audio en entornos ruidosos: en el autobus o en un restaurante ruidoso。
 
-4.收听低质量的音频：打电话、语音留言和视频聊天。
+4.Escuche audio de baja calidad: llamadas telefonicas, mensajes de voz y chats de video.。
 
-5.如果您愿意，您可以使用该程序创建自己的嘈杂音频
+5.Si quieres, puedes usar este programa para crear tu propio audio ruidoso.
 
-大胆
+Negrita
 
-引入噪音的最佳过滤器是：
+El mejor filtro para introducir ruido es：
 
-- 失真效果
+- Efectos de distorsion
 
--噪音发生器
+-Generador de ruido
 
-- 回声效应
+- Efecto eco
 
-- 叠加两段音频，并尝试只听其中一条
+- Superponga dos piezas de audio e intente escuchar solo una de ellas.
 
-## 4B。努力达到本土水平
+## 4B。Esforzarse por alcanzar los estandares locales
 
-弥合流利度和原生度之间的差距是一个终生的过程。作为第二语言使用者，真正看起来是母语者是非常困难的。
+Cerrar la brecha entre fluidez y natividad es un proceso que dura toda la vida. Como hablante de una segunda lengua, es muy dificil parecer un hablante nativo.。
 
-每个母语人士一生都沉浸在母语和文化中。作为第二语言使用者，试图完全复制这一点将需要几十年的时间。
+Cada hablante nativo pasa toda su vida inmerso en su lengua y cultura nativas. Intentar replicar esto completamente como hablante de una segunda lengua llevaria decadas.。
 
-这不仅仅是口音的问题，而是文化历史和规范的问题。要达到“本土水平”，你需要了解当地人是如何长大的，以及他们一生是如何互动的。
+No se trata solo de una cuestion de acento, sino de historia y normas culturales. Para llegar al "nivel nativo" es necesario comprender como crecio la poblacion local y como interactuaron a lo largo de sus vidas.。
 
--他们经历了哪些文化活动塑造了他们的视角？
+-¿Que actividades culturales experimentaron moldearon sus perspectivas?？
 
-他们在学校学到了什么关于他们的社会，以及它如何融入世界其他地区？
+Lo que aprendieron en la escuela sobre su sociedad y como encaja con el resto del mundo.？
 
-- 他们是如何互动的？
+- Como interactuan？
 
-您可能熟悉“方法表演”的概念，其中演员在片场内外完全体现了他们的角色。努力达到本土水平就像方法行动。在你说话、行动和与他人互动的方式上，你将完全而深刻地采用母语者的角色。
+Probablemente estes familiarizado con el concepto de "metodo de actuacion", en el que los actores encarnan plenamente a sus personajes dentro y fuera del set. Intentar llegar al nivel local es como un metodo de accion. Adoptaras plena y profundamente el papel de un hablante nativo en la forma de hablar, actuar e interactuar con los demas.。
 
-### 4B 1.采用本土世界观
+### 4B 1.Adoptar una cosmovision local
 
-我们的世界观是由我们成长的社会塑造的。我们被教导的价值观，我们的教育方式，以及我们经历的世界事件。
+Nuestra vision del mundo esta determinada por la sociedad en la que crecemos. Los valores que nos ensenan, la forma en que nos educan y los acontecimientos mundiales que vivimos。
 
-一个中国人和一个在同一天出生的美国人将有完全不同的生活经历。他们会看不同的电视，他们会在学校学习不同的东西，并重视不同的世界事件
+Un chino y un estadounidense nacidos el mismo dia tendran experiencias de vida completamente diferentes. Ven television diferente, estudian cosas diferentes en la escuela y dan importancia a diferentes acontecimientos mundiales.
 
-你对本土世界观知识的差距并不是因为缺乏词汇。这是缺乏共同的文化经验。采用本土世界观意味着想象如果你出生在另一个国家，你的生活会是什么样。
+Las lagunas en su conocimiento de las cosmovisiones nativas no se deben a la falta de vocabulario. Esta es una falta de experiencia cultural compartida. Adoptar una cosmovision indigena significa imaginar como seria tu vida si nacieras en otro pais。
 
- **母语体验示例：** 
+ **Ejemplos de experiencias de hablantes nativos：** 
 
-流行文化
+cultura pop
 
-- 哪些电视节目受到你这个年龄段的母语人士的欢迎？
+- ¿Que programas de television son populares entre los hablantes nativos de tu edad?？
 
-- 讲母语的人在成长过程中读过哪些书？
+- ¿Que libros leyeron los hablantes nativos mientras crecian?？
 
-历史
+Historia
 
--哪些当前事件对您的目标语言的本地人影响最大？
+-¿Que eventos actuales tienen el mayor impacto en los hablantes nativos de su idioma de destino?？
 
--他们的社会关注哪些历史事件，他们忽视了哪些事件？
+-¿A que acontecimientos historicos prestan atencion sus sociedades y cuales ignoran?？
 
-教育
+Educacion
 
-- 他们需要上什么课？
+- ¿Que clases deben tomar?？
 
-- 他们的教科书教了他们什么？
+- ¿Que les ensenaron sus libros de texto?？
 
-- 他们被教导了什么道德和价值观？
+- ¿Que moral y valores les ensenaron?？
 
-获得一生的经历需要很长时间，而且没有多少人想这样做。至少，我们建议你和当地人谈谈他们的生活和成长经历。对他们的生活感到好奇。它有助于很好的对话，并将帮助你通过他们的眼睛看世界
+Se necesita mucho tiempo para adquirir la experiencia de su vida y no mucha gente quiere hacerlo. Como minimo, te recomendamos hablar con los lugarenos sobre sus vidas y su educacion. Tenga curiosidad sobre sus vidas. Es una gran conversacion y te ayudara a ver el mundo a traves de sus ojos.
 
-### 4B 2。拥抱文化
+### 4B 2。Abrazar la cultura
 
-每个社会都有关于如何在不同情况下相互行动的不言而喻的规则（又称社会规范）。在一种文化中被认为是礼貌的东西在另一种文化中可能被认为是粗鲁的。
+Cada sociedad tiene reglas tacitas (tambien conocidas como normas sociales) sobre como comportarse entre si en diferentes situaciones. Lo que se considera cortes en una cultura puede considerarse grosero en otra.。
 
- **例如：** 
+ **Por ejemplo：** 
 
--当有人在街上撞到你时，适当的反应是什么？
+-¿Cual es la respuesta adecuada cuando alguien te topa en la calle?？
 
-- 多久谈论一次你自己和你的成就是合适的？
+- ¿Con que frecuencia es apropiado hablar de ti y de tus logros?？
 
-- 对家庭成员刚刚去世的人说什么是正确的话？
+- ¿Cuales son las cosas correctas que decirle a alguien que acaba de morir en la familia?？
 
-- 说话时与某人站立的距离是多少？
+- ¿A que distancia debes pararte de alguien mientras hablas?？
 
-### 始终不一致：“你好吗？”
+### Siempre inconsistente: “¿Como estas?？”
 
-在世界各地，不同的文化都在处理“你好吗？”的问题。完全不同。在某些文化中，您需要给出预先包装的答案。在其他情况下，这是向对方讲述你生活的邀请。事实上，该应用程序[Tandem写了一篇关于这种确切现象的整篇文章。]（https://www.tandem.net/blog/how-are-you-around-the-world）
+En todo el mundo, diferentes culturas abordan la pregunta "¿Como estas?" Completamente diferente. En algunas culturas, se espera que usted de respuestas empaquetadas. En otros casos, es una invitacion a contarle a la otra persona sobre tu vida. De hecho, la aplicacion[TandemEscribi un articulo completo sobre este fenomeno exacto.。]（https://www.tandem.net/blog/how-are-you-around-the-world）
 
-如果你想表现得像个本地人，你需要解构你的文化偏见，并采纳你的TL社会的偏见
+Si quieres actuar como un nativo, necesitas deconstruir tus prejuicios culturales y adoptar tusTLPrejuicio social
 
-###人类学
+###Antropologia
 
-在这一点上，我们不再是语言学习者。我们是人类学家。我们正在研究外国社会的行为模式，并试图效仿这种行为。
+En este punto, ya no somos estudiantes de idiomas. Somos antropologos. Estamos estudiando los patrones de comportamiento de las sociedades extranjeras y tratando de emular este comportamiento.。
 
-注意到和采用这些文化规范的最简单方法是搬到你的目标语言国家，把自己嵌入到一群朋友中。您将能够观察他们的行为，复制他们，并依靠他们来纠正您的行为。
+La forma mas facil de notar y adoptar estas normas culturales es mudarse al pais donde se habla el idioma de destino e integrarse a un grupo de amigos. Podras observar sus comportamientos, copiarlos y confiar en ellos para corregir tu comportamiento.。
 
-您还可以通过阅读有关人类学和文化礼仪的书籍来明确研究文化规范。如果您想加快这个过程，您可以聘请像[“Minding Manners”]（https://www.mindingmanners.com/cross-cultural--training）这样的专家服务，教授商业和外交的国际礼仪。
+Tambien puedes estudiar las normas culturales explicitamente leyendo libros sobre antropologia y etiqueta cultural. Si desea acelerar el proceso, puede contratar a alguien como[“Minding Manners”]（https://www.mindingmanners.com/cross-cultural--training）Estos servicios de expertos ensenan etiqueta internacional en los negocios y la diplomacia.。
 
-### 4B 3.完善演讲
+### 4B 3.Perfecciona tu discurso
 
-###声音
+###sonido
 
-有些人有模仿和口音的天赋：想想具有完美音调的专业模仿者和歌手。他们仍然必须发挥自己的手艺，但他们有听别人听不到的东西的天赋，并有能力复制它们。
+Algunas personas tienen un don para la imitacion y los acentos: piense en imitadores profesionales y cantantes con tono perfecto. Todavia tienen que trabajar en su oficio, pero tienen el don de escuchar cosas que otros no pueden y la capacidad de replicarlas.。
 
-对于我们其他人来说，我们需要刻意练习听和模仿。与语言学习过程的其他部分一样，我们需要注意才能模仿。如果你听不到声音、口音或单词，那么几乎不可能模仿。
+El resto de nosotros necesitamos practicar deliberadamente escuchar e imitar. Como ocurre con otras partes del proceso de aprendizaje de un idioma, debemos prestar atencion para poder imitar. Si no puedes oir la voz, el acento o las palabras, es casi imposible imitarlo.。
 
-对自己诚实一秒钟：当听以TL为母语的人说话时，你能分辨出两种口音吗？如果你无法区分口音，那么你的听力不够先进，无法正确模仿口音。
+Se honesto contigo mismo por un segundo: escuchaTL¿Puedes notar la diferencia entre dos acentos cuando hablas con un hablante nativo? Si no puedes distinguir el acento, tu audicion no esta lo suficientemente avanzada para imitar el acento correctamente.。
 
-通过词汇，我们通过学习Anki中的单词来激发大脑的注意。对于声音，我们需要使用不同的工具。
+A traves del vocabulario, aprendemosAnkiUsa palabras para estimular la atencion de tu cerebro. Para los sonidos necesitamos usar diferentes herramientas.。
 
-在我们开始研究声音之前，重要的是要注意有多个层次的声音：
+Antes de empezar a analizar el sonido, es importante tener en cuenta que existen multiples capas de sonido.：
 
-1.根声音
+1.Sonido raiz
 
-2.话语
+2.Discurso
 
-3.短语
+3.Frases
 
 4.句子
 
-5. **根声级** 
+5. **Nivel de sonido de raiz** 
 
-每种语言都有一组不同的声音。不同语言中的两种声音可能看起来与未经训练的耳朵相似，但实际上非常不同。
+Cada idioma tiene un conjunto diferente de sonidos. Dos sonidos en diferentes idiomas pueden parecer similares para un oido no entrenado, pero en realidad son muy diferentes。
 
-在第一阶段，我们建议研究你的TL的声音。现在是重温这项研究的好时机。你有数千小时接触这种语言，并且能够更理解合理的学习。
+En la primera etapa te recomendamos investigar tuTLsonido. Ahora es un buen momento para revisar esta investigacion. Tienes miles de horas de exposicion al idioma y eres mas capaz de comprender el aprendizaje razonable.。
 
-研究国际音标和TL中可能的根音阵列也很有用。这可以帮助您注意到看起来相似但实际上不同的声音。
+Estudiar el Alfabeto Fonetico Internacional yTLLa variedad de posibles notas fundamentales tambien es util. Esto puede ayudarle a notar sonidos que parecen similares pero que en realidad son diferentes.。
 
-练习制作每个声音，以确保您正确发音根音。
+Practica hacer cada sonido para asegurarte de pronunciar el sonido raiz correctamente.。
 
-如果您正在学习日语，[Kotu.io]（http://Kotu.io）音高口音训练器是学习如何用日语听不同音高的绝佳工具。
+Si estas aprendiendo japones，[Kotu.io]（http://Kotu.io）Pitch Accent Trainer es una gran herramienta para aprender a escuchar diferentes tonos en japones.。
 
-1. **单词级别** 
+1. **Nivel de palabra** 
 
-仅仅因为你可以孤立地发出声音并不意味着你一句话就能发出声音。单字合唱是测试您是否能像本地人那样准确听到和重现单词的好方法。
+El hecho de que puedas emitir un sonido de forma aislada no significa que puedas emitir un sonido en una frase. Los coros de palabras son una excelente manera de comprobar si puedes escuchar y reproducir palabras con tanta precision como un hablante nativo.。
 
-如果您不熟悉合唱（又名Flow-verlapping），请查看[此视频]（https://www.youtube.com/watch?v=jEStFcRQSbE）来自[模拟方法]（https://www.youtube.com/c/MimicMethod）。它允许您直观地看到您的发音与本地人的不同之处。
+Si no estas familiarizado con el coro (tambien conocido comoFlow-verlapping），Por favor verifique[Este video]（https://www.youtube.com/watch?v=jEStFcRQSbE）de[Metodo de simulacion]（https://www.youtube.com/c/MimicMethod）。Te permite ver visualmente en que se diferencia tu pronunciacion de la de los hablantes nativos.。
 
-1. **短语级别** 
+1. **Nivel de frase** 
 
-许多单词配对会导致单个单词的声音发生变化。如果你看过Matt的视频“[*为什么你仍然无法理解你的目标语言*]（https://www.youtube.com/watch?v=_LIz-Wbt4us）”，他举了各种例子，例如“*Don't you want*”变成“*donchyawanna*”。
+Muchas combinaciones de palabras pueden provocar cambios en los sonidos de palabras individuales. si has vistoMattVideos“[*Por que todavia no entiendes el idioma de destino*]（https://www.youtube.com/watch?v=_LIz-Wbt4us）”，Dio varios ejemplos, p.e.“*Don't you want*”convertirse“*donchyawanna*”。
 
-这些声音变化存在于整个语言中，并且不断变化。当您在沉浸感中注意到这些变化之一时，您可以提取音频并使用合唱来使您的发音与本地人发音保持一致。
+Estas variaciones de sonido existen en todo el idioma y cambian constantemente. Cuando notes uno de estos cambios en Inmersion, puedes extraer el audio y usar coro para alinear tu pronunciacion con la de los hablantes nativos.。
 
-1. **句子级别** 
+1. **Nivel de oracion** 
 
-在句子层面，我们需要学会听到*流*：节奏、韵律和语调。获得正确的语言流动是让你听起来真正母语的原因。
+A nivel de oracion, necesitamos aprender a escuchar.*fluir*：Ritmo, ritmo y entonacion. Hablar correctamente tu idioma es lo que te hace parecer verdaderamente nativo。
 
-这就是[Shadowing]（https://refold.la/simplified/stage-3/b/pronunciation#Shadowing）发挥作用的地方。正如我们在第3阶段所讨论的，跟踪有助于改善您的流程。与合唱相反，阴影是连续实时完成的。这迫使你放开各个发音片段，专注于语言的句子水平流。
+Esto es[Shadowing]（https://refold.la/simplified/stage-3/b/pronunciation#Shadowing）Donde entra en juego. Como hicimos en el Capitulo3Como se analizo en las etapas, el seguimiento puede ayudar a mejorar sus procesos. A diferencia del coro, el sombreado se realiza de forma continua y en tiempo real. Esto te obliga a dejar de lado los fragmentos individuales y concentrarte en el flujo del lenguaje a nivel de oracion.。
 
-为了在流程上工作，我们建议这些活动（按难度顺序排列）：
+Para trabajar el proceso recomendamos estas actividades (en orden de dificultad)）：
 
-1.重复完整的句子：重复句子，直到它们听起来很自然。
+1.Repetir oraciones completas: Repetir oraciones hasta que suenen naturales.。
 
-2.更正阅读：与母语者一起大声朗读，以纠正你。他们不仅需要纠正你的发音，还需要纠正你发出的细微差别和感觉。
+2.Lectura correctiva: Lee en voz alta con un hablante nativo para que te corrija. No solo necesitan corregir tu pronunciacion, sino tambien los matices y la sensacion de tus sonidos.。
 
-3.用成绩单跟踪
+3.Seguimiento con transcripciones
 
-4.没有成绩单的阴影
+4.Sin sombra de transcripciones
 
-5.赝品
+5.Falsificacion
 
-### 获取帮助
+### Consigue ayuda
 
-当演员想为电影完善口音时，他们会聘请一名口音/方言教练与之合作。这些教练将帮助您注意到听起来不对劲的事情，并帮助您将精力集中在您所面临的特定口音挑战上。
+Cuando los actores quieren perfeccionar su acento para una pelicula, contratan un acento./Los entrenadores de dialectos trabajan con ellos. Estos entrenadores te ayudaran a notar cosas que suenan mal y te ayudaran a concentrarte en los desafios de acento especificos que enfrentas.。
 
-讲母语的人也有助于告诉你你的流程何时“感觉不对”，但他们通常无法确定原因。邀请您的母语朋友为您提供此类反馈。
+Los hablantes nativos tambien pueden ser utiles para indicarle cuando su proceso "simplemente no parece correcto", pero a menudo no pueden determinar por que. Invita a tus amigos nativos para que te brinden este tipo de comentarios.。
 
-## 短语
+## Frases
 
-听起来像本地人的另一个主要障碍是你如何表达你的想法。很容易回到你的NL，以一种在你的TL中听起来不自然的方式说话。
+Otro obstaculo importante para parecer nativo es como expresas tus ideas. Es facil volver a tuNL，De una manera que este en tuTLHabla de una manera poco natural.。
 
-在你的TL中，通常有多种说同样的话。对你来说最有意义的那个可能会在你的TL中感到错误。
+En tuTLSuele haber varias formas de decir lo mismo. El que mas significa para ti puede estar en tuTLSentirse mal。
 
-例如：
+Por ejemplo：
 
-如果一个英语学习者说“我倒车了”，这在语法上是正确的，每个人都会理解，但更自然地说：
+Si un estudiante de ingles dice "reverti", esto es gramaticalmente correcto y todos lo entenderan, pero es mas natural decir：
 
-1.我倒车了。
+1.Di marcha atras al auto。
 
-2.我把车倒车了。
+2.Pongo el auto en reversa。
 
-3.我把车倒车开。
+3.Pongo el auto en reversa y conduzco。
 
-留意这些类型的短语，并确保复制母语者说的话。
+Este atento a este tipo de frases y asegurese de copiar lo que diria un hablante nativo。
 
-# 最终笔记
+# Notas finales
 
-语言学习是一种终生的追求。你不仅仅是在学习一项技能，你还在创造一个全新的身份。由每个学习者来决定他们一生中有多少致力于这种语言，以及他们想实现什么。
+El aprendizaje de idiomas es una busqueda que dura toda la vida. No solo estas aprendiendo una habilidad, sino que estas creando una identidad completamente nueva. Depende de cada alumno decidir cuanto de su vida quiere dedicar al idioma y que quiere lograr.。
 
-无论你选择什么，都要为你在过程的每个阶段所取得的成就感到自豪。
+Elijas lo que elijas, sientete orgulloso de lo que logras en cada etapa del proceso.。

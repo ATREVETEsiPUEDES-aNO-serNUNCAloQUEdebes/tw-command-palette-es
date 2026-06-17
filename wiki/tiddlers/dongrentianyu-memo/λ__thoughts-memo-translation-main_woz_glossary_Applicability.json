@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/woz/glossary/Applicability",
-        "text": "# 适用性\r\n\r\n原文：[Applicability - supermemo.guru](https://supermemo.guru/wiki/Applicability)\r\n\r\n **适用性** 是知识的一种属性，它使人们可以在大量的情况下轻松使用它。例如，力的公式： **F=ma** 适用于内燃机、结构工程等方面。它也适用于跳远和拳击。\r\n\r\n **适用性** 是依赖于领域的。这意味着一个高度适用的公式在一个特定的领域可能没有什么用处。例如，在艺术绘画中可能很难使用力的公式。\r\n\r\n **适用性** 与 **[抽象性](https://supermemo.guru/wiki/Abstractness)** （即与细节的分离）相关。 **抽象知识** 是在 **[泛化](https://supermemo.guru/wiki/Generalization)** 的过程中从事实/细节中衍生出来的，构成了[人类智慧](https://supermemo.guru/wiki/Human_intelligence)的基础。\r\n\r\n更多信息请见：[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)",
+        "text": "# Aplicabilidad\r\n\r\nTexto original：[Applicability - supermemo.guru](https://supermemo.guru/wiki/Applicability)\r\n\r\n **Aplicabilidad** Es una propiedad del conocimiento que permite a las personas utilizarlo facilmente en una gran cantidad de situaciones. Por ejemplo, la formula de la fuerza.： **F=ma** Adecuado para motores de combustion interna, ingenieria estructural, etc. Tambien es adecuado para salto de longitud y boxeo.。\r\n\r\n **Aplicabilidad** depende del dominio. Esto significa que una formula altamente aplicable puede ser de poca utilidad en un dominio particular. Por ejemplo, puede resultar dificil utilizar la formula de la fuerza en una pintura artistica.。\r\n\r\n **Aplicabilidad** Con **[Abstraccion](https://supermemo.guru/wiki/Abstractness)** （es decir, relacionado con la separacion de detalles)。 **Conocimiento abstracto** esta en **[Generalizacion](https://supermemo.guru/wiki/Generalization)** El proceso de partir de los hechos/Derivados de detalles, constituyen[Inteligencia humana](https://supermemo.guru/wiki/Human_intelligence)La base de。\r\n\r\nPara mas informacion ver：[Conocimiento abstracto](https://supermemo.guru/wiki/Abstract_knowledge)",
         "type": "text/markdown",
-        "caption": " 适用性\r",
+        "caption": " Aplicabilidad\r",
         "modified": "20230930171250230",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Applicability"
     }

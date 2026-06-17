@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/rice/learning/Representing impossibilities",
-        "text": "# 表示不可能的情况\r\n\r\n原文：[Representing impossibilities](https://wiki.issarice.com/wiki/Representing_impossibilities)\r\n\r\n数学中经常需要处理不可能的情况（比如使用反证法证明时）。在[可探索解释](https://wiki.issarice.com/wiki/Explorable_explanation)中，如何可靠地表示这些不可能的情况？\r\n\r\n如果你要用反证法证明，你必须找个办法来在视觉上呈现不可能的情况！\r\n\r\n## 参见\r\n\r\n* [可探索媒介中的有限对象假设](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media)\r\n\r\n## 链接到本文\r\n\r\n* [可探索媒介的有限对象假设](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Finiteness+assumption+in+explorable+media))\r\n\r\n* [可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← 链接](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))",
+        "text": "# Para expresar una situacion imposible\r\n\r\nTexto original：[Representing impossibilities](https://wiki.issarice.com/wiki/Representing_impossibilities)\r\n\r\nEn matematicas, a menudo es necesario lidiar con situaciones imposibles (como cuando se utiliza prueba por contradiccion). en[Explicaciones explorables](https://wiki.issarice.com/wiki/Explorable_explanation)Como representar de forma fiable estas situaciones imposibles en？\r\n\r\nSi vas a probar por contradiccion, debes encontrar una manera de representar visualmente la situacion imposible.！\r\n\r\n## Ver\r\n\r\n* [Suposicion de objeto limitada en medios explorables.](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media)\r\n\r\n## Enlace a este articulo\r\n\r\n* [Hipotesis de objeto limitado de medios explorables.](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media) ‎ ([← links](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Finiteness+assumption+in+explorable+media))\r\n\r\n* [Explicaciones explorables](https://wiki.issarice.com/wiki/Explorable_explanation) ‎ ([← Enlaces](https://wiki.issarice.com/index.php?title=Special:WhatLinksHere&target=Explorable+explanation))",
         "type": "text/markdown",
-        "caption": " 表示不可能的情况\r",
+        "caption": " Para expresar una situacion imposible\r",
         "modified": "20230930171250229",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Representing impossibilities"
     }

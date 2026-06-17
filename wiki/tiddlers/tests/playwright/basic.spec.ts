@@ -24,8 +24,8 @@ test('opens and closes the command palette', async ({ page }) => {
 test('shows Chinese help items in help mode', async ({ page }) => {
   await openCommandPalette(page, '?');
 
-  await expect(page.locator(palettePanelSelector)).toContainText('命令菜单用法');
-  await expect(page.locator(palettePanelSelector)).toContainText('系统条目');
-  await expect(page.locator(palettePanelSelector)).toContainText('筛选器');
-  await expect(page.locator(palettePanelSelector)).toContainText('用户条目');
+  await expect(page.locator(palettePanelSelector)).toContainText('Uso del menu de comandos');
+  await expect(page.locator(palettePanelSelector)).toContainText('Entradas del sistema');
+  await expect(page.locator(palettePanelSelector)).toContainText('Filtrar');
+  await expect(page.locator(palettePanelSelector)).toContainText('Entradas de usuario');
 });

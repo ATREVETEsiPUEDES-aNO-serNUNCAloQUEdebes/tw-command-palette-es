@@ -1,105 +1,105 @@
-## [文献综述](https://www.gwern.net/Spaced-repetition#literature-review)
+## [Revision de la literatura](https://www.gwern.net/Spaced-repetition#literature-review)
 
-但是不要轻信我的话—— **不随他人之言** ！要用科学说话。当然，如果你真的相信我的话，你可能只想阅读间隔重复的使用方法和各种花式应用，所以我建议你[直接跳到这里](https://www.gwern.net/Spaced-repetition#using-it)。其他人，我们从头开始：
+Pero no confies en mi palabra—— **No sigas lo que dicen los demas** ！Dejemos que la ciencia hable por si misma. Por supuesto, si realmente crees en mi palabra, probablemente solo quieras leer sobre como se usa la repeticion espaciada y todas las aplicaciones sofisticadas, asi que te sugiero[Salta directamente aqui](https://www.gwern.net/Spaced-repetition#using-it)。Todos los demas, empezamos desde cero.：
 
-### [背景：测试有效果！](https://www.gwern.net/Spaced-repetition#background-testing-works)
+### [Antecedentes: la prueba funciona！](https://www.gwern.net/Spaced-repetition#background-testing-works)
 
-> 「把课文阅读二十遍之后背诵，效果不如把课文阅读十遍，并且时不时尝试背诵，记不住了就翻阅一下。」—— **[The New Organon](https://en.wikipedia.org/wiki/The_New_Organon)** ，[Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon)
+> 「Leer el texto veinte veces y luego memorizarlo no es tan efectivo como leer el texto diez veces, e intenta memorizarlo de vez en cuando, y leelo si no puedes recordarlo.。」—— **[The New Organon](https://en.wikipedia.org/wiki/The_New_Organon)** ，[Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon)
 
-[测试效应](https://en.wikipedia.org/wiki/Testing_effect)是广受承认的心理学现象，表明了单纯测试记忆的行为就会增强记忆（无论是否有反馈）。既然[间隔重复](https://en.wikipedia.org/wiki/Spaced_repetition)的本质就是在特定的日子进行测试，我们便能得出测试比普通复习或者学习有更好的效果，而且不仅适用于记忆随便一个日期。下列是一些有关论文：
+[Efectos de prueba](https://en.wikipedia.org/wiki/Testing_effect)Es un fenomeno psicologico ampliamente reconocido que demuestra que el mero acto de poner a prueba un recuerdo lo mejora (con o sin retroalimentacion). ahora que[Repeticion espaciada](https://en.wikipedia.org/wiki/Spaced_repetition)La esencia es realizar el examen en un dia especifico, y podemos concluir que el examen tiene un mejor efecto que la revision o el estudio ordinario, y no solo es adecuado para memorizar cualquier fecha. A continuacion se presentan algunos articulos relevantes.：
 
 1. Allen, G.A., Mahler, W.A., & Estes, W.K. (1969). [“Effects of recall tests on long-term retention of paired associates”](https://www.gwern.net/docs/spaced-repetition/1969-allen.pdf)⁠. *Journal of Verbal Learning and Verbal Behavior*, 8, 463-470
 
-   进行一次测试，一天之后的记忆强度相当于学习 5 次；与集中回顾相比，间隔可以提高保留率。
+   Haz una prueba y un dia despues la fuerza de la memoria equivale al aprendizaje. 5 veces; el espaciado puede mejorar la retencion en comparacion con las retrospectivas enfocadas。
 
 2. Karpicke & Roediger (2003). [“The Critical Importance of Retrieval for Learning”](https://www.gwern.net/docs/www/www.wsu.edu/992e041a4a60ef70f816fadb6ac3ecc7409ba6c1.html)
 
-   学习斯瓦希里语词汇的实验中，学生遵循不同的流程，有的接受测试，有的学习，有的两者都做；学习阶段各组得分相似。研究人员要求学生预测他们能记住的词汇所占比重 （所有小组的预测的平均值是 50%）。一周后，接受测试的学生记住了大约 80% 的词汇，而没有测试的学生记住了大约 35%。一些学生测试或学习的时长比其他学生更久，然而一旦记忆成型了，[收益递减](https://en.wikipedia.org/wiki/Diminishing_returns)便如影随形。学生们报告说，他们很少测试自己，也很少测试已经学过的内容。
+   En el experimento de aprender vocabulario suajili, los estudiantes siguieron diferentes procedimientos: algunos fueron evaluados, otros estudiaron y otros hicieron ambas cosas; los grupos obtuvieron puntuaciones similares durante la fase de aprendizaje. Los investigadores pidieron a los estudiantes que predijeran la proporcion de palabras que recordarian (el promedio de todas las predicciones del grupo fue 50%）。Despues de una semana, los estudiantes evaluados recordaron aprox. 80% de vocabulario, mientras que los estudiantes que no fueron evaluados recordaron aprox. 35%。Algunos estudiantes tardan mas en realizar los examenes o estudiar que otros, pero una vez que se forma la memoria，[Rendimientos decrecientes](https://en.wikipedia.org/wiki/Diminishing_returns)Como una sombra. Los estudiantes informan que rara vez se ponen a prueba a si mismos o a lo que han aprendido.。
 
-   总结：同样，与学习相比，测试可以改善记忆。而且，没有学生知道这一点。
+   Resumen: Nuevamente, las pruebas mejoran la memoria en comparacion con el estudio. Y ningun estudiante sabe esto.。
 
 3. Roediger & Karpicke (2006a). [“Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention”](https://www.gwern.net/docs/spaced-repetition/2006-roediger.pdf)
 
-   学生在读完文章 5 分钟、2 天、1 周后就文章阅读理解接受考查（没有反馈）。5 分钟之后考查，学习材料完胜测试，但其他时刻后就不一样了；然而学生认为，无论何时接受考查，学习都胜过测试一筹。1 周之后，测试成绩为 60%，而学习为 40%。
+   Los estudiantes estan leyendo el articulo. 5 minutos、2 dias、1 Despues de la semana, se le evaluara su comprension lectora del articulo (sin comentarios)）。5 Cuando se evaluo minutos mas tarde, el estudio del material supero la prueba, pero no en otros momentos; sin embargo, los estudiantes creian que estudiar el material superaba la prueba cada vez que los examinaban.。1 Semanas mas tarde, la puntuacion del examen es 60%，Y aprender es 40%。
 
-   总结：与学习相比，测试更能改善记忆。所有人（老师&学生）“觉得”恰好相反。
+   Resumen: Los examenes mejoran la memoria mas que estudiar. todos (maestro&Los estudiantes) “sienten” exactamente lo contrario。
 
 4. Karpicke & Roediger (2006a). [“Expanding retrieval promotes short-term retention, but equal interval retrieval enhances long-term retention”](https://www.gwern.net/docs/www/learninglab.psych.purdue.edu/054c41f268107e2212dc3d590c957ebc0d05701a.pdf)
 
-   一般科学散文理解；摘自 Roediger & Karpicke 2006b：「两天后，初次测试比重复学习的记忆效果更好 (68% 比 54%)，一周后再观察，测试比重复学习仍有优势 (56% 比 42%)。」
+   Comprension general de la prosa cientifica; extraido de Roediger & Karpicke 2006b：「Dos dias despues, la prueba inicial da como resultado una mejor retencion que el estudio repetido (68% que 54%)，Observar nuevamente despues de una semana. Las pruebas todavia tienen ventajas sobre el aprendizaje repetido. (56% que 42%)。」
 
 5. Roediger & Karpicke (2006b). [“The Power of Testing Memory: Basic Research and Implications for Educational Practice”](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.858.5753&rep=rep1&type=pdf)
 
-   文献综述：有 7 项1941 年之前的研究证明测试可以提高保留率，而在 1941 年之后的研究也有 6 项。另见综述 [“Spacing Learning Events Over Time: What the Research Says”](https://www.gwern.net/docs/www/phase-6.de/0d2f19701a0d5d5d6d46cfcb02202a126ad7c474.pdf) & [“Using spacing to enhance diverse forms of learning: Review of recent research and implications for instruction”](https://www.gwern.net/docs/www/laplab.ucsd.edu/9caf1988b2238f23ddb55be5b756d0cee4e7bd33.pdf)⁠, Carpenter et al 2012。
+   Revision de la literatura: Si 7 articulos1941 Hace anos, las investigaciones demostraron que las pruebas mejoran la retencion; 1941 Tambien hay estudios despues del ano. 6 Articulo. Ver tambien resena [“Spacing Learning Events Over Time: What the Research Says”](https://www.gwern.net/docs/www/phase-6.de/0d2f19701a0d5d5d6d46cfcb02202a126ad7c474.pdf) & [“Using spacing to enhance diverse forms of learning: Review of recent research and implications for instruction”](https://www.gwern.net/docs/www/laplab.ucsd.edu/9caf1988b2238f23ddb55be5b756d0cee4e7bd33.pdf)⁠, Carpenter et al 2012。
 
 6. Agarwal et al 2008, [“Examining the Testing Effect with Open- and Closed-Book Tests”](https://pdfs.semanticscholar.org/7521/c9adbe66cb2e777f37b6b00e97f5f95633c2.pdf)
 
-   与 #2 一样，从长远来看，更纯粹的测试形式（也就是开卷测试而非闭卷测试）表现得更好，学生对于哪种测试更有效果上是受蒙蔽的。
+   Con #2 Del mismo modo, las formas mas puras de pruebas (es decir, pruebas a libro abierto en lugar de pruebas a libro cerrado) funcionan mejor a largo plazo y los estudiantes se enganan sobre que prueba es mas efectiva.。
 
 7. Bangert-Drowns et al 1991. [“Effects of frequent classroom testing”](https://www.gwern.net/docs/spaced-repetition/1991-bangertdrowns.pdf)
 
-有 35 项研究在学期中展开各式测试。对这些研究进行元分析，发现 29 例发现测试有好处；5 例发现有坏处；1 例结果为无效果。元分析发现，即使只测试一次，也会带来巨大的好处，之后回报就会递减。
+Si 35 El estudio realiza diversas pruebas durante el semestre. Un metaanalisis de estos estudios encontro que 29 Ejemplos de beneficios encontrados en las pruebas.；5 Los estudios de caso tienen desventajas；1 El resultado no es ningun efecto. El metanalisis encuentra enormes beneficios al realizar pruebas incluso una vez, con rendimientos decrecientes despues de eso.。
 
-8. Cook 2006, [“Impact of self-assessment questions and learning styles in Web-based learning: a randomized, controlled, crossover trial”](https://www.gwern.net/docs/spaced-repetition/2006-cook.pdf)⁠；医生（住院医师）带着问题学习的话，最终得分更高。
+8. Cook 2006, [“Impact of self-assessment questions and learning styles in Web-based learning: a randomized, controlled, crossover trial”](https://www.gwern.net/docs/spaced-repetition/2006-cook.pdf)⁠；Los medicos (residentes) que estudian con preguntas obtendran puntuaciones mas altas al final。
 
-9. Johnson & Kiviniemi 2009, [“The Effect of Online Chapter Quizzes on Exam Performance in an Undergraduate Social Psychology Course”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747780/)（「这项研究考察了基于掌握学习理论的每周强制阅读测验对于提高考试和课程表现的有效程度。能完成阅读测验与更好的考试和课程表现有关。」)；另见 [McDaniel et al 2012](https://www.gwern.net/docs/spaced-repetition/2012-mcdaniel.pdf)⁠。
+9. Johnson & Kiviniemi 2009, [“The Effect of Online Chapter Quizzes on Exam Performance in an Undergraduate Social Psychology Course”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747780/)（「Este estudio examino hasta que punto las pruebas de lectura semanales obligatorias basadas en la teoria del aprendizaje del dominio fueron efectivas para mejorar el rendimiento en los examenes y en los cursos. Ser capaz de completar pruebas de lectura se asocia con un mejor rendimiento en las pruebas y en los cursos.。」)；Ver tambien [McDaniel et al 2012](https://www.gwern.net/docs/spaced-repetition/2012-mcdaniel.pdf)⁠。
 
 10. Metsämuuronen 2013, [“Effect of Repeated Testing on the Development of Secondary Language Proficiency”](http://www.ccsenet.org/journal/index.php/jedp/article/download/19582/15080)
 
-11. Meyer & Logan 2013, [“Taking the Testing Effect Beyond the College Freshman: Benefits for Lifelong Learning”](https://www.gwern.net/docs/spaced-repetition/2013-meyer.pdf)⁠; 证实测试效应在老年人中与年轻人有相近的[效应量](https://en.wikipedia.org/wiki/Effect_sizes)
+11. Meyer & Logan 2013, [“Taking the Testing Effect Beyond the College Freshman: Benefits for Lifelong Learning”](https://www.gwern.net/docs/spaced-repetition/2013-meyer.pdf)⁠; Confirma que los efectos de las pruebas son similares en adultos mayores que en adultos mas jovenes[Tamano del efecto](https://en.wikipedia.org/wiki/Effect_sizes)
 
 12. Larsen & Butler 2013, [“Test-enhanced learning”](https://www.gwern.net/docs/spaced-repetition/2013-larsen.pdf)
 
 13. Yang et al 2021, [“Testing (Quizzing) Boosts Classroom Learning: A Systematic And Meta–Analytic Review”](https://www.gwern.net/docs/spaced-repetition/2021-yang.pdf)
 
-（可能有人会忍不住反对，称测试只能对 **某些** [学习风格](https://en.wikipedia.org/wiki/Learning_styles)有效，也许只对语言型学习风格有效。这种判断尚未得到证实，主要是因为学习风格的实验研究质量不高，而且对于学习风格本身是否存在这一点，现存证据还众说纷纭[24](https://www.gwern.net/Spaced-repetition#sn24)）
+（Algunas personas pueden verse tentadas a objetar, diciendo que las pruebas solo pueden **Ciertos** [Estilo de aprendizaje](https://en.wikipedia.org/wiki/Learning_styles)Efectivo, tal vez solo para estilos de aprendizaje verbal. Esta afirmacion aun no ha sido confirmada, principalmente porque la investigacion experimental sobre los estilos de aprendizaje es de baja calidad y la evidencia existente sobre si los estilos de aprendizaje en si existen es contradictoria.[24](https://www.gwern.net/Spaced-repetition#sn24)）
 
-#### [学科](https://www.gwern.net/Spaced-repetition#subjects)
+#### [Asunto](https://www.gwern.net/Spaced-repetition#subjects)
 
-上述研究经常使用词-释义对或者单词表作为研究材料。测试效应推广到其他领域效果如何？
+Los estudios anteriores suelen utilizar palabras.-Pares de definiciones o listas de palabras como materiales de investigacion. ¿Como se generaliza el efecto de la prueba a otros campos?？
 
-测试有益学习的材料：
+Pruebe materiales de aprendizaje utiles：
 
-- 外语词汇 (eg. Karpicke & Roediger 2003, [Cepeda et al 2009](https://www.gwern.net/docs/www/www.cs.colorado.edu/e7d29d6554061a04ee000fa703f4f1ba6dccd7b5.pdf)⁠, Fritz et al 2007[25](https://www.gwern.net/Spaced-repetition#sn25)⁠, [de la Rouviere 2012](https://www.gwern.net/docs/www/scholar.sun.ac.za/9578b93726899111f4a3d03bffc7d36f0f02d14d.pdf))
+- Vocabulario de lenguas extranjeras. (eg. Karpicke & Roediger 2003, [Cepeda et al 2009](https://www.gwern.net/docs/www/www.cs.colorado.edu/e7d29d6554061a04ee000fa703f4f1ba6dccd7b5.pdf)⁠, Fritz et al 2007[25](https://www.gwern.net/Spaced-repetition#sn25)⁠, [de la Rouviere 2012](https://www.gwern.net/docs/www/scholar.sun.ac.za/9578b93726899111f4a3d03bffc7d36f0f02d14d.pdf))
 
-- [GRE](https://en.wikipedia.org/wiki/GRE) 材料 (比如词汇题，[Kornell 2009](https://www.gwern.net/docs/www/sites.williams.edu/0b05297b47a1cfa08a95b83f49e8d254b1eefc84.pdf)); 关于一般科学话题的文章 (Karpicke & Roediger, 2006a; Pashler et al, 2003)
+- [GRE](https://en.wikipedia.org/wiki/GRE) Materiales (Por ejemplo, preguntas de vocabulario.，[Kornell 2009](https://www.gwern.net/docs/www/sites.williams.edu/0b05297b47a1cfa08a95b83f49e8d254b1eefc84.pdf)); Articulos sobre temas cientificos generales. (Karpicke & Roediger, 2006a; Pashler et al, 2003)
 
-- 百科问答 ([McDaniel & Fisher 1991](https://www.gwern.net/docs/spaced-repetition/1991-mcdaniel.pdf))
+- Preguntas y respuestas de la enciclopedia ([McDaniel & Fisher 1991](https://www.gwern.net/docs/spaced-repetition/1991-mcdaniel.pdf))
 
-- 小学和中学的课程，如传记材料和科学 ([Gates 1917](https://www.archive.org/details/recitationasafa00gategoog)⁠;由 [Spitzer 1939](https://www.gwern.net/docs/spaced-repetition/1939-spitzer.pdf)[26](https://www.gwern.net/Spaced-repetition#sn26) 和 Vlach & Sandhofer 2012[27](https://www.gwern.net/Spaced-repetition#sn27)⁠ 分别研究)
+- Cursos de escuela primaria y secundaria como material biografico y de ciencias. ([Gates 1917](https://www.archive.org/details/recitationasafa00gategoog)⁠;Por [Spitzer 1939](https://www.gwern.net/docs/spaced-repetition/1939-spitzer.pdf)[26](https://www.gwern.net/Spaced-repetition#sn26) y Vlach & Sandhofer 2012[27](https://www.gwern.net/Spaced-repetition#sn27)⁠ Estudia por separado)
 
-- Agarwal et al (2008): 简答测试对于教科书段落效果拔群
+- Agarwal et al (2008): Las pruebas de respuesta corta funcionan mejor en pasajes de libros de texto
 
-- 历史教科书；一开始使用简答题而不是选择题可以更好提升保留率 ([Nungester & Duchastel 1982](https://www.gwern.net/docs/spaced-repetition/1982-nungester.pdf))
+- Libros de texto de historia; El uso inicial de preguntas de respuesta corta en lugar de preguntas de opcion multiple puede mejorar las tasas de retencion. ([Nungester & Duchastel 1982](https://www.gwern.net/docs/spaced-repetition/1982-nungester.pdf))
 
-- [LaPorte & Voss (1975)](https://www.gwern.net/docs/spaced-repetition/1975-laporte.pdf) 也发现测试效应下保留率比选择题或再认题高
+- [LaPorte & Voss (1975)](https://www.gwern.net/docs/spaced-repetition/1975-laporte.pdf) Tambien se encontro que la tasa de retencion bajo el efecto de la prueba era mayor que la de las preguntas de opcion multiple o las preguntas de nuevo reconocimiento.
 
-- [Duchastel & Nungester, 1981](https://www.gwern.net/docs/spaced-repetition/1981-duchastel): 在测试 6 个月后，测试在回忆一段历史文本上比学习效果更好
+- [Duchastel & Nungester, 1981](https://www.gwern.net/docs/spaced-repetition/1981-duchastel): En las pruebas 6 Meses despues, la prueba fue mejor para recordar un texto historico que para aprender
 
-- [Duchastel (1981)](https://www.gwern.net/docs/spaced-repetition/1981-duchastel.pdf)：对于阅读理解历史段落，自由回忆比简答题和选择题有决定性优势
+- [Duchastel (1981)](https://www.gwern.net/docs/spaced-repetition/1981-duchastel.pdf)：Para leer y comprender pasajes historicos, la memoria libre tiene una ventaja decisiva sobre las preguntas de respuesta corta y de opcion multiple.
 
-- [Glover (1989)](https://www.gwern.net/docs/spaced-repetition/1989-glover.pdf)：通过自由回忆自我检测比再认或[填空题](https://en.wikipedia.org/wiki/Cloze_deletions)⁠效果更好；主题是花朵各部分的名称
+- [Glover (1989)](https://www.gwern.net/docs/spaced-repetition/1989-glover.pdf)：La autoevaluacion mediante recuperacion gratuita es mejor que el reconocimiento o[Completa los espacios en blanco](https://en.wikipedia.org/wiki/Cloze_deletions)⁠funciona mejor; los temas son los nombres de las partes de la flor
 
-- [Kang, McDermott, and Roediger (2007)](https://www.gwern.net/docs/spaced-repetition/2007-kang.pdf)：散文文章；一开始进行简答测试，在 3 天后的选择题和简答测试中成绩都很优异
+- [Kang, McDermott, and Roediger (2007)](https://www.gwern.net/docs/spaced-repetition/2007-kang.pdf)：Articulo en prosa; prueba de respuesta corta al principio, luego 3 Las puntuaciones de Queen fueron excelentes tanto en las pruebas de opcion multiple como en las de respuesta corta.
 
-- [Leeming (2002)](http://www.eric.ed.gov/ERICWebPortal/recordDetail?accno=EJ761434): 测试应用于学习两门心理学课程：心理学导论 & 记忆/学习主题；“心理学导论上（测试与学习效果为）80% 与 74%；学习和记忆主题上（测试与学习效果为）89%比80%”[28](https://www.gwern.net/Spaced-repetition#sn28)
+- [Leeming (2002)](http://www.eric.ed.gov/ERICWebPortal/recordDetail?accno=EJ761434): El test debe utilizarse para estudiar dos carreras de psicologia: Introduccion a la Psicologia & Memoria/Tema de aprendizaje; "Introduccion a la Psicologia (los efectos de las pruebas y el aprendizaje son）80% Con 74%；Sobre el tema del aprendizaje y la memoria (los efectos de las pruebas y del aprendizaje son）89%que80%”[28](https://www.gwern.net/Spaced-repetition#sn28)
 
-这些材料涵盖了相当多的所谓「陈述性」知识。将测试拓展到其他领域则更加困难，测试往往会沦为「频繁得做很多分析，而不做大局分析」，或者「进行很多琐碎练习」，或者所拓展领域中类似的行为。
+Estos materiales cubren una cantidad considerable de los llamados「Declarativo」Conocimiento. Extender las pruebas a otras areas es mas dificil y las pruebas a menudo se vuelven「Con frecuencia hay que hacer muchos analisis sin hacer un analisis general.」，o「Haz muchos ejercicios triviales.」，O comportamiento similar en el ambito de la expansion。
 
-> 第三个问题与第二个问题有关。我们提倡通过测试学习，但这种方式是否适合主题复杂的课程呢？例如斯宾诺莎哲学、莎士比亚喜剧或创意写作。当然在这类课程中，我们同意大部分形式的客观测试都是水土不服的。但我们也相信，广义上的测试效应思想仍然适用——学生应该持续思考课程主题内容并接受挑战，而不仅仅参加期中和期末考试（即使考试是写论文）。在一门斯宾诺莎的课程中，老师每周给学生安排阅读材料和引人深思的论文问题。这便是体现迁移恰当理论的每周「测试」（尽管是带回家做的考试)。持续测试要求学生持续投入到一门课程中，而不是天天划水，直到期中考试或期末考试临近才开始学习。[29](https://www.gwern.net/Spaced-repetition#sn29)。
+> La tercera pregunta esta relacionada con la segunda pregunta. Abogamos por el aprendizaje a traves de pruebas, pero ¿es este enfoque adecuado para cursos con temas complejos? Los ejemplos incluyen la filosofia de Spinoza, las comedias de Shakespeare o la escritura creativa. Por supuesto, en este tipo de cursos estamos de acuerdo en que se utilizan la mayoria de las formas de pruebas objetivas. Pero tambien creemos que la idea del efecto de prueba en un sentido amplio todavia se aplica: los estudiantes deben seguir pensando en el contenido del curso y ser desafiados por el, no solo tomar examenes parciales y finales (incluso si los examenes son ensayos). En un curso de Spinoza, el profesor asigna a los estudiantes lecturas semanales y preguntas de ensayo que invitan a la reflexion. Esta es la guia semanal para incorporar la teoria adecuada de la migracion.「Pruebas」（Aunque sea una prueba para llevar a casa)。Las pruebas continuas requieren que los estudiantes continuen participando en un curso, en lugar de estudiar todos los dias hasta que se acerquen los examenes parciales o finales.。[29](https://www.gwern.net/Spaced-repetition#sn29)。
 
-#### [缺点](https://www.gwern.net/Spaced-repetition#downsides)
+#### [Desventajas](https://www.gwern.net/Spaced-repetition#downsides)
 
-测试确实已知有一些缺陷：
+La prueba tiene algunos defectos conocidos.：
 
-1. 对回忆能力的干扰——回忆已测试项目的能力，会削弱回忆未测试的类似项目的能力。
+1. Interferencia con el recuerdo: la capacidad de recordar elementos que han sido probados afecta la capacidad de recordar elementos similares que no han sido probados.。
 
-   大多数/所有研究都是在实验室环境下进行的，而且干扰并不显著：
+   La mayoria/Todos los estudios se realizaron en entornos de laboratorio y la interferencia no fue significativa：
 
-   总而言之，虽然各种类型的回忆干扰是真实存在的（也相当有趣），但我们不认为回忆干扰能否定测试增强学习的观点。这种干扰最坏也只是在一定程度上削弱测试效应的正面效果。然而测试的正面效果之明显，大多数情况下都能超过相对微小的干扰影响。
+   En resumen, si bien varios tipos de interferencia en el recuerdo son reales (y bastante interesantes), no creemos que la interferencia en el recuerdo niegue la idea de que las pruebas mejoran el aprendizaje. En el peor de los casos, esta interferencia solo debilita un poco los efectos positivos del efecto de prueba. Sin embargo, los efectos positivos de la prueba son tan obvios que en la mayoria de los casos superan los efectos de interferencia relativamente pequenos.。
 
-2. 多项选择测试可能会意外地导致“负面暗示效应”，也就是有一些内容测试者已经知道是错的，但在测试中包含这些内容后，测试者却很容易认为它们是对的。
+2. Las pruebas de opcion multiple pueden conducir accidentalmente a un "efecto de sugestibilidad negativo", en el que los evaluadores de contenido ya saben que es incorrecto pero es mas probable que lo perciban como correcto despues de incluirlo en la prueba.。
 
-   如果能快速反馈正确答案，负面暗示效应就会减轻很多，甚至被消除（参见Butler & Roediger 2008 [“Feedback enhances the positive effects and reduces the negative effects of multiple-choice testing”](https://www.gwern.net/docs/spaced-repetition/2008-butler.pdf). 解决方法：不要用选择题；反正选择题的测试能力比自由回忆或者简答都差。
+   Si la respuesta correcta puede ser retroalimentada rapidamente, el efecto de sugerencia negativa se reducira en gran medida o incluso se eliminara (verButler & Roediger 2008 [“Feedback enhances the positive effects and reduces the negative effects of multiple-choice testing”](https://www.gwern.net/docs/spaced-repetition/2008-butler.pdf). Solucion: no utilice preguntas de opcion multiple; De todos modos, las preguntas de opcion multiple ponen a prueba su capacidad peor que las preguntas de recuerdo libre o de respuesta corta.。
 
-这两个问题似乎都不太严重。
+Ninguno de estos problemas parece ser grave.。

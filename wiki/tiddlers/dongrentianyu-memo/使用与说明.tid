@@ -1,30 +1,30 @@
 created: 20230914055318811
-creator: 马不前
+creator: Deja de seguir adelante
 modified: 20230914080817036
-modifier: 马不前
+modifier: Deja de seguir adelante
 tags: 
-title: 使用与说明
+title: Uso e instrucciones
 
-!! 如何快速查询链接条目
+!! Como consultar rapidamente entradas de enlaces
 
-因为andy的笔记大部分都翻译了，但又因为这是直接从仓库里复制下来的，所以就没有做脚注。所以通常一个条目里会引用其他笔记，在文本里是外部链接，直接跳转到andy笔记网站里。但我们可以在侧边栏的快速查找中，把复制的链接输入到编辑框中。
+PorqueandyLa mayoria de mis notas han sido traducidas, pero como fueron copiadas directamente del almacen, no hay notas a pie de pagina. Por lo general, una entrada hara referencia a otras notas, que son enlaces externos en el texto y saltan directamente aandyEn el sitio web de notas. Pero podemos ingresar el enlace copiado en el cuadro de edicion en la busqueda rapida en la barra lateral.。
 
-[img[右键点击复制链接.png]]
+[img[Haga clic derecho para copiar el enlace..png]]
 
-在侧边栏[[快速查找]]中，有两个编辑框，第一个编辑框是展示对应链接条目的。比如下面图片中，就只展示了`Cognitive scaffolding`。这样就可以快速查看对应的条目内容了。而不用跳转到浏览器中去查看英文原文内容了。点击编辑框下面的清除内容按钮，就会把内容清除了。
+En la barra lateral[[Busqueda rapida]]Hay dos cuadros de edicion. El primer cuadro de edicion muestra la entrada del enlace correspondiente. Por ejemplo, en la imagen de abajo, solo el`Cognitive scaffolding`。De esta manera podras ver rapidamente el contenido de la entrada correspondiente. En lugar de saltar al navegador para ver el contenido original en ingles. Haga clic en el boton Borrar contenido debajo del cuadro de edicion para borrar el contenido.。
 
-第二个编辑框则是会展示，所以非系统条目中含有这个链接的条目。这样就可以快速查看其他条目中是如何引用这个条目的。可以使用<kbd>Esc</kbd>来快速清除编辑框的内容。
+Se mostrara el segundo cuadro de edicion, por lo que las entradas que no pertenecen al sistema contienen entradas con este enlace. Esto le permite ver rapidamente como se hace referencia a este elemento en otros elementos. se puede utilizar<kbd>Esc</kbd>Para borrar rapidamente el contenido del cuadro de edicion。
 
-[img[侧边栏两个编辑框.png]]
+[img[Dos cuadros de edicion en la barra lateral..png]]
 
-!! 如何渐进学习
+!! Como aprender de forma incremental
 
-点击[[$:/FishingDeck]]或侧边栏的钓鱼按钮，进入渐进学习。
+Haga clic[[$:/FishingDeck]]O haga clic en el boton de pesca en la barra lateral para ingresar al aprendizaje progresivo。
 
-[img[点击进入渐进学习.png]]
+[img[Haga clic para ingresar al aprendizaje progresivo..png]]
 
-!! 如何刷新内存
+!! Como refrescar la memoria
 
-打开<kbd>F12</kbd>键，点击应用程序，点击存储，找到红色圆圈下面的清除网站数据。点击之后再点击刷新网站内容。
+abierto<kbd>F12</kbd>Presione la tecla, haga clic en Aplicaciones, haga clic en Almacenamiento y busque Borrar datos del sitio web debajo del circulo rojo. Haga clic y luego haga clic para actualizar el contenido del sitio web.。
 
-[img[刷新内存.png]]
+[img[Actualizar la memoria.png]]

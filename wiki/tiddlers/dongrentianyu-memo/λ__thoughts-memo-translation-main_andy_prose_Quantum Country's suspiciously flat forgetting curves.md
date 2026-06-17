@@ -1,205 +1,205 @@
- **量子国度可疑的平直遗忘曲线** 
+ **La curva del olvido sospechosamente plana del reino cuantico** 
 
-原文：[Quantum Country’s suspiciously flat forgetting curves | Patreon 上的 Andy Matuschak](https://www.patreon.com/posts/quantum-countrys-59365357)
+Texto original：[Quantum Country’s suspiciously flat forgetting curves | Patreon en Andy Matuschak](https://www.patreon.com/posts/quantum-countrys-59365357)
 
-自2019年以来，我一直在对[量子国度](https://quantum.country/)的读者进行一系列的随机对照实验。我没有发表这些的主要原因是，我不明白发生了什么。读者的遗忘速度非常慢。太慢了!我在每次实验中都会划掉一些理论，但这些数据似乎违背了记忆系统的一个核心假设：我们的记忆会随着时间的推移沿着一条陡峭的曲线遗忘。这让我一整年都非常困惑，但我现在有了一个可以解释发生了什么的想法。如果我是对的，这将意味着通用的记忆系统将不能重复使用传统的以词汇为重点的记忆系统用来评估和改进自己的方法。
+desde2019Durante anos, he estado[Reino Cuantico](https://quantum.country/)lectores a realizar una serie de experimentos controlados aleatorios. La razon principal por la que no he publicado esto es que no entiendo lo que esta pasando. Los lectores olvidan muy lentamente. demasiado lento!En cada experimento tacho algunas teorias, pero estos datos parecen violar una suposicion central de los sistemas de memoria: que nuestros recuerdos siguen una curva pronunciada hacia el olvido con el tiempo. Esto me ha confundido durante todo un ano, pero ahora tengo una idea que explica lo que esta pasando. Si estoy en lo cierto, esto significaria que un sistema de memoria de proposito general no seria capaz de reutilizar los metodos que los sistemas de memoria tradicionales centrados en el vocabulario utilizan para evaluarse y mejorarse.。
 
-请注意：这是对量子国度数据的非正式讨论。该分析是初步的，不应该在其他工作中引用或摘录。我在这里[开门造车](https://notes.andymatuschak.org/Work_with_the_garage_door_up)。
+Tenga en cuenta: esta es una discusion informal sobre los datos de Quantum Realm. Este analisis es preliminar y no debe citarse ni extraerse en otros trabajos. Estoy aqui[Abre la puerta y construye un auto.](https://notes.andymatuschak.org/Work_with_the_garage_door_up)。
 
- **量子国度的细分市场** 
+ **Segmentos de mercado en Quantum Kingdom** 
 
-量子国度是一种人类记忆的观察站，或者至少是一个非常有限的片段。当然，对人类记忆的研究不计其数，但《量子国度》让我们观察到了一个未被满足的细分市场：
+El Reino Cuantico es una especie de observatorio de la memoria humana, o al menos un fragmento muy limitado de ella. Por supuesto, existen innumerables estudios sobre la memoria humana, pero Quantum Realm nos da una mirada a un segmento de mercado insatisfecho.：
 
-- 读者是在自我激励的环境中的成年人，而不是在正规学校教育或人工实验室环境中的孩子或本科生
+- Los lectores son adultos en un entorno automotivado, en lugar de ninos o estudiantes universitarios en una escuela formal o en entornos de laboratorio artificiales.
 
-- 材料主要是概念性的，而不是事实、词汇、定义、任意数据等
+- El material es principalmente conceptual, no hechos, vocabulario, definiciones, datos arbitrarios, etc.
 
-这个细分市场很重要，因为它代表了大多数成年人在自己的创造性工作过程中必须进行的那种有意义的学习。
+Este nicho es importante porque representa el tipo de aprendizaje significativo que la mayoria de los adultos deben realizar en el curso de su propio trabajo creativo.。
 
-当然，一些专业人员在工作过程中使用 SuperMemo、Anki 和 Mnemosyne 等工具，但对这些数据的分析有一个重要的限制：它们在每次重复时每个项目只有一个数据点，因为项目（通常）是由每个用户自己编写的。开发人员必须依靠[重要的模型假设](https://supermemo.guru/wiki/Three_component_model_of_memory)来理解这种稀疏的数据。有了量子国度，我们可以（我希望！）分析大群读者在同一组问题上的表现，并在很大程度上避免这些模型假设。Duolingo 和 Quizlet 可以做同样的动作，但主要是针对词汇/事实导向的材料，而不是概念性话题。同时，来自学术研究的数据集几乎只限于人工和课堂背景——尽管应该指出的是，他们的数据通常要干净得多，而且控制得更好！
+Por supuesto, algunos profesionales usan SuperMemo、Anki y Mnemosyne herramientas, pero el analisis de estos datos tiene una limitacion importante: solo tienen un punto de datos por elemento por iteracion, ya que los elementos son (normalmente) escritos por cada usuario. Los desarrolladores deben confiar en[Supuestos importantes del modelo](https://supermemo.guru/wiki/Three_component_model_of_memory)para dar sentido a estos escasos datos. Con Quantum Realm, podemos (¡espero!) analizar el desempeno de grandes grupos de lectores en el mismo conjunto de problemas y evitar en gran medida estos supuestos del modelo.。Duolingo y Quizlet Puedes hacer lo mismo, pero principalmente para el vocabulario./Material orientado a hechos en lugar de temas conceptuales. Mientras tanto, los conjuntos de datos de estudios academicos se limitan casi exclusivamente a contextos humanos y de aula, aunque cabe senalar que sus datos generalmente son mucho mas limpios y mejor controlados.！
 
-对我来说，所有这些数据的意义在于学习一些关于记忆系统和人类记忆如何工作的知识，以便我们能够设计出更好的系统，从而让人们拥有超能力。我研究量子国度的数据不是为了了解人们如何学习量子国度，而是为了间接了解人们可能如何利用这些系统进行一般的学习。在高层次上，我们想回答这样的问题：
+Para mi, el objetivo de todos estos datos es aprender algo sobre los sistemas de memoria y como funciona la memoria humana para que podamos disenar mejores sistemas que otorguen superpoderes a las personas. Estudie los datos de Quantum Realm no para comprender como las personas aprenden Quantum Realm, sino para comprender indirectamente como las personas podrian usar estos sistemas para aprender en general. A un alto nivel, queremos responder preguntas como：
 
-- 这些系统可以变得多高效？最佳情况下，一个特定的用户应该在什么时候复习一个特定的卡片？
+- ¿Que tan eficientes pueden llegar a ser estos sistemas? De manera optima, ¿cuando deberia un usuario especifico revisar una tarjeta especifica?？
 
-- 这些系统的可用范围有多大？它们有什么不擅长的？它们的应用领域能多开阔？
+- ¿Que tan ampliamente disponibles estan estos sistemas? ¿En que no son buenos? ¿Que tan amplios pueden ser sus campos de aplicacion?？
 
-- 这些复习互动如何变为一个人的能力：在其他环境中用这些知识解决问题和做事的能力？
+- Como estas interacciones de revision se traducen en la capacidad de una persona para utilizar este conocimiento para resolver problemas y hacer cosas en otros contextos.？
 
-- ......等等。
+- ......Espera。
 
-这些当然是碎片化的。我一直在试图回答两个相关的子问题：
+Por supuesto, estos estan fragmentados. He estado intentando responder dos subpreguntas relacionadas.：
 
-1. 反事实是什么？如果没有复习机制，人们在多大程度上能记住文本的关键细节？
+1. ¿Que es el contrafactual? ¿Hasta que punto las personas pueden recordar detalles clave de un texto sin un mecanismo de revision?？
 
-2. 量子国度目前的排期是否太短？太长了吗？对于哪些读者和问题？
+2. ¿El calendario actual de Quantum Realm es demasiado corto? ¿Es demasiado largo? Para que lectores y preguntas.？
 
-事实证明，这些问题比我预期的要难得多！
+Estas preguntas resultaron ser mucho mas dificiles de lo que esperaba.！
 
- **排期实验：基础知识** 
+ **Programacion de experimentos: conceptos basicos** 
 
-在这篇文章中，我将专注于我最近进行的实验，因为至少对于我上面描述的问题来说，它的控制性更好。
+En esta publicacion me centrare en el experimento que realice recientemente porque esta mas controlado, al menos para el problema que describi anteriormente.。
 
-每个新读者都被分配到四个排期表中的一个，初始间隔为一周、两周、一月和两月。也就是说，在「两周」条件下的读者将在他们最初在文章中回答一个问题的两周后被提示复习。我在这里有点过度简化了，但这足以让我们开始。
+A cada nuevo lector se le asigna uno de cuatro programas, con intervalos iniciales de una semana, dos semanas, un mes y dos meses. Es decir, en「Dos semanas」A los lectores de la condicion se les pidio que revisaran dos semanas despues de haber respondido originalmente una pregunta en el articulo. Estoy simplificando demasiado aqui, pero eso es suficiente para comenzar.。
 
-这些条件加在一起，应该可以帮助我们找到一个首次复习的“甜蜜点”\*。此外，两个月的条件应该告诉我们一些关于反事实的情况：如果一个读者整整两个月都不复习会发生什么？（\*译注：sweet spot，有「最有效点」、「最佳击球位置」的含义）
+En conjunto, estas condiciones deberian ayudarnos a encontrar un “punto optimo” para la primera revision.”\*。Ademas, la condicion de los dos meses deberia decirnos algo sobre el contrafactual: ¿que pasaria si un lector no revisara durante dos meses completos?？（\*Traduccion y anotacion：sweet spot，si「Punto optimo」、「Mejor posicion de bateo」Significado de）
 
-因此，以下是读者在第一次延迟复习时的准确率中位数，按条件划分（括号内为第一四分位和第三四分位读者的准确率）：
+Por lo tanto, aqui estan las tasas de precision medianas de los lectores en la primera revision retrasada, por condicion (las tasas de precision para los lectores del primer y tercer cuartil estan entre parentesis）：
 
-- 1 周：87%（81-92%, N=35 位读者）
+- 1 semanas：87%（81-92%, N=35 lectores）
 
-- 2 周：87%（81-91%, N=35 位读者）
+- 2 semanas：87%（81-91%, N=35 lectores）
 
-- 1 月：85%（77-92%, N=25 位读者）
+- 1 meses：85%（77-92%, N=25 lectores）
 
-这些数据仅限于《量子国度》的第一篇文章——我们拥有最多的数据——并且代表了那些收集了至少 50 个问题并且复习了他们收集的 90% 以上问题的读者。(你会注意到我在这篇文章中有意回避了模型和统计测试。这是因为我们讨论的是效果，我希望这些效果大到可以一目了然！)
+Estos datos se limitan al primer articulo de Quantum Realm (la mayor cantidad de datos que tenemos) y representan a aquellos que recopilaron al menos 50 preguntas y reviso el 90% Lectores de las preguntas anteriores.。(Notaras que he evitado intencionalmente el modelado y las pruebas estadisticas en este articulo. Esto se debe a que estamos hablando de efectos y quiero que estos efectos sean lo suficientemente grandes como para verlos de un vistazo.！)
 
-在 2 月的条件下，只有少数读者完全完成了他们的第一次复习，所以我还不能报告该条件下每个读者的统计数据，但我们可以通过将每个条件下的所有复习归为一个大类，并查看每个分类中被记住的问题的比例，来了解一些情况：
+en 2 Solo un punado de lectores en cada condicion completaron completamente su primera revision, por lo que todavia no puedo informar estadisticas para cada lector en esa condicion, pero podemos tener una idea de la situacion agrupando todas las revisiones en cada condicion en una categoria amplia y observando la proporcion de preguntas en cada categoria que se recordaron.：
 
-- 1 周：86%（N=138 位读者，6381 次复习）
+- 1 semanas：86%（N=138 lectores，6381 Tiempos de revision）
 
-- 2 周：84%（N=142 位读者，6319 次复习）
+- 2 semanas：84%（N=142 lectores，6319 Tiempos de revision）
 
-- 1 月：83%（N=90 位读者，4477 次复习）
+- 1 meses：83%（N=90 lectores，4477 Tiempos de revision）
 
-- 2 月：81% (N=50 名读者，1744次复习)
+- 2 meses：81% (N=50 lectores，1744Tiempos de revision)
 
-我们可以通过增加 2019 年初的读者来增加一个数据点，当时第一次复习只隔了一天。这不是一个干净的比较，一是因为可能有队列效应，二是因为这些用户没有「重试」的反馈机制，但只是为了得到一个感觉：
+Podemos agregar 2019 Los lectores de principios de ano vienen a anadir un dato, cuando solo faltaba un dia para la primera revision. Esta no es una comparacion clara, porque puede haber efectos de cola y porque estos usuarios no「Intentalo de nuevo」Mecanismo de retroalimentacion, pero solo para tener una idea.：
 
-- 1 天：89%（N=2210 位读者，122139 次复习）
+- 1 dias：89%（N=2210 lectores，122139 Tiempos de revision）
 
-这是一条几乎令人难以置信的平缓的遗忘曲线：从 89% 到 81%，跨越两个月！这是我的困惑。这个浅浅的斜率是我困惑的核心，但首先让我们谈谈有意义的部分。
+Esta es una curva de olvido casi increiblemente plana: desde 89% llegar 81%，¡Durante dos meses! Esta es mi confusion. Esta pendiente poco profunda es el centro de mi confusion, pero primero hablemos de la parte significativa.。
 
- **最初被遗忘的问题应该得到更频繁的安排** 
+ **Los temas que inicialmente se olvidaron deberian programarse con mayor frecuencia** 
 
-如果我们专门看一下读者在第一次回答文章中的问题时 **忘记** 的问题的延迟回忆准确性，数据会变得更可预测。这样的问题首先会在一天后再次被分配，必要时反复进行，直到读者记起——之后他们会在延迟后分配问题。回忆准确率，按延迟计算：
+Si nos fijamos especificamente en la primera vez que un lector responde una pregunta en un articulo **olvidar** El problema con la precision del recuerdo retrasado es que los datos se vuelven mas predecibles. Estas preguntas se vuelven a asignar un dia despues, repetidamente si es necesario, hasta que el lector las recuerde, y luego se les asigna la pregunta con un retraso. Precision de recuperacion, calculada por latencia：
 
-- 1 周：84%（N = 79 位读者，626 次复习）
+- 1 semanas：84%（N = 79 lectores，626 Tiempos de revision）
 
-- 2 周：77%（N = 73 位读者，447 次复习）
+- 2 semanas：77%（N = 73 lectores，447 Tiempos de revision）
 
-- 1 月：69%（N = 57 位读者，341 次复习）
+- 1 meses：69%（N = 57 lectores，341 Tiempos de revision）
 
-- 2 月：56%（N = 27 位读者，138 次复习）
+- 2 meses：56%（N = 27 lectores，138 Tiempos de revision）
 
-这个数据描绘的画面更熟悉，它为记忆系统的作者提出了一个相当明确的方向。如果我们的目标是确保记忆率保持在 90% 以上，那么当读者最初忘记一个问题时，我们应该很快指定它再次被复习。自动晚一天的「重试」环节不足以支持漫长的后续时间间隔。
+Estos datos pintan un panorama mas familiar y sugieren una direccion bastante clara para los autores de sistemas de memoria. Si nuestro objetivo es asegurar que la velocidad de la memoria se mantenga en 90% arriba, entonces, cuando un lector olvida inicialmente una pregunta, debemos designarla rapidamente para que se revise nuevamente. Automaticamente un dia despues「Intentalo de nuevo」Vinculos insuficientes para soportar largos intervalos de seguimiento。
 
-事实上，这种效果是复合的。如果读者在第一次延迟复习中忘记了一个问题，那么一天后就会再次分配给他们。最初间隔时间较长的读者，在随后的那个环节中恢复的可能性较小——也就是说，他们更有可能再次忘记。按第一次复习环节延迟的恢复率（注意，这些样本量现在越来越小）：
+De hecho, el efecto es agravado. Si un lector olvida una pregunta durante la primera revision retrasada, se le asignara nuevamente un dia despues. Los lectores que tuvieron un intervalo inicial mas largo tenian menos probabilidades de recuperarse en la sesion siguiente, es decir, era mas probable que volvieran a olvidar. Tasas de recuperacion retrasadas por la primera sesion de revision (tenga en cuenta que estos tamanos de muestra ahora son cada vez mas pequenos)）：
 
-- 1 周：90%（N = 31 位读者，79 次复习）
+- 1 semanas：90%（N = 31 lectores，79 Tiempos de revision）
 
-- 2 周：78%（N = 33 位读者，86 次复习）
+- 2 semanas：78%（N = 33 lectores，86 Tiempos de revision）
 
-- 1 月：83%（N = 24 位读者，70 次复习）
+- 1 meses：83%（N = 24 lectores，70 Tiempos de revision）
 
-- 2 月：57%（N = 9 位读者，44 次复习）
+- 2 meses：57%（N = 9 lectores，44 Tiempos de revision）
 
-好了，这就是我们提取的对记忆系统设计者的一个相当明确的暗示：当一张卡片在文中被遗忘时，初始安排表应该果断地收缩。
+Bien, eso es lo que extrajimos como una implicacion bastante clara para los disenadores de sistemas de memoria: cuando se olvida una tarjeta en el texto, el cronograma inicial deberia reducirse decisivamente.。
 
- **麻烦开始了：当问题最初被记住的时候** 
+ **El problema comienza: cuando se recuerda el problema por primera vez.** 
 
-但问题并不经常被遗忘在文章中。在这四种情况下，对所有读者进行汇总，文中的准确率为 91-92%。那么，问题最初被记住的常见情况是什么呢？这就是问题所在。
+Pero las preguntas no suelen olvidarse en los articulos. En estos cuatro casos, resumiendo a todos los lectores, la exactitud del articulo es 91-92%。Entonces, ¿cuales son las formas comunes en que se recuerdan las preguntas por primera vez? ese es el problema。
 
-在文中被记住的问题的首次复习回忆率：
+Tasa de recuerdo de la primera revision de las preguntas memorizadas en el texto.：
 
-- 1 周：86%（N=137 位读者，6174 次复习）
+- 1 semanas：86%（N=137 lectores，6174 Tiempos de revision）
 
-- 2 周：85%（N=140 位读者，5814 次复习）
+- 2 semanas：85%（N=140 lectores，5814 Tiempos de revision）
 
-- 1 月：84%（N=89 位读者，4108 次复习）
+- 1 meses：84%（N=89 lectores，4108 Tiempos de revision）
 
-- 2 月：83%（N=49 位读者，1599 次复习）
+- 2 meses：83%（N=49 lectores，1599 Tiempos de revision）
 
-和上一节一样，我们可以不负责任地使用 2019 年读者的数据，在第 1 天增加一个数据点：90%（N = 2207 位读者，109031 次复习）。和以前一样，注意这不是一个被很好控制的比较。
+Como en el apartado anterior, podemos utilizar irresponsablemente 2019 Datos de lectores en 2016 1 Agrega un punto de datos todos los dias.：90%（N = 2207 lectores，109031 tiempos de revision). Como antes, tenga en cuenta que esta no es una comparacion bien controlada.。
 
-这条遗忘曲线不合理的平缓！当然，如果我们想达到 90% 的回忆率，这个数据表明我们应该在不到一周的时间内安排第一次复习。但是，每一次复习都是有成本的；如果读者可以跳过一两次初始复习，以换取较低的几个百分点的准确率，我怀疑大多数人会接受这个交易。毕竟，每完整地重复第一篇文章的 112 个问题大约需要 25 分钟。我们应该如何考虑这个问题呢？
+¡Esta curva del olvido es irrazonablemente plana! Por supuesto, si queremos lograr 90% tasa de recuperacion, estos datos sugieren que deberiamos programar la primera revision en menos de una semana. Sin embargo, cada revision tiene un costo; Si los lectores pudieran saltarse una o dos revisiones iniciales a cambio de unos pocos puntos porcentuales menos de precision, sospecho que la mayoria aceptaria ese intercambio. Despues de todo, cada repeticion completa del primer articulo 112 Las preguntas tardan aprox. 25 minutos. ¿Como deberiamos pensar en este tema?？
 
-一个考虑因素是我们在上一节看到的「恢复」效应。相对于那些在一周后遗忘的人来说，那些在较长时间后遗忘的人是否在下一环节中更挣扎地恢复？下面是恢复率（即在第一次延迟的环节中忘记后一天的准确率，在文中记住后）：
+Una consideracion es lo que vimos en la seccion anterior.「Recuperacion」efecto. ¿Las personas que olvidan despues de un periodo de tiempo mas largo tienen mas dificultades para recuperarse en la siguiente sesion que aquellas que olvidan despues de una semana? A continuacion se muestra la tasa de recuperacion (es decir, la tasa de precision un dia despues de olvidar en la primera sesion retrasada, en el articulo despues de recordar）：
 
-- 1 周：84%（N=68 位读者，600 次复习）
+- 1 semanas：84%（N=68 lectores，600 Tiempos de revision）
 
-- 2 周：81%（N=66 位读者，529 次复习）
+- 2 semanas：81%（N=66 lectores，529 Tiempos de revision）
 
-- 1 月：85% (N=44 位读者，384 次复习)
+- 1 meses：85% (N=44 lectores，384 Tiempos de revision)
 
-- 2 月：74%（N=16 位读者，147 次复习）
+- 2 meses：74%（N=16 lectores，147 Tiempos de revision）
 
-这看起来不是很有说服力。也许两个月后会有麻烦，但我想先看到更多的样本。这里看起来我们可以将第一次复习推迟一个月而不受到真正的惩罚。
+Esto no parece muy convincente. Quizas haya problemas en dos meses, pero primero me gustaria ver mas muestras. Aqui parece que podemos posponer la primera revision un mes sin ninguna penalizacion real.。
 
-推迟初次复习的另一个原因是调用[间隔效应](https://en.wikipedia.org/wiki/Spacing_effect)，但我将在这篇文章中跳过讨论这个问题。我只想说，（在数据稀少的情况下）我还没有观察到第一和第二环节之间的间隔间的互动有间隔效应。
+Otra razon para posponer el examen inicial es llamar[Efecto de espaciado](https://en.wikipedia.org/wiki/Spacing_effect)，Pero dejare de discutir este tema en este articulo. Baste decir que (con datos escasos) no he observado un efecto de brecha en la interaccion entre la primera y la segunda sesion.。
 
-按问题进行切分又如何呢？看看第一篇文章中初始准确率最低的十个问题，但读者在阅读时 **记住** 了这些问题的答案，我们仍然看到在第一次延迟复习中，有一条陡峭的遗忘曲线：
+¿Que pasa con la segmentacion por pregunta? Eche un vistazo a las diez preguntas del primer articulo que tuvieron la precision inicial mas baja, pero a medida que los lectores leyeron **Recuerda** Incluso con las respuestas a estas preguntas, todavia vemos una pronunciada curva de olvido durante la primera revision retrasada.：
 
-- 1 周：74%（N=74 位读者，273 次复习）
+- 1 semanas：74%（N=74 lectores，273 Tiempos de revision）
 
-- 2 周：71%（N=67 位读者，277 次复习）
+- 2 semanas：71%（N=67 lectores，277 Tiempos de revision）
 
-- 1 月：65%（N=47 位读者，210 次复习）
+- 1 meses：65%（N=47 lectores，210 Tiempos de revision）
 
-- 2 月：65%（N=25 位读者，85 次复习）
+- 2 meses：65%（N=25 lectores，85 Tiempos de revision）
 
-这很有说服力，但曲线很快就消失了。下面是接下来十个「最难」问题的准确率，按初始延迟计算：
+Esto es muy convincente, pero la curva desaparece rapidamente. Aqui estan los proximos diez.「Lo mas dificil」Precision del problema, calculada por el retraso inicial.：
 
-- 1 周：73%（N=129 位读者，474 次复习）
+- 1 semanas：73%（N=129 lectores，474 Tiempos de revision）
 
-- 2 周：74%（N=114 位读者，446 次复习）
+- 2 semanas：74%（N=114 lectores，446 Tiempos de revision）
 
-- 1 月：74%（N=77 位读者，312 次复习）
+- 1 meses：74%（N=77 lectores，312 Tiempos de revision）
 
-- 2 月：75%（N=40 位读者，151 次复习）
+- 2 meses：75%（N=40 lectores，151 Tiempos de revision）
 
-我们没有足够的数据在每个问题的基础上提取值得信赖的遗忘曲线，但是平坦的曲线在其余十组的截距上继续增加。中位数的十个平坦在 82%；最容易的十个平坦在 95%
+No teniamos datos suficientes para extraer una curva de olvido confiable por pregunta, pero la curva plana continuo aumentando en la interseccion para los diez grupos restantes. La mediana de diez es plana en 82%；Los diez pisos mas faciles de 95%
 
-因此，问题的难度各不相同，但随着时间的推移，回忆率似乎并没有下降。我们应该从中得到什么？当然，我们可以把「难」的卡片安排得更早一些，但这样做真的会有效果吗？除了 10 张最难的卡片外，这个数据显示，在较短的间隔时间内，回忆率没有提高。
+Por lo tanto, las preguntas variaron en dificultad, pero el recuerdo no parecio disminuir con el tiempo. ¿Que deberiamos sacar de esto? Por supuesto, podemos poner「Dificil」Organiza tus tarjetas antes, pero ¿funcionara esto realmente? excepto 10 Excepto por la tarjeta mas dificil, estos datos muestran que la recuperacion no mejora en intervalos mas cortos.。
 
-对这一点的一种解释是，这里的主要内容是，人们只需要练习。时间并不十分重要。事实上，[我们以前发现](https://www.patreon.com/posts/too-easy-to-be-49250309)，一旦中位数的读者在延迟（任何长度）后记住了一个答案，他们在接下来一年的复习中的回忆率是 95%！
+Una interpretacion de esto es que la principal conclusion aqui es que solo hay que practicar. El tiempo no es muy importante. En realidad，[Anteriormente encontramos](https://www.patreon.com/posts/too-easy-to-be-49250309)，Una vez que el lector medio ha memorizado una respuesta despues de un retraso (de cualquier duracion), su tasa de recuperacion durante el siguiente ano de revision es 95%！
 
-但我发现自己根本不相信这个数据。遗忘曲线太平坦了。这并不反映我的经验。如果我在两个月内不练习我所学的东西，我记住它的可能性比一周后要小得多。我们的数据表明，在第一次成功的延迟回忆之后，我们可以安全地将后续的复习推迟许多个月。我就是不相信。
+Pero no confio en absoluto en estos datos. La curva del olvido es demasiado plana. Esto no refleja mi experiencia. Si no practico algo que aprendi en dos meses, es mucho menos probable que lo recuerde que una semana despues. Nuestros datos sugieren que despues de un primer retiro exitoso, podemos retrasar con seguridad la revision posterior durante muchos meses. simplemente no lo creo。
 
-这里发生了什么事？
+¿Que paso aqui?？
 
- **我的理论：线索提示效应** 
+ **Mi teoria: efecto senal** 
 
-我认为，如果你看一个具体的问题，情况会更清楚。考虑一下这个问题（它的回忆准确率在 75% 左右）：
+Creo que la situacion quedara mas clara si nos fijamos en una pregunta especifica. Considere este problema (su precision de recuperacion es 75% Alrededor）：
 
 ![img](https://c10.patreonusercontent.com/3/e30%3D/patreon-media/p/post/59365357/cc91155a9b514942aa6eb202f125e87e/1.png?token-time=1644969600&token-hash=wTsVuq0jlWKGfS179nIcQTlPuMqvoKLJB2lJe5UDvos%3D)
 
-这项任务强烈地塑造了你所进行的提取：它使你寻找归一化条件和测量概率之间的联系。你可能会立即获得这个答案；但你也可能当场考虑这个问题，并推断出这是唯一合理的答案。
+Esta tarea da forma en gran medida a las extracciones que realiza: le hace buscar conexiones entre las condiciones de normalizacion y las probabilidades de medicion. Es posible que obtenga esta respuesta de inmediato; pero tambien puedes pensar en la pregunta en el acto y deducir que es la unica respuesta razonable.。
 
-我们收集的准确率并不区分这两种可能性。但这一区别很重要！如果我们反过来要求你解决一些间接依赖这一属性的问题，你可能不会做出你需要的跳跃。
+La precision que recopilamos no diferencia entre estas dos posibilidades. ¡Pero esta distincion es importante! Si a tu vez te pidieramos que resolvieras algun problema que depende indirectamente de esta propiedad, es posible que no des el salto que necesitas。
 
-我们在这里真正关心的是流畅性：你准备好思考有趣的想法，解决有趣的问题，注意到联系并创造性地应用你的知识。你想训练一个丰富的模式化的推理装置。
+Lo que realmente nos importa aqui es la fluidez: estas preparado para pensar en ideas interesantes, resolver problemas interesantes, notar conexiones y aplicar tus conocimientos de forma creativa. Quieres entrenar un dispositivo de razonamiento de patrones rico。
 
-我的预感是，尽管在 1 周和 2 月之间， **线索** 回忆似乎没有大幅下降，但自由回忆和迁移任务会显示出更清晰的曲线。我刚才描述的那种流畅性确实在下降。如果你能看到这种下降，你可能会想早点安排下一次复习。
+Mi corazonada es que aunque 1 Zhou He 2 entre meses， **Pistas** La recuperacion no parece disminuir significativamente, pero las tareas de recuperacion libre y transferencia muestran una curva mas clara. Esa fluidez que acabo de describir esta realmente disminuyendo. Si puede ver esta caida, es posible que desee programar su proxima revision antes。
 
-如果这个理论是正确的，那就意味着量子国度和通用记忆系统需要遵循一条与这个领域的大多数先前工作非常不同的道路。在 SuperMemo 的领导下，大多数系统一般都是以一个简单的阈值来考虑调度问题：当估计的回忆概率下降到 90% 时，就安排一次复习。这样一来，你在任何时候的预期回忆率都应该至少保持在 90%。
+Si esta teoria es correcta, significaria que los reinos cuanticos y los sistemas de memoria universal tendrian que seguir un camino muy diferente al de la mayoria de los trabajos anteriores en este campo. existir SuperMemo Bajo el liderazgo de , la mayoria de los sistemas generalmente consideran los problemas de programacion con un umbral simple: cuando la probabilidad de recuperacion estimada cae a 90% Cuando llegue el momento, concierte una revision. De esta manera, su tasa de recuperacion esperada en cualquier momento debe ser al menos 90%。
 
-我认为这对语言学习、事实和术语定义对来说是一个合理的启发式方法。你通常不可能当场重新得出这些答案。我们的目标是要从记忆中产生答案。明确提示提取的效果应该比我们观察到的量子国度这样的概念性材料要小得多。
+Creo que esta es una heuristica razonable para el aprendizaje de idiomas, pares de definicion de terminos y hechos. Por lo general, no puedes recrear estas respuestas en el acto. El objetivo es generar respuestas de memoria. Un claro recordatorio de que el efecto de la extraccion deberia ser mucho menor de lo que observamos con material conceptual como Quantum Realm.。
 
-如果我们不能用线索回忆率来近似计算一个概念细节的编码深度，我们就不能使用传统的调度启发法。我们需要建立一些其他的方式来驱动控制回路。
+Si no podemos utilizar tasas de recuerdo con pistas para aproximarnos a la profundidad de codificacion de un detalle conceptual, no podemos utilizar heuristicas de programacion tradicionales. Necesitamos construir alguna otra forma de controlar el circuito de control.。
 
-响应时间似乎是流利程度的一个有趣的替代物，但我在量子国度读者的响应时间中发现模式的成功率出奇的低。
+El tiempo de respuesta parece ser un indicador interesante de la fluidez, pero encontre una tasa de exito sorprendentemente baja para los patrones en los tiempos de respuesta para los lectores de Quantum Realm.。
 
-一个更具侵入性的方法是插入一些问题，要求读者在一些新的背景下间接地使用知识。如果线索提示效应对概念性知识来说确实特别重要，那么即使回忆准确率保持稳定，我们也应该看到迁移表现随时间推移而下降。无论如何，我想做这样的事情，以建立由复习系统强化的知识的灵活性。
+Un enfoque mas intrusivo es insertar preguntas que requieran que los lectores utilicen el conocimiento indirectamente en algun contexto nuevo. Si los efectos de las senales son realmente particularmente importantes para el conocimiento conceptual, entonces deberiamos ver como el rendimiento de la transferencia disminuye con el tiempo, incluso si la precision de la recuperacion permanece estable. De todos modos, me gustaria hacer algo como esto para generar flexibilidad en el conocimiento reforzado por un sistema de revision.。
 
-检验这一理论的另一个方法是考虑那些我认为比较「死记硬背」、概念性不强的问题。这些问题应该有一个更明显的遗忘曲线。例如，以下是要求提供 X、Y、Z 和 H 门的矩阵值的问题的回忆率：
+Otra forma de probar esta teoria es considerar aquellas que creo que se comparan「Memorizacion de memoria」、Problemas con conceptos conceptuales debiles. Estas preguntas deberian tener una curva de olvido mas pronunciada. Por ejemplo, se requiere lo siguiente X、Y、Z y H Problema de tasa de recuperacion del valor de la matriz de puertas：
 
-- 1 周：56%（N=91 位读者，234 次复习）
+- 1 semanas：56%（N=91 lectores，234 Tiempos de revision）
 
-- 2 周：60%（N=87 位读者，215 次复习）
+- 2 semanas：60%（N=87 lectores，215 Tiempos de revision）
 
-- 1 月：56%（N=59 位读者，144 次复习）
+- 1 meses：56%（N=59 lectores，144 Tiempos de revision）
 
-- 2 月：48%（N=26 位读者，54 次复习）
+- 2 meses：48%（N=26 lectores，54 Tiempos de revision）
 
-这里的样本不多，但这个数据并不支持我的理论。1 周和 1 个月之间的平坦曲线仍然让我觉得非常不靠谱。我想，人们可能是根据他们对这些门的预期效果的记忆重新得出这些数值，但我不认为这特别可信。
+No es una muestra grande aqui, pero estos datos no respaldan mi teoria.。1 Zhou He 1 La curva plana entre meses todavia me parece muy poco confiable. Me imagino que la gente pudo haber recreado estos valores basandose en su memoria de los efectos esperados de las puertas, pero no creo que eso sea particularmente creible.。
 
-这里有一个简单的答案，也许也是这整个混乱的答案，那就是人们只是在撒谎。量子国度是自主评分的。也许人们不适当地把答案标记为记住了？我不觉得这有什么可信的。请记住，中位数的读者在 1 周至 1 月内的自我报告准确率为 85-87%。这个中位数的用户仍然将大量的问题标记为遗忘。令人困惑的是，为什么 1 个月的中位数用户不比 1 周的中位数用户标记 **更多** 的问题为遗忘？
+Hay una respuesta simple aqui, y probablemente la respuesta a todo este lio, y es que la gente simplemente esta mintiendo. Quantum Realm tiene una puntuacion propia. ¿Quizas la gente marca las respuestas como recordadas de manera inapropiada? No lo encuentro creible. Recuerde, el lector medio es 1 Pensativo 1 Precision del autoinforme durante el mes 85-87%。Este usuario medio todavia marca un gran numero de preguntas como olvidadas. Lo que es confuso es por que 1 Los usuarios medios por mes no son mas que 1 Marca de usuario mediana por semana **Mas** El problema es el olvido？
 
-歪曲我的数据的另一个重要因素是幸存者偏差。2 个月后回来复习的读者可能比 1 周后复习的读者更认真。他们可能更关心这个主题，并更仔细地阅读。这种影响可能夸大了后期的表现，但我没有一个好的方法来确定有多少。
+Otro factor importante que sesgo mis datos fue el sesgo de supervivencia.。2 Es mas probable que los lectores que vuelven a revisar despues de unos meses 1 Los lectores que revisan despues de semanas son mas serios. Es posible que les importe mas el tema y lo lean con mas atencion. Este efecto puede inflar el rendimiento tardio, pero no tengo una buena manera de determinar cuanto。
 
-我想我在这里的下一步是深入挖掘文献，其中确实包括许多专注于概念性知识和迁移学习的记忆实验。也许其中的一些方法或讨论可以在这里帮助我。
+Supongo que mi siguiente paso aqui es profundizar en la literatura, que incluye muchos experimentos de memoria centrados en el conocimiento conceptual y el aprendizaje por transferencia. Quizas algunos de estos metodos o discusiones puedan ayudarme aqui.。
 
 ————————
 
-感谢 Gary Bernhardt 对这一主题的有益讨论。也感谢大家一直以来的支持，这使我有可能进行这样的长期研究。我们现在大约有 3/4 的路要走，相当于国家科学基金会的 CAREER 资助，我不断地震惊于这样的事情可能发生。节日快乐！
+gracias Gary Bernhardt Util discusion sobre este tema. Tambien me gustaria agradecerles a todos por su continuo apoyo, que me permite realizar investigaciones a largo plazo. Ahora tenemos aproximadamente 3/4 Asi se hace, equivalente al de la Fundacion Nacional de Ciencias CAREER Financiacion, constantemente me sorprende que algo asi pueda suceder. felices fiestas！

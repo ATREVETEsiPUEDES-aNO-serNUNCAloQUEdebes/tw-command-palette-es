@@ -4,7 +4,7 @@ description: {{$:/language/Buttons/Delete/Hint}}
 title: $:/plugins/linonetwo/commandpalette/Delete Tiddler
 action-variables: tiddlerToDelete
 tiddlerToDelete/type: text
-tiddlerToDelete/caption: 要删除的条目
+tiddlerToDelete/caption: Elemento a eliminar
 tiddlerToDelete/description: <<lingo ActionString/DeleteTiddler/VariableDescription "$:/plugins/linonetwo/commandpalette/language/">>
 tiddlerToDelete/default: <<currentTiddler>>
 

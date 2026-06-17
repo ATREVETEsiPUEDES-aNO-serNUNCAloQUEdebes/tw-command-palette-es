@@ -4,7 +4,7 @@ description: {{$:/language/Buttons/Edit/Hint}}
 title: $:/plugins/linonetwo/commandpalette/Edit Tiddler
 action-variables: tiddlerToEdit
 tiddlerToEdit/type: text
-tiddlerToEdit/caption: 要编辑的条目
+tiddlerToEdit/caption: Elemento a editar
 tiddlerToEdit/description: <<lingo ActionString/EditTiddler/VariableDescription "$:/plugins/linonetwo/commandpalette/language/">>
 tiddlerToEdit/default: <<currentTiddler>>
 

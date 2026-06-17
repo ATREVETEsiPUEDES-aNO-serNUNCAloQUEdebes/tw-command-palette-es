@@ -1,32 +1,32 @@
 title: $:/plugins/linonetwo/commandpalette/language/zh-Hans/
 
-ShowControlPanel: 打开命令菜单
-AdvancedSearch: 高级搜索
-Server: 服务器
-Filter/Fields/Caption: 字段名
-Filter/Fields/Description: 搜索Wiki里所有条目涉及到的所有字段名
-Filter/ContentType/Caption: 查看内容类型
-Filter/ContentType/Description: 列出所有Wiki里涉及到的条目的内容类型
-Filter/Languages/Caption: 语言列表
-Filter/Languages/Description: 列出已安装的语言的列表
-Filter/Plugins/Caption: 插件列表
-Filter/Plugins/Description: 列出已安装的插件的列表
-Filter/Themes/Caption: 主题列表
-Filter/Themes/Description: 列出已安装的主题的列表
-Filter/Untagged/Caption: 未打标签
-Filter/Untagged/Description: 列出未打标签的条目，无标签会让它们难以找到
-ActionString/NewTiddlerFromSelectedText/Caption: 创建新条目
-ActionString/NewTiddlerFromSelectedText/Description: 用选中的文本作为标题，已选中：
-ActionString/NewTiddlerAskTitle/Caption: 创建新条目（输入标题）
-ActionString/NewTiddlerAskTitle/Description: 进入新建条目向导，然后输入标题
-ActionString/NewTiddlerAskTitle/VariableCaption: 条目标题
-ActionString/NewTiddlerAskTitle/VariableDescription: 输入你要创建的条目标题
-ActionString/AddTags/Caption: 添加标签到当前条目
-ActionString/AddTags/Description: 为当前条目追加一个或多个标签
-ActionString/AddTags/VariableCaption: 新标签
-ActionString/AddTags/VariableDescription: 输入标签名，支持自动补全（来源于知识库所有标签）
-ActionString/CloseTiddler/VariableCaption: 要关闭的条目
-ActionString/CloseTiddler/VariableDescription: 留空则关闭当前条目
-ActionString/EditTiddler/VariableDescription: 留空则编辑当前条目
-ActionString/DeleteTiddler/VariableDescription: 留空则删除当前条目
-ActionString/CloneTiddler/VariableDescription: 留空则克隆当前条目
+ShowControlPanel: Abra el menu de comandos.
+AdvancedSearch: Busqueda avanzada
+Server: servidor
+Filter/Fields/Caption: Nombre del campo
+Filter/Fields/Description: BuscarWikiTodos los nombres de campos involucrados en todas las entradas en
+Filter/ContentType/Caption: Ver tipos de contenido
+Filter/ContentType/Description: Listar todoWikiEl tipo de contenido de los elementos involucrados.
+Filter/Languages/Caption: Lista de idiomas
+Filter/Languages/Description: Lista de idiomas instalados
+Filter/Plugins/Caption: Lista de complementos
+Filter/Plugins/Description: Lista de complementos instalados
+Filter/Themes/Caption: Lista de temas
+Filter/Themes/Description: Lista de temas instalados
+Filter/Untagged/Caption: No etiquetado
+Filter/Untagged/Description: Enumere los elementos que no estan etiquetados, lo que dificulta su busqueda.
+ActionString/NewTiddlerFromSelectedText/Caption: Crea nuevas entradas
+ActionString/NewTiddlerFromSelectedText/Description: Utilice el texto seleccionado como titulo, seleccionado：
+ActionString/NewTiddlerAskTitle/Caption: Crea una nueva entrada (ingresa un titulo）
+ActionString/NewTiddlerAskTitle/Description: Ingrese al Asistente para nueva entrada e ingrese un titulo.
+ActionString/NewTiddlerAskTitle/VariableCaption: Titulo de la entrada
+ActionString/NewTiddlerAskTitle/VariableDescription: Ingrese el titulo del elemento que desea crear.
+ActionString/AddTags/Caption: Agregar etiquetas al elemento actual
+ActionString/AddTags/Description: Agregue una o mas etiquetas a la entrada actual.
+ActionString/AddTags/VariableCaption: Nueva pestana
+ActionString/AddTags/VariableDescription: Ingrese el nombre de la etiqueta y admita la finalizacion automatica (de todas las etiquetas en la base de conocimientos）
+ActionString/CloseTiddler/VariableCaption: Puntos a cerrar
+ActionString/CloseTiddler/VariableDescription: Dejelo en blanco para cerrar la entrada actual.
+ActionString/EditTiddler/VariableDescription: Dejelo en blanco para editar la entrada actual.
+ActionString/DeleteTiddler/VariableDescription: Dejelo en blanco para eliminar la entrada actual.
+ActionString/CloneTiddler/VariableDescription: Dejelo en blanco para clonar la entrada actual.

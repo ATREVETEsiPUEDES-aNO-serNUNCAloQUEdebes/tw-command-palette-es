@@ -1,55 +1,55 @@
-#“不让孩子留在室内”：国家问题的糟糕解决方案
+#“"Mantener a los ninos en casa": una mala solucion a un problema nacional
 
 [“No Child Left Inside”: Poor Solution to a National Problem | Psychology Today](https://www.psychologytoday.com/us/blog/freedom-learn/200810/no-child-left-inside-poor-solution-national-problem)
 
-##这项法规将恶化它旨在解决的问题。
+##Este reglamento empeorara el problema que pretende resolver.。
 
-发表于 2008 年 10 月 8 日
+Publicado en 2008 ano 10 meses 8 dia
 
-9 月 18 日，美国众议院以 293 票对 109 票的压倒性票通过了其「不让孩子留在室内」法案的版本。参议院版本尚未投票表决。这项立法是由环保主义者、教育工作者、公共卫生专家和商业团体组成的联盟推动的，该联盟被称为「不让孩子留在室内」联盟。
+9 meses 18 Hoy, la Camara de Representantes de Estados Unidos 293 par de entradas 109 voto abrumadoramente para aprobar su「No dejes que los ninos se queden en casa」version del proyecto de ley. La version del Senado aun no ha sido votada. La legislacion fue impulsada por una coalicion de ambientalistas, educadores, expertos en salud publica y grupos empresariales conocidos como「No dejes que los ninos se queden en casa」alianza。
 
-我同意联盟的所有关切，至少正如联盟网站上所表达的那样。我是一个热心的环保主义者，非常关注对我们星球的强奸及其潜在的未来可居住性。我担心我们这么多公民对户外活动非常无知。我担心我们今天很少看到孩子在户外玩耍。我担心，今天经常被称为户外“游戏”的是高度结构化、由成人监督的运动，这与户外的发现几乎没有关系。今天，我担心[童年]（https://www.psychologytoday.com/us/basics/child-development）肥胖和[抑郁]（https://www.psychologytoday.com/us/basics/depression）的流行率，我同意联盟的观点，即这些比率至少部分是儿童生活中没有户外冒险的结果。
+Estoy de acuerdo con todas las preocupaciones de la liga, al menos como se expresan en el sitio web de la liga. Soy un ambientalista apasionado y estoy muy preocupado por la violacion de nuestro planeta y su potencial habitabilidad futura. Me preocupa que muchos de nuestros ciudadanos sean muy ignorantes sobre las actividades al aire libre. Me preocupa que hoy en dia rara vez veamos ninos jugando afuera. Me temo que lo que hoy en dia se conoce como "juego" al aire libre es un ejercicio muy estructurado y supervisado por un adulto que tiene poco que ver con lo que se encuentra al aire libre. hoy estoy preocupado[Infancia]（https://www.psychologytoday.com/us/basics/child-development）obesidad y[Depresion]（https://www.psychologytoday.com/us/basics/depression）tasas de prevalencia, estoy de acuerdo con la coalicion en que estas tasas son, al menos parcialmente, el resultado de la falta de aventuras al aire libre en la vida de los ninos.。
 
-既然我同意联盟在所有这些上的观点，你可能会认为我会支持《不让一个孩子进入》的立法，该联盟一直在努力通过该立法。但我没有。
+Dado que estoy de acuerdo con la coalicion en todo esto, se podria pensar que apoyaria la legislacion "Que ningun nino se quede atras" en cuya aprobacion la coalicion ha estado trabajando. pero no lo hice。
 
-学校从他们教的一切中吸取乐趣。我们现在想让学校从户外冒险中吸取乐趣吗？
+Las escuelas le quitan diversion a todo lo que ensenan. ¿Queremos que las escuelas eliminen ahora la diversion de las aventuras al aire libre?？
 
-在我看来，这项立法是导致联盟关注的许多问题的那种思维的完美例子，而不是那种可以解决这些问题的思维。每次我们看到一个国家问题，特别是如果这个问题与儿童有关，就会通过学校系统解决这个问题。态度似乎是，通过将另一套必修课程和考试放在学童的背上，每个问题都可以解决。你们联盟成员，难道没有看到学校系统和我们对它的依赖来照顾我们的孩子，并迫使他们不断增加的“教育”要求*是问题所在吗？难道你没有看到，我们越是试图通过政府授权来规范学校活动，就越是限制和与发现学校的精神背道而驰吗？
+En mi opinion, esta legislacion es un ejemplo perfecto del tipo de pensamiento que conduce a muchos de los problemas que preocupan a la liga, en lugar del tipo de pensamiento que puede resolverlos. Cada vez que vemos un problema nacional, especialmente si el problema tiene que ver con los ninos, el problema se resuelve a traves del sistema escolar. La actitud parece ser que todos los problemas pueden resolverse imponiendo a los escolares otra serie de cursos y examenes obligatorios. Ustedes, miembros de la coalicion, ¿no ven el sistema escolar y nuestra dependencia de el para cuidar a nuestros ninos y imponerles demandas de “educacion” cada vez mayores?*¿Ese es el problema? ¿No ve que cuanto mas intentamos regular las actividades escolares a traves de mandatos gubernamentales, mas restrictivas y contrarias al espiritu de descubrimiento nos volvemos?？
 
-如果这项新法案成为法律，那么每个州都将被要求向美国教育部提交一份“环境素养”计划。以下是众议院法案对该计划的看法（引用自联盟的网站）：
+Si este nuevo proyecto de ley se convierte en ley, todos los estados deberan presentar un plan de "alfabetizacion ambiental" al Departamento de Educacion de Estados Unidos. Esto es lo que dice el proyecto de ley de la Camara sobre el programa (citado del sitio web de la coalicion）：
 
-*州计划必须包括：相关内容标准、内容领域以及将进行教学的课程或科目；描述计划与州毕业要求的关系；描述教师的专业发展计划，以提高他们的环境内容知识，关于环境问题的教学技能，以及基于现场的[教学]（https://www.psychologytoday.com/us/basics/education）技能；描述国家教育机构将*
+*El plan estatal debe incluir: estandares de contenido relevantes, areas de contenido y cursos o materias en las que se impartira instruccion; una descripcion de la relacion del plan con los requisitos estatales de graduacion; una descripcion de los planes de desarrollo profesional para que los docentes mejoren su conocimiento del contenido ambiental, sus habilidades de ensenanza sobre cuestiones ambientales y las practicas de campo.[Ensenanza]（https://www.psychologytoday.com/us/basics/education）Habilidades; describir como la agencia de educacion estatal*
 
-毫无疑问，这项立法的通过将是教育行业的一场政变（见我8月27日的帖子）。这将产生一套新的课程、测试、教科书、教育专家、项目管理员、赠款作者等。它会给孩子做什么？这将给他们另一套学校要求，另一套要通过的测试。这是让孩子们爱上和探索户外的方式吗？学校系统是否如此成功地让孩子们爱上它所教的所有其他东西——如数学、历史和物理——以至于我们现在想委托它教我们的孩子热爱户外活动？
+No hay duda de que la aprobacion de esta legislacion sera un golpe para la industria de la educacion (ver mi8meses27publicaciones del dia). Esto dara como resultado un nuevo conjunto de planes de estudios, pruebas, libros de texto, expertos en educacion, administradores de programas, autores de subvenciones y mas. ¿Que hara por el nino? Esto les dara otro conjunto de requisitos escolares, otro conjunto de pruebas que aprobar. ¿Es esta la manera de lograr que los ninos amen y exploren el aire libre? ¿Tiene el sistema escolar tanto exito en lograr que los ninos amen todo lo que ensena –como matematicas, historia y fisica– que ahora queremos confiarle la tarea de ensenar a nuestros hijos a amar el aire libre?？
 
-例如，看看我们的学校系统在“体育”领域已经做了什么。因为人们认为身体和心灵都需要训练，所以大多数学校要求学生每年上体育课。这门课所做的是把一些应该是快乐游戏的东西变成一些东西，对许多（如果不是大多数孩子的话）来说是乏味的，有时是可恶的，而且往往是令人尴尬的。通过强迫每个人按照学校的时间表同时进行相同的活动，并对孩子们进行测试和评分，并公开比较他们的表现，学校系统有效地将所有应该玩的东西变成了工作。
+Por ejemplo, mire lo que nuestros sistemas escolares ya estan haciendo en el area del "atletismo". Debido a que se cree que tanto el cuerpo como la mente necesitan entrenamiento, la mayoria de las escuelas exigen que los estudiantes tomen clases de educacion fisica todos los anos. Lo que hace esta clase es tomar algo que deberia ser un juego divertido y convertirlo en algo que, para muchos, si no para la mayoria de los ninos, resulta aburrido, a veces odioso y, a menudo, vergonzoso. Al obligar a todos a realizar las mismas actividades al mismo tiempo segun el horario escolar, y al evaluar y calificar a los ninos y comparar publicamente su desempeno, el sistema escolar convierte efectivamente en trabajo todo lo que deberia ser un juego.。
 
-如果您关心孩子们对户外的热爱，请写信给您的美国参议员，要求他们投票反对“没有孩子留在里面”。
+Si le importa el amor de los ninos por la vida al aire libre, escriba una carta a sus senadores estadounidenses pidiendoles que voten en contra de "No se quedan ninos adentro".”。
 
-我们如何增加儿童的户外游戏和冒险？
+Como podemos aumentar el juego y las aventuras al aire libre de los ninos？
 
-要解决问题，首先思考导致问题的原因通常是有价值的。当我还是个孩子的时候（比我说的要早），大多数孩子都花了大量的时间在户外。我们自己到处走，步行和骑自行车。我们在空地上、城外的农村地区以及公园里玩游戏。我们发现了蝴蝶、青蛙和蛇之类的东西。我们自己去钓鱼和游泳。我们在冰冻的湖泊上进行滑冰冒险，独自在树林里徒步旅行，没有成年人。发生了什么改变了这一切？
+Para resolver un problema, a menudo es valioso pensar en que causo el problema en primer lugar. Cuando yo era nino (mas de lo que digo), la mayoria de los ninos pasaban mucho tiempo al aire libre. Nos desplazamos solos, a pie y en bicicleta. Jugabamos en campos abiertos, en zonas rurales fuera de la ciudad y en parques. Encontramos cosas como mariposas, ranas y serpientes. Fuimos a pescar y nadar solos. Nos embarcamos en aventuras de patinaje en lagos helados y caminamos por el bosque solos, sin adultos. Lo que paso cambio todo？
 
-发生的一件事是，学校和校外的成年人已经接管了孩子们的生活。当我还是个孩子的时候，学校表现没有今天那么受到重视。几乎没有家庭作业。在上学的日子里，我们3点后一整天都在玩，外加一个小时的午餐时间（在此期间，我们并不局限于学校）。当时的学年比现在短，我们有三个月的夏天可以玩。大多数社区没有成人组织的体育联赛，如果他们真的有，我们永远不会觉得为了我们的简历而必须参加。我们的父母觉得他们没有责任开车送我们，或者看着我们做我们所做的一切，这样他们就可以为我们加油或保护我们免受危险。他们信任我们。他们相信，如果获得自由，我们会玩得开心，在大多数情况下会做对我们有好处的事情。
+Lo que ha ocurrido es que los adultos, dentro y fuera de la escuela, se han apoderado de la vida de los ninos. Cuando era nino, el rendimiento escolar no era tan valorado como hoy. Casi no hay tarea. Durante los dias escolares, nosotros3Un dia completo de juego previa orden, mas una hora para el almuerzo (durante la cual no estabamos restringidos a la escuela). El ano escolar era mas corto que ahora y teniamos tres meses de verano para jugar. La mayoria de las comunidades no tienen ligas deportivas organizadas para adultos y, si las tuviesen, nunca nos sentiriamos obligados a participar por el bien de nuestros curriculums. Nuestros padres sentian que no era su responsabilidad conducirnos o observarnos hacer todo lo que haciamos para poder animarnos o protegernos del peligro. Ellos confian en nosotros. Creen que si nos liberaran nos divertiriamos y en la mayoria de los casos hariamos cosas que son buenas para nosotros.。
 
-许多父母会争辩说，他们[不信任]的不是他们的孩子（https://www.psychologytoday.com/us/basics/trust），而是邻居。我在很大程度上同情这种[恐惧]（https://www.psychologytoday.com/us/basics/fear）。部分原因是在户外玩耍的孩子更少，事实上，许多社区现在可能比那时更不安全。过去，如果有人在户外骚扰某人，周围会有很多各个年龄段的孩子作为目击者和威慑者。同样的情况是，今天，由于大多数家庭的父母都不在工作，任何特定社区在家的成年人都更少，能够发现潜在问题的成年人也更少。今天，人们（成年人和儿童）也比过去更不可能认识他们的邻居，这也使社区不那么安全。当然，街道上的汽车比以前多了，社区不再觉得建造和维护人行道、公园和游乐场是他们的职责。
+Muchos padres dirian que[desconfianza]no es su hijo（https://www.psychologytoday.com/us/basics/trust），Pero vecinos. Simpatizo con esto en gran medida.[Miedo]（https://www.psychologytoday.com/us/basics/fear）。Parte de la razon es que hay menos ninos jugando al aire libre y, de hecho, muchos vecindarios pueden ser menos seguros ahora que entonces. En el pasado, si alguien acosaba a alguien al aire libre, habia muchos ninos de todas las edades alrededor para servir como testigos y elementos disuasorios. De la misma manera, hoy en dia, con los padres desempleados en la mayoria de las familias, hay menos adultos en casa en cualquier vecindario y menos adultos que puedan detectar problemas potenciales. Hoy en dia, es menos probable que las personas (adultos y ninos) conozcan a sus vecinos que en el pasado, lo que tambien hace que las comunidades sean menos seguras. Por supuesto, hay mas automoviles en las calles que antes y las comunidades ya no sienten que sea su responsabilidad construir y mantener aceras, parques y areas de juego.。
 
-因此，如果这些是户外游戏和冒险减少的原因，那么这些就是我们应该解决的问题。让我们停止试图通过增加学校教育来解决问题，这只会让问题变得更糟，而开始尝试通过给孩子更多真正自由的步骤来解决这些问题，包括户外玩耍的自由。以下是你可能会做的一些事情：
+Entonces, si estas son las razones de la disminucion del juego y las aventuras al aire libre, entonces estas son las cuestiones que deberiamos abordar. Dejemos de intentar resolver los problemas aumentando la escolarizacion, que solo los empeora, y comencemos a intentar resolverlos tomando medidas para dar a los ninos mas libertad real, incluida la libertad de jugar al aire libre. Aqui hay algunas cosas que puedes hacer：
 
-*反对增加上课时间、家庭作业和测试*。让你的学校董事会、学校校长和社区中的其他人知道，作为家长，你憎恨强加给孩子的大量繁忙工作，并憎恨学校越来越多地侵入孩子的时间和家人的时间。启动地方立法，以减少上学日和学年。反对国家授权的测试。
+*Oponerse al aumento del tiempo de clase, las tareas y los examenes*。Informe a la junta escolar, al director de la escuela y a otros miembros de la comunidad que, como padre, le molesta la abrumadora carga de trabajo impuesta a sus hijos y la creciente intrusion de la escuela en el tiempo de sus hijos y de su familia. Iniciar legislacion local para reducir los dias y anos escolares. Oposicion a las pruebas obligatorias por el estado。
 
-*工作* *在学校系统之外，为孩子们开发安全的地方玩耍*。让您所在社区的立法者知道，他们应该开始减少在学校上花钱，在人行道、公园和儿童可以玩耍的地方的警察保护上花更多的钱。敦促您的社区开发和维护安全但又提供冒险机会的公园--有树林可以探索、树木可以爬、池塘和溪流可以钓鱼的公园。制定和支持项目，允许儿童以自己好玩的方式，在自己的时间，与自己选择的其他人一起参与户外活动，无需成人监督，当然也无需测试。
+*Trabajo* *Desarrollar lugares seguros para que los ninos jueguen fuera del sistema escolar*。Hagales saber a los legisladores de su comunidad que deberian comenzar a gastar menos en escuelas y mas en proteccion policial en aceras, parques y lugares donde los ninos puedan jugar. Inste a su comunidad a desarrollar y mantener parques que sean seguros pero que brinden oportunidades para la aventura.--Parques con bosques para explorar, arboles para trepar, estanques y arroyos para pescar. Desarrollar y apoyar programas que permitan a los ninos participar en actividades al aire libre a su manera ludica, en su propio tiempo, con otras personas de su eleccion, sin supervision de un adulto y ciertamente sin pruebas.。
 
-*与您附近的其他父母见面*讨论提供安全场所和娱乐机会的问题。也许你可以设置一个邻里守望，这将有助于向人们保证这个社区对儿童游戏来说是安全的。也许你可以想办法与其他家庭一起周末旅行，去露营地或其他地方，在那里孩子们可以安全地玩耍，在新的和令人兴奋的环境中彼此玩耍，而成年人却忽视他们，并以他们自己选择的方式进行社交。
+*Conoce a otros padres cerca de ti*Discuta como ofrecer lugares seguros y oportunidades recreativas. Tal vez se podria establecer una vigilancia vecinal, lo que ayudaria a asegurar a la gente que el vecindario es seguro para que jueguen los ninos. Tal vez podria encontrar una manera de hacer un viaje de fin de semana con otras familias a un campamento u otro lugar donde los ninos puedan jugar de manera segura, jugar entre ellos en un ambiente nuevo y emocionante sin que los adultos los ignoren y socializar de la manera que ellos elijan.。
 
-我知道这些步骤可能并不容易。他们需要主动性。它们与大多数社区的口头议程背道而驰，口头议程总是为了*更多*学校和*更多*成人对儿童的直接监督。然而，如果你触及社区中成年人的思考表面，你会发现他们中的许多人在他们的心中认识到，今天儿童比他们小时候更受约束，被监禁更多。如果你让他们说出原因，他们可能会自己拿出清单，与我在这里建议的没有什么不同。我们现在需要做的是将这种发自内心的理解转移到脑海中，组织我们的努力，并采取理性行动，让我们的孩子真正自由地在户外玩耍。
+Se que estos pasos pueden no ser faciles. Necesitan iniciativa. Van en contra de la agenda verbal de la mayoria de las comunidades, que siempre es para*Mas*suma escolar*Mas*Supervision directa de adultos de los ninos. Sin embargo, si rascas la superficie del pensamiento de los adultos de la comunidad, encontraras que muchos de ellos reconocen en su corazon que los ninos de hoy estan mas limitados y mas encarcelados que cuando eran ninos. Si les pide que mencionen sus razones, probablemente elaboraran su propia lista, similar a lo que sugiero aqui. Lo que debemos hacer ahora es transferir esta comprension visceral a nuestras mentes, organizar nuestros esfuerzos y tomar medidas racionales para permitir a nuestros hijos la verdadera libertad de jugar al aire libre.。
 
 \------------------
 
-我希望你们中的一些人，在下面的评论部分，会建议额外的方法，给孩子们自由和户外游戏的机会，也许你们已经看到了为自己的孩子工作的方式。别忘了告诉你的参议员投票*反对*里面没有孩子。
+Espero que algunos de ustedes, en la seccion de comentarios a continuacion, sugieran formas adicionales de brindarles a los ninos libertad y oportunidades para jugar al aire libre, y tal vez hayan visto como esto funciona para sus propios hijos. No olvides decirle a tu senador que vote.*oponerse a*No hay ninos dentro.。
 
 \---------
 
-参见新书[《自由学习》](http://www.freetolearnbook.com/)
+Ver libros nuevos[《estudio gratis》](http://www.freetolearnbook.com/)
 
 \---------

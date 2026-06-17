@@ -6,21 +6,21 @@ title: $:/plugins/linonetwo/commandpalette/language/zh-Hans/Readme
 
 <<lingo Description>>
 
-!! 依赖
+!! Dependencia
 
-本插件基于 [[$:/plugins/linonetwo/autocomplete]] 自动补全框插件开发，你需要一并安装它（用 CPL 安装的话，会自动识别依赖自动安装，就不用担心了）。
+Este complemento se basa en [[$:/plugins/linonetwo/autocomplete]] Desarrollo del complemento de caja de autocompletar, debe instalarlo juntos (use CPL Si lo instalas, identificara automaticamente las dependencias y las instalara automaticamente, para que no tengas que preocuparte.）。
 
-!! 致谢
+!! Agradecimientos
 
-该插件参考了[[Souk21/TW-commandpalette|https://github.com/Souk21/TW-commandpalette]]的设计，感谢他制作的第一版！本插件升级并采用了 TypeScript 和[ext[algolia/autocomplete|https://github.com/algolia/autocomplete]]编写，因此功能更强大，对开发人员扩展其功能也更友好。
+Este complemento se refiere a[[Souk21/TW-commandpalette|https://github.com/Souk21/TW-commandpalette]], ¡gracias a el por hacer la primera version! Este complemento ha sido actualizado y adoptado. TypeScript y[ext[algolia/autocomplete|https://github.com/algolia/autocomplete]]Escrito, para que sea mas potente y mas facil para los desarrolladores ampliar su funcionalidad.。
 
-!! 功能
+!! Funcion
 
-按下 ctrl/cmd + P 唤起搜索框，按的时候如果多加一个 Shift 可以唤起功能框。
+Presione ctrl/cmd + P Abre el cuadro de busqueda, si lo presionas agrega uno mas Shift Se puede evocar el cuadro de funciones.。
 
-!!! 动作条目
+!!! Elementos de accion
 
-你可以创建带有 `$:/tags/Actions` 标签的动作条目，动作条目会在命令面板中显示，选中后将触发内容中的动作微件。
+Puedes crear un `$:/tags/Actions` El elemento de accion de la etiqueta. El elemento de accion se mostrara en el panel de comando. Cuando se selecciona, se activara el widget de accion en el contenido.。
 
 ```tid
 tags: $:/tags/Actions
@@ -32,8 +32,8 @@ condition: [<selectedText>!compare:string:eq[]]
 <$action-sendmessage $message="tm-new-tiddler" title=<<selectedText>> />
 ```
 
-可用的变量有：
+Las variables disponibles son：
 
-* `<<selectedText>>` - 选中的文本
-* `<<commandpaletteinput>>` - 命令菜单输入框中的文本
-* 其它常见变量如 `<<currentTiddler>>` 等等
+* `<<selectedText>>` - Texto seleccionado
+* `<<commandpaletteinput>>` - Texto en el cuadro de entrada del menu de comandos.
+* Otras variables comunes como `<<currentTiddler>>` Espera

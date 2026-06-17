@@ -1,75 +1,75 @@
-停止说「干得好！」的五个理由
+Deja de hablar「Bien hecho！」Cinco razones
 
-原文：[Five Reasons to Stop Saying "Good Job!" (**) - Alfie Kohn](http://www.alfiekohn.org/article/five-reasons-stop-saying-good-job/)
+Texto original：[Five Reasons to Stop Saying "Good Job!" (**) - Alfie Kohn](http://www.alfiekohn.org/article/five-reasons-stop-saying-good-job/)
 
-作者：Alfie Kohn
+Autor：Alfie Kohn
 
-*注：这篇文章的删节版发表在2000年5月的*《父母》*杂志上，标题为「沉迷于赞美」。想要更详细地了解这里讨论的问题，以及相关研究的完整引用列表，请参阅*[奖励的惩罚](https://www.alfiekohn.org/punished-rewards/) *和*[无条件的养育](https://www.alfiekohn.org/unconditional-parenting/)。
+*Nota: una version abreviada de este articulo fue publicada en2000ano5meses*《padres》*En la revista, el titulo es「Obsesionado con los elogios」。Para obtener una vision mas detallada de los temas discutidos aqui y una lista completa de citas de investigaciones relevantes, consulte*[Castigo de recompensa](https://www.alfiekohn.org/punished-rewards/) *y*[Crianza incondicional](https://www.alfiekohn.org/unconditional-parenting/)。
 
-要以西班牙语阅读这篇文章，请单击[这里](https://www.alfiekohn.org/parenting/muybien.htm).
+Para leer este articulo en espanol, haga clic[aqui](https://www.alfiekohn.org/parenting/muybien.htm).
 
-在操场闲逛，参观学校，或者在孩子的生日聚会上，有一句话你肯定会反复听到：「干得好！」即使是很小的婴儿也会因为拍手而受到表扬(「拍得好！」)。我们中的许多人会脱口而出对孩子的这些评价，以至于几乎变成了一种口头禅。
+Pasando el rato en el patio de recreo, visitando el colegio o en la fiesta de cumpleanos de tu hijo, hay una frase que seguro escucharas una y otra vez.：「Bien hecho！」Incluso los bebes pequenos son elogiados por aplaudir.(「Haz un buen tiro！」)。Muchos de nosotros soltamos estos comentarios sobre nuestros hijos hasta el punto que casi se convierte en un mantra.。
 
-许多书籍和文章建议我们不要依赖惩罚，从打屁股到强制隔离（「暂停」）。有时甚至会有人要求我们重新思考用贴纸或食物贿赂孩子的做法。但你要想找到一个令人沮丧的词来委婉地称之为“正强化”，就得非常努力了。
+Muchos libros y articulos nos aconsejan que no dependamos del castigo, desde los azotes hasta el aislamiento forzado.（「Pausa」）。A veces incluso se nos pide que reconsideremos el soborno de los ninos con pegatinas o comida. Pero habria que trabajar muy duro para encontrar una palabra frustrante a la que eufemisticamente llamar "refuerzo positivo".。
 
-为了避免误解，这里的重点不是质疑支持和鼓励孩子的重要性以及爱他们、拥抱他们、帮助他们自我感觉良好的必要性。然而，表扬则完全是另一回事。下面是原因。
+Para evitar malentendidos, el punto aqui no es cuestionar la importancia de apoyar y alentar a los ninos y la necesidad de amarlos, abrazarlos y ayudarlos a sentirse bien consigo mismos. Los elogios, sin embargo, son otra cuestion completamente distinta. Aqui estan las razones。
 
- **1. 操纵孩子。** 假设你通过口头奖励来强化两岁孩子吃东西不会洒出来的行为，或者强化五岁孩子清理她的艺术用品的行为。谁从中受益？有没有可能告诉孩子他们做得很好，与其说是为了他们的情感需求，不如说是为了我们的方便？
+ **1. Manipular a los ninos。** Supongamos que utiliza recompensas verbales para reforzar el comportamiento de un nino de dos anos de comer sin derramar la comida, o el comportamiento de un nino de cinco anos de limpiar sus materiales de arte. ¿Quien se beneficia de esto? ¿Es posible decirle a un nino que esta haciendo un buen trabajo menos por sus necesidades emocionales y mas por nuestra conveniencia?？
 
-北爱荷华大学教育学教授 Rheta DeVries 将这称为「糖衣控制」。就像有形的奖励——或者，就此而言，惩罚——这是一种对孩子做某事的方式，让他们服从我们的愿望。这样做可能在产生这种结果方面是有效的（至少在一段时间内），但这样做与和孩子一起工作是非常不同的——例如，通过让孩子参与讨论如何使教室（或家庭）顺利运转，或者其他人如何受到我们所做的或未做的事情的影响。后一种方法不仅更有礼貌，而且更有可能帮助孩子成为有思想的人。
+Profesor de Educacion, Universidad del Norte de Iowa Rheta DeVries Llame a esto「Control de recubrimiento de azucar」。Al igual que las recompensas tangibles (o, en realidad, los castigos), es una manera de hacerles algo a los ninos que les haga cumplir nuestros deseos. Hacerlo puede ser eficaz para producir este resultado (al menos por un tiempo), pero hacerlo es muy diferente de trabajar con ninos; por ejemplo, involucrarlos en discusiones sobre como hacer que un salon de clases (o un hogar) funcione sin problemas, o como otros se ven afectados por lo que hacemos o no hacemos. Este ultimo enfoque no solo es mas educado, sino que tambien tiene mas probabilidades de ayudar a los ninos a convertirse en personas reflexivas.。
 
-表扬能在短期内起作用的原因是小孩子渴望得到我们的认可。但我们有责任不利用这种依赖来为了自己的方便。一句「干得好！」会让我们的生活更轻松，这就是利用孩子依赖性的一个例子。孩子们也可能会觉得自己被操纵了，即使他们不能很好地解释原因。
+La razon por la que los elogios funcionan a corto plazo es porque los ninos anhelan nuestra aprobacion. Pero tenemos la responsabilidad de no explotar esta dependencia para nuestra propia conveniencia. una frase「Bien hecho！」Nos haria la vida mas facil, este es un ejemplo de explotacion de la dependencia de un nino. Los ninos tambien pueden sentir que estan siendo manipulados, incluso si no pueden explicar por que.。
 
- **2. 创造“表扬上瘾者”。** 当然，并不是每次表扬都是为了控制孩子的行为。有时候我们表扬孩子只是因为我们真的为他们所做的感到高兴。然而，即便如此，这样做也值得更仔细地研究。表扬可能会增加孩子对我们的依赖，而不是增强孩子的自尊。我们越是说：「我喜欢你做XX的方式」或「XX做得好」，孩子们就越依赖于*我们的*评价，*我们的*决定，而不是学会形成自己的判断。这会让他们这样衡量自己的价值：看什么能让*我们*微笑并给予更多的认可。
+ **2. Cree "elogios para los adictos"”。** Por supuesto, no todos los elogios tienen como objetivo controlar el comportamiento de un nino. A veces elogiamos a los ninos solo porque estamos realmente contentos con lo que hicieron. Aun asi, sin embargo, merece una mirada mas cercana. Los elogios pueden aumentar la dependencia de su hijo de nosotros en lugar de aumentar su autoestima. Cuanto mas decimos：「Me gusta cuando lo hacesXXcamino」o「XXBien hecho」，Los ninos se vuelven mas dependientes de*Nuestro*Evaluacion，*Nuestro*decision en lugar de aprender a formar su propio juicio. Esto les hara medir su propio valor observando lo que los hace*nosotros*Sonrie y dale mas reconocimiento。
 
-佛罗里达大学的研究员 Mary Budd Rowe 发现，受到老师大力表扬的学生在回答问题时会更犹豫，更倾向于用疑问的语气回答问题（「嗯，七个？」）。一旦成年人不同意他们的观点，他们往往就会放弃自己提出的想法。他们不太可能坚持完成困难的任务，也不太可能与其他学生分享自己的想法。
+Investigador de la Universidad de Florida Mary Budd Rowe Se encontro que los estudiantes que recibieron fuertes elogios de sus profesores dudaban mas al responder preguntas y estaban mas inclinados a responder preguntas en un tono interrogativo.（「Bueno, siete？」）。Una vez que los adultos no estan de acuerdo con su punto de vista, tienden a abandonar las ideas propuestas. Es menos probable que persistan en tareas dificiles y que compartan sus ideas con otros estudiantes.。
 
-简而言之，「干得好！」这句话并不能让孩子安心；最终，这会让他们有更少的安全感。这甚至可能造成一个恶性循环，我们表扬得越多，孩子似乎就越需要表扬，所以我们就表扬得更多。可悲的是，其中一些孩子长大成人后，仍然需要别人拍拍他们的头，告诉他们所做的是否正确。这当然不是我们希望我们的孩子成为的人。
+En resumen，「Bien hecho！」Esta afirmacion no tranquiliza en absoluto a los ninos; en ultima instancia, les hace sentir menos seguros. Esto puede incluso crear un circulo vicioso en el que cuanto mas elogiamos, mas parece que el nino necesita elogios, por lo que elogiamos aun mas. Lamentablemente, algunos de estos ninos crecen y todavia necesitan que alguien les de una palmadita en la cabeza y les diga si estan haciendo lo correcto. Ciertamente esto no es lo que queremos que sean nuestros hijos.。
 
- **3. 偷走孩子的快乐。** 除了依赖的问题，孩子应该为自己的成就感到高兴，为自己学会了怎么做而感到自豪。她也有权决定什么时候有这种感觉。不过，每次我们说「干得好！」时，我们是在告诉孩子该如何感受。
+ **3. Robar la felicidad de los ninos。** Dejando a un lado los problemas de dependencia, los ninos deberian estar contentos con sus logros y orgullosos de lo que han aprendido a hacer. Ella tambien tiene derecho a decidir cuando se siente asi. Sin embargo, cada vez que decimos「Bien hecho！」Cuando les decimos a nuestros hijos como sentirse。
 
-可以肯定的是，有时候我们的评估是合适的，我们的指导是必要的——尤其是对蹒跚学步的孩子和学龄前儿童。但是，持续不断的价值判断对孩子的发展既没有必要，也没有用。不幸的是，我们可能没有意识到「干得好！」和「干得不好！」一样是一种评价。积极的判断最显著的特征不在于它是积极的，而在于它是一种判断。人们，包括孩子，都不喜欢被评判。
+Sin duda, hay ocasiones en las que nuestras evaluaciones son apropiadas y nuestra orientacion necesaria, especialmente con ninos pequenos y preescolares. Sin embargo, el juicio de valor constante no es necesario ni util para el desarrollo de un nino. Desafortunadamente, es posible que no nos demos cuenta「Bien hecho！」y「No hacer un buen trabajo！」Tambien es una evaluacion. El rasgo mas distintivo de un juicio positivo no es que sea positivo, sino que es un juicio. A las personas, incluidos los ninos, no les gusta que las juzguen。
 
-我珍惜我女儿第一次做一件事或者比以前做得更好的时候。但我试着不去下意识地说：「干得好！」因为我不想夺走她的快乐。我想要她和我分享她的快乐，而不是我来决定她是否要快乐。我要她惊呼：「我做到了！」（她经常这样），而不是不确定地问我：「我做得好吗？」
+Aprecio los momentos en que mi hija hace algo por primera vez o lo hace mejor que antes. Pero trato de no decirlo inconscientemente.：「Bien hecho！」Porque no quiero quitarle la felicidad. Quiero que ella comparta su felicidad conmigo, no que yo decida si ella quiere ser feliz. quiero que ella exclame：「Lo hice！」（Ella hace esto a menudo) en lugar de preguntarme con incertidumbre：「¿Lo hice bien?？」
 
- **4. 失去兴趣。** 只要我们继续观看和表扬孩子画画，表扬孩子「画得好！」可能会让孩子一直画下去。但是，国家早期儿童教育权威之一 Lilian Katz 警告说：「一旦注意力被转移，许多孩子就不会再碰这些活动了。」事实上，一项令人印象深刻的科学研究表明，我们对人们做某事给予的奖励越多，他们就越容易对这件他们为获得奖励而必须做的事情失去兴趣。现在的重点不是画画，不是阅读，不是思考，不是创造——重点是得到好东西，无论是冰淇淋，贴纸，还是一句「干得好！」
+ **4. Perder interes。** Mientras sigamos observando y elogiando a los ninos por dibujar, felicitelos.「Dibuja bien！」Se le puede permitir al nino seguir dibujando. Sin embargo, una de las principales autoridades del pais en educacion infantil temprana Lilian Katz advierte：「Una vez que se desvia la atencion, muchos ninos ya no participaran en estas actividades.。」De hecho, un impresionante estudio cientifico muestra que cuanto mas recompensamos a las personas por hacer algo, mas facil les resulta perder interes en lo que tuvieron que hacer para obtener la recompensa. La cuestion ahora no es dibujar, no leer, no pensar, no crear; la cuestion es conseguir cosas buenas, ya sea un helado, pegatinas o una frase.「Bien hecho！」
 
-多伦多大学的 Joan Grusec 进行了一项研究，这项研究的结论令人不安：那些经常因表现慷慨而受到表扬的孩子，在日常生活中往往比其他孩子稍微*少*一些慷慨。每次他们听到「分享得好！」或「我为你的帮助感到骄傲！」，他们对分享或帮助变得不那么感兴趣了。这些行为本身不再被视为有价值的东西，而是再次得到成年人的那种反应而必须做的事情。慷慨成了达到目的的手段。
+Universidad de Toronto Joan Grusec realizo un estudio con conclusiones inquietantes: los ninos que frecuentemente eran elogiados por su generosidad tendian a ser ligeramente menos efectivos en su vida diaria que otros ninos.*menos*Un poco de generosidad. cada vez que escuchan「Comparte bien！」o「Estoy orgulloso de tu ayuda！」，Se vuelven menos interesados ​​en compartir o ayudar. Las acciones ya no se ven como algo valioso en si mismas, sino como algo que se debe hacer para obtener nuevamente ese tipo de respuesta de los adultos. La generosidad se convierte en un medio para lograr un fin.。
 
-表扬能激励孩子吗？当然能。表扬会激励孩子去得到表扬。唉，这往往是以牺牲他们对自己所做事情的承诺为代价的，而这正是他们获得表扬的原因。
+¿Pueden los elogios motivar a los ninos? Por supuesto que puedes. Los elogios motivan a los ninos a recibir elogios. Por desgracia, esto a menudo se produce a expensas de su compromiso con lo que hacen, que es por lo que reciben elogios.。
 
- ** 5. 减少成就** 。如果一句「干得好！」会破坏孩子的独立性、快乐感和兴趣还不够糟糕的话，这样做还会影响孩子实际工作的表现。研究人员发现，在一项创造性任务中表现出色而受到表扬的孩子往往在下一项任务中表现不佳——而且他们的表现不如一开始没有受到表扬的孩子。
+ ** 5. Reducir los logros** 。Si una frase「Bien hecho！」Si no es suficientemente malo que socave la independencia, la felicidad y el interes de su hijo, tambien afecta el desempeno real de su hijo en el trabajo. Los investigadores encontraron que los ninos que fueron elogiados por su buen desempeno en una tarea creativa tendian a tener un desempeno deficiente en la siguiente tarea, y obtuvieron peores resultados que los ninos que no fueron elogiados inicialmente.。
 
-为什么会这样呢？原因一：表扬给「继续做好工作」带来了压力，进而阻碍了把工作做好。原因二：他们对自己所做事情的*兴趣*可能已经下降。原因三：一旦他们开始考虑如何保持这些积极评论，他们就不太可能冒险——而冒险是创造力的先决条件。
+¿Por que sucede esto? Razon 1: alabanza a「Sigan con el buen trabajo」Esto genera estres, lo que a su vez impide hacer un buen trabajo. Razon 2: Tienen un profundo conocimiento de lo que hacen.*Interes*puede haber declinado. Tercera razon: una vez que empiezan a pensar en como mantener esas criticas positivas, es menos probable que corran riesgos, y asumir riesgos es un requisito previo para la creatividad.。
 
-更一般地说，「干得好！」是一种心理学方法的遗留物，这种方法将人类生活简化为可以观察和测量的行为。不幸的是，这忽略了隐藏在行为背后的思想、情绪和价值观。例如，一个孩子和朋友分享零食可能是为了获得表扬，也可能是为了确保另一个孩子有足够的食物。而对分享的表扬忽视了这些不同的动机。更糟糕的是，表扬实际上助长了不好的动机，使孩子未来更有可能为了寻求表扬而做事。
+Mas en general，「Bien hecho！」es un vestigio de un enfoque psicologico que reducia la vida humana a comportamientos que podian observarse y medirse. Desafortunadamente, esto ignora los pensamientos, emociones y valores que subyacen al comportamiento. Por ejemplo, un nino puede compartir un refrigerio con un amigo para recibir elogios o para asegurarse de que otro nino tenga suficiente comida. Y elogiar el compartir ignora estas diferentes motivaciones. Peor aun, los elogios en realidad alimentan malas motivaciones, lo que hace que el nino sea mas propenso a hacer cosas en el futuro solo para buscar elogios.。
 
 ---
 
-一旦你开始看到表扬是什么——以及它的作用——这些来自成年人的持续的小小的评价开始产生与指甲在黑板上被拖拽相同的效果。你开始支持一个孩子，转身对他们的老师和家长说（用同样甜言蜜语的语气）：「表扬得好！」，来让他们尝到甜头。
+Una vez que empiezas a ver que son los elogios (y que hacen), esos pequenos y constantes comentarios de los adultos empiezan a tener el mismo efecto que arrastrar las unas por una pizarra. Comienzas a apoyar a un nino recurriendo a sus maestros y padres (en el mismo tono dulce）：「Elogiar bien！」，Dejalos disfrutar de los beneficios。
 
-不过，这并不是一个容易改掉的习惯。停止表扬可能看起来很奇怪，至少一开始是这样，这会让你觉得你自己冷漠或没有做应该做得事情。但事情很快就清楚了，这表明*我们表扬更多是因为我们需要说出来，而不是因为孩子需要听到*。如果这是真的，我们就该反思一下我们在做什么了。
+Sin embargo, este no es un habito facil de romper. Retener los elogios puede parecer extrano, al menos al principio, y puede hacerte sentir frio o no haciendo lo que deberias hacer. Pero pronto quedo claro que demostraba*Alabamos mas porque necesitamos decirlo que porque el nino necesita oirlo.*。Si esto es cierto, deberiamos repensar lo que estamos haciendo.。
 
-孩子们真正需要的是无条件的支持和无条件的爱。这不仅与表扬不同，而且和表扬*正好相反*。「干得好！」是有条件的。这意味着我们给予关注、承认和认可，因为我们跳过了障碍，做了让我们高兴的事情。
+Lo que realmente necesitan los ninos es apoyo incondicional y amor incondicional. Esto no solo es diferente de la alabanza;*Todo lo contrario*。「Bien hecho！」Es condicional. Esto significa que brindamos atencion, reconocimiento y reconocimiento porque pasamos por alto el obstaculo e hicimos algo que nos hizo felices.。
 
-你会注意到，这一点与一些人提出的批评非常不同，这些批评说我们给孩子太多的认可或者太轻易给孩子认可。他们建议我们在表扬方面更严格，并要求孩子「自己去挣」。但真正的问题并不是现在的孩子们期望他们所做的一切都能得到表扬。而是*我们*倾向于走捷径，用奖励来操纵孩子，而不是解释和帮助他们发展所需的技能和良好的价值观。
+Notaras que esto es muy diferente de la critica que algunas personas hacen de que damos demasiado reconocimiento a nuestros hijos o se lo damos con demasiada facilidad. Sugirieron que fueramos mas estrictos en nuestros elogios y pidieramos a nuestros hijos「Ganatelo tu mismo」。Pero el verdadero problema no es que los ninos de hoy esperen elogios por todo lo que hacen. Bastante*nosotros*Tiende a tomar atajos y manipular a los ninos con recompensas en lugar de explicarles y ayudarlos a desarrollar las habilidades necesarias y buenos valores.。
 
-那么另一种选择是什么？这要视情况而定，但无论我们决定说什么，都必须基于对孩子真正的爱，而不是对他们所做事情的爱。当有了无条件的支持时，「干得好！」没有必要；当没有无条件的支持时，「干得好！」没用。
+Entonces, ¿cual es la alternativa? Depende, pero todo lo que decidamos decir debe basarse en el verdadero amor por nuestros hijos, no en el amor por lo que hacen. Cuando hay apoyo incondicional，「Bien hecho！」No es necesario; cuando el apoyo incondicional no esta disponible，「Bien hecho！」Inutil。
 
-如果我们把表扬积极的行为作为一种阻止不良行为的方式，这不太可能长期有效。即使它起作用了，我们也不能说孩子现在「表现良好」；更准确地说是表扬使他表现良好。另一种选择是和孩子一起努力，找出他那样做的原因。我们可能不得不重新考虑我们自己的要求，而不是仅仅寻找一种方法让孩子们服从。（不要通过说「干得好！」让一个四岁的孩子在漫长的班级会议或家庭晚餐期间安静地坐着，也许我们应该问问，期望孩子这样做是否合理。）
+Si utilizamos el elogio del comportamiento positivo como forma de disuadir el mal comportamiento, es poco probable que esto sea eficaz a largo plazo. Incluso si funciona, no podemos decir que el nino ahora「Comportate bien」；Seria mas exacto decir que los elogios le hicieron desempenarse bien. Otra opcion es trabajar con su hijo para descubrir por que se comporta como lo hace. Quizas tengamos que repensar nuestras propias demandas en lugar de simplemente encontrar una manera de lograr que los ninos cumplan. (No hagas esto diciendo「Bien hecho！」Al pedirle a un nino de cuatro anos que se siente tranquilamente durante una larga reunion de clase o una cena familiar, tal vez deberiamos preguntarnos si es razonable esperar que。）
 
-我们还需要让孩子参与决策的过程。如果孩子正在做的一些事情打扰到了别人，就和她坐在一起问她：「你认为我们能做些什么来解决这个问题？」，这可能比贿赂或威胁更有效。这样做还可以帮助孩子学习如何解决问题，并让她明白她的想法和感受是重要的。当然，这个过程需要时间、才能、关怀和勇气。当孩子以我们认为合适的方式做事时，说一句「干得好！」，这些都不会发生，这有助于解释为什么「表扬」策略比「合作」策略更受欢迎。
+Tambien debemos involucrar a los ninos en el proceso de toma de decisiones. Si su hijo esta haciendo algo que molesta a los demas, sientese con el y preguntele：「¿Que crees que podemos hacer para solucionar este problema?？」，Esto puede ser mas eficaz que los sobornos o las amenazas. Hacer esto tambien ayuda a su hijo a aprender como resolver problemas y le permite comprender que sus pensamientos y sentimientos son importantes. Por supuesto, este proceso requiere tiempo, talento, cuidado y coraje. Cuando un nino hace algo de la manera que creemos que es apropiada, digamos「Bien hecho！」，Nada de esto sucede, lo que ayuda a explicar por que.「alabanza」Relacion de estrategia「Cooperacion」Las estrategias son mas populares.。
 
-当孩子们做了一些令人印象深刻的事情时，我们能说什么呢？考虑三种可能的回应：
+¿Que podemos decir cuando los ninos hacen algo impresionante? Considere tres posibles respuestas.：
 
- ***什么也别说。** 有些人坚持认为好的行为必须被「强化」，因为他们无意识地认为这是一个偶然。如果孩子从根本上说是邪恶的，那么就必须给他们一个人为的理由让他们变得友好（也就是说，获得口头奖励）。但如果这种说法是没有根据的——很多研究都表明确实如此——那么表扬可能就没有必要了。
+ ***No digas nada。** Algunas personas insisten en que el buen comportamiento debe ser「Refuerzo」，Porque inconscientemente piensan que es un accidente. Si los ninos son fundamentalmente malos, entonces se les debe dar una razon artificial para ser amables (es decir, recibir una recompensa verbal). Pero si la afirmacion es infundada (y muchos estudios sugieren que lo es), entonces el elogio puede no estar justificado.。
 
- ***把你看到的说出来。** 一个简单的，没有评价的语句（「你自己穿的鞋」或者只是「你做到了」）告诉孩子你注意到了。这也让她为自己所做的事情感到自豪。在其他情况下，更详细的描述可能更有意义。如果你的孩子画了一幅画，你可能会提供反馈——而不是评判——关于你所看到的：「这座山很大！」「天哪，你今天用了好多紫色啊！」
+ ***Di lo que ves.。** Una declaracion simple y no evaluativa.（「Tus propios zapatos」O simplemente「Lo hiciste」）Digale a su hijo que lo noto. Tambien la hace sentir orgullosa de lo que hace. En otros casos, una descripcion mas detallada puede tener mas sentido. Si su hijo hace un dibujo, usted podria brindarle comentarios, no juicios, sobre lo que ve.：「Esta montana es enorme！」「Dios mio, usaste tanto morado hoy.！」
 
-如果孩子做了一些关心别人或慷慨的事情，你可以轻轻地让他注意到他的行为*对别人*的影响：「看 Abigail 的脸！你给了她一些零食，她现在似乎很高兴。」这与表扬完全不同，这里的重点是*你*对她分享的感受。
+Si su hijo hace algo afectuoso o generoso, puede llamarle suavemente la atencion sobre su comportamiento.*A los demas*Impacto de：「mira Abigail ¡Cara! Le diste algunos bocadillos y ahora parece feliz.。」Esto es completamente diferente a los elogios, el punto aqui es*tu*Sentimientos compartidos con ella。
 
- *** 少说，多问。** 问题比描述更好。与其告诉他你对这幅画的某个地方印象深刻，不如问他他最喜欢这幅画的哪个地方。问「这幅画最难画的部分是什么？」或者「你怎么画出大小合适的脚？」很可能会激发他对绘画的兴趣。说「干得好！」，正如我们所看到的，可能会产生相反的效果。
+ *** Habla menos, pregunta mas。** Las preguntas son mejores que las descripciones. En lugar de decirle que te impresiono del cuadro, preguntale que es lo que mas le gusta del cuadro. preguntar「¿Cual es la parte mas dificil de este cuadro?？」o「¿Como se dibujan pies del tamano correcto?？」Probablemente despierte su interes por la pintura. decir「Bien hecho！」，Como hemos visto, puede tener el efecto contrario。
 
-这并不意味着所有的赞扬，所有的感谢，所有高兴的表达都是有害的。我们需要考虑我们说话的*动机*（真诚地表达热情比想要操纵孩子未来的行为要好）以及这样做的实际效果。我们的反应帮助了孩子感受到对自己生活的掌控感，还是让他们不断向我们寻求认可？我们的反应是在帮助她对自己正在做的事情变得更加兴奋，还是把这件事变成只是为了得到表扬而去做的事情？
+Esto no significa que toda alabanza, todo agradecimiento, toda expresion de alegria sean perjudiciales. Necesitamos pensar en lo que decimos.*Motivo*（Es mejor expresar sinceramente entusiasmo que tratar de manipular el comportamiento futuro de su hijo y los efectos practicos de hacerlo. ¿Nuestras respuestas ayudan a nuestros hijos a sentirse en control de sus vidas o los mantienen buscando nuestra aprobacion? ¿Nuestras respuestas la ayudan a entusiasmarse mas con lo que esta haciendo o lo convierten en algo que hace solo para recibir elogios?？
 
-这不是背诵新剧本的问题，而是牢记我们对孩子的长期目标，并注意我们所说的话的影响。坏消息是：正强化的使用并不是那么积极。好消息是：你不必为了鼓励而去评价。
+No se trata de memorizar un nuevo guion, sino de tener presentes nuestros objetivos a largo plazo para nuestros hijos y prestar atencion al impacto de lo que decimos. La mala noticia es que el uso del refuerzo positivo no es tan positivo. La buena noticia es: no es necesario juzgar para alentar。

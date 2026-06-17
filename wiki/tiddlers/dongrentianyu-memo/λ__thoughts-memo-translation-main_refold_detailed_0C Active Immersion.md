@@ -1,49 +1,49 @@
-0C1：主动沉浸
+0C1：Inmersion activa
 
-原文：[Active Immersion | Refold](https://refold.la/roadmap/stage-0/c/active-immersion)
+Texto original：[Active Immersion | Refold](https://refold.la/roadmap/stage-0/c/active-immersion)
 
-主动沉浸，就是将全身心投入到你正在接触的内容中，无论是听音频、看视听媒体，还是读文字材料。
+Inmersion activa significa sumergirse completamente en el contenido al que esta expuesto, ya sea escuchando audio, viendo medios audiovisuales o leyendo materiales de texto.。
 
- **主动沉浸是语言习得中【最重要】的一环。** 
+ **La inmersion activa es la clave para la adquisicion del idioma.【Lo mas importante】parte de。** 
 
-当你刚开始沉浸时，你的大脑可能会忽略大部分信息，因为它认为这些信息并不重要。当你专心致志地将注意力集中在目标语言的内容时，你的大脑会知道它需要开始关注了。
+Cuando empiezas a sumergirte por primera vez, tu cerebro puede ignorar gran parte de la informacion porque no cree que sea importante. Cuando centras tu atencion intensamente en el contenido del idioma de destino, tu cerebro sabe que necesita empezar a prestar atencion.。
 
-你也许觉得把时间花在观看目标语言的电视节目上，是诡异且没有成效的事情。请放心：这并不是虚度时光，这正是语言习得发生的地方。即使有的内容你几乎完全无法理解，你的大脑仍在积极工作，寻找规律，验证假设，构建你内在的语言机器。
+Puede sentir que pasar tiempo viendo programas de television en su idioma de destino es extrano e improductivo. Tenga la seguridad: esto no es tiempo perdido, aqui es exactamente donde ocurre la adquisicion del idioma. Incluso si algun contenido le resulta casi completamente incomprensible, su cerebro sigue trabajando activamente, buscando patrones, probando hipotesis y construyendo su maquina linguistica interna.。
 
-找到吸引你的内容至关重要。有趣的内容能够吸引你，并使你保持投入，你会发现自己能在其中沉浸更长时间，而且关键的是，它将使你一次又一次地回来学习——长到足以掌握这门语言。如果你对某些内容感到厌倦，那就放手，找些更让你兴奋的事情去做。
+Encontrar contenido que te atraiga es fundamental. El contenido interesante te atrae y te mantiene involucrado, te encontraras inmerso en el por mas tiempo y, lo que es mas importante, te hara volver una y otra vez, el tiempo suficiente para dominar el idioma. Si te aburres de algo, dejalo ir y busca algo que hacer que te entusiasme mas.。
 
-路线图的每个阶段都会确定发展特定技能的沉浸活动的优先顺序。每个阶段我们都会就建议的具体沉浸时长和沉浸方案提供指导。
+Cada etapa de la hoja de ruta prioriza actividades de inmersion que desarrollan habilidades especificas. En cada etapa brindamos orientacion sobre las longitudes de inmersion especificas recomendadas y las opciones de inmersion.。
 
-### 寻找内容
+### Encuentra contenido
 
-在搜索目标语言内容时，可以先从你已经习惯浏览的母语内容入手，然后尽量用目标语言的内容替代母语内容。
+Al buscar contenido en el idioma de destino, puede comenzar con contenido en su lengua materna que ya esta acostumbrado a explorar y luego intentar reemplazar el contenido en su lengua materna con contenido en el idioma de destino.。
 
-#### Netflix 和其他在线视频网站
+#### Netflix y otros sitios de videos en linea
 
-试着看看不同类型的电影和电视剧，看看有哪些符合你的口味。
+Prueba a ver diferentes tipos de peliculas y series de television para ver cuales se adaptan a tus gustos.。
 
 #### YouTube
 
-无论是烹饪、编织、骑山地车、开锁、旅行日记，还是其他任何你感兴趣的话题，YouTube 都会有丰富的目标语言内容供你选择。
+Ya sea cocinar, tejer, andar en bicicleta de montana, abrir cerraduras, llevar un diario de viajes o cualquier otra cosa que le interese，YouTube Habra una gran cantidad de contenido en el idioma de destino entre el que podras elegir.。
 
-#### 其他平台
+#### Otras plataformas
 
-对于一些语言，可能还有其他平台和产品能够提供丰富的内容：你只需要简单地用 Google 搜索一下就能找到它们。
+Para algunos idiomas, puede haber otras plataformas y productos que ofrecen contenido enriquecido: simplemente puede usar Google Busca para encontrarlos。
 
-### 工具
+### Herramientas
 
-#### Language Learning With Netflix（谷歌浏览器插件）（译注：现在也叫 Language Reactor）
+#### Language Learning With Netflix（Complemento de Google Chrome) (Anotacion: ahora tambien llamado Language Reactor）
 
-这个插件可以同时显示目标语言字幕和母语字幕。它支持每段字幕自动暂停，并可以遮罩母语字幕，仅在你需要时才显示出来。还包含了一个内置词典，你可以在看字幕时随时查词。
+Este complemento puede mostrar subtitulos en el idioma de destino y subtitulos en el idioma nativo al mismo tiempo. Admite la pausa automatica de cada subtitulo y puede enmascarar los subtitulos nativos para que solo se muestren cuando los necesite. Tambien incluye un diccionario incorporado para que puedas buscar palabras en cualquier momento mientras miras los subtitulos.。
 
-#### 专用的目标语言 YouTube 账号
+#### Idioma de destino dedicado YouTube Cuenta
 
-为了帮助你脱离母语，你可以创建一个只使用目标语言的 YouTube 账号。
+Para ayudarte a romper con tu lengua materna, puedes crear un YouTube Cuenta。
 
-把你的位置设置在使用目标语言的国家，并将账号的默认语言设为目标语言。这样，YouTube 的推荐算法就会优先推荐目标语言的内容。
+Establezca su ubicacion en un pais que hable el idioma de destino y establezca el idioma predeterminado de la cuenta en el idioma de destino. De esta manera，YouTube El algoritmo de recomendacion dara prioridad a recomendar contenidos en el idioma de destino.。
 
-在首页，对非目标语言的视频，点击「不感兴趣」或「不推荐此频道」，让 YouTube 不要向你推荐母语的视频。
+En la pagina de inicio, para videos en idiomas distintos de los de destino, haga clic en「No interesado」o「Este canal no es recomendable」，deja YouTube No recomiendes videos en tu idioma nativo.。
 
-#### 专用的目标语言沉浸设备
+#### Equipo exclusivo de inmersion en el idioma de destino.
 
-如果你经常被母语的邮件、社交媒体账户和其他日常习惯所干扰，你或许可以试试只用于学习目标语言的平板电脑或其他设备。
+Si te distraes constantemente con correos electronicos, cuentas de redes sociales y otros habitos diarios en tu idioma nativo, quizas quieras probar una tableta u otro dispositivo que solo se use para aprender el idioma de destino.。

@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/Transclusion is limited by the data models composability",
-        "text": "# 嵌入功能受数据模型的可组合性限制\r\n\r\n原文：[Transclusion is limited by the data model’s composability](https://notes.andymatuschak.org/z7DvEiUpF6dYkFGbpZZTBKQVM9jjNnx8D8Xzu)\r\n\r\n维基百科上可以将一篇文章的小节嵌入到另一篇文章中。Xanadu 支持将任意文本块嵌入到文档中。Roamresearch 中则支持将大纲笔记的一部分嵌入到其他笔记中。[嵌入功能](https://notes.andymatuschak.org/z2GUhQPz6czF4cUDBFQFJjmT4zfK4Kom2Sg1)的表达能力在很大程度上取决于可嵌入对象的可组合性。\r\n\r\n在上面的所有示例中，所要嵌入的对象不是都能随意组合的！随意找段文本，它不一定在其他地方都能可用：好的散文依赖于线索、叙事和上下文。文本嵌入几乎总是不连贯的。我担心，大多数系统设计者对这种方法感到兴奋，只是喜欢这种技术可能性，而不是着眼于嵌入功能助益写作或者沟通。\r\n\r\nFigma 的「组件」是一个有趣的例子，展现了什么时候嵌入功能可以派上用场。视觉元素通常可以重用于多种不同的情景，特别是部分参数化的视觉元素。\r\n\r\n------\r\n\r\n问：举一个嵌入功能行得通的例子？\r\n\r\n答：Figma 设计组件\r\n\r\n问：为什么文本嵌入经常会产生不连贯的文本？\r\n\r\n答：随意拿出一段句子、段落或文本选段，放在其他上下文中，一般都读不通。它们不是可重用的文本块，而高度依赖于前面的行文。",
+        "text": "# La funcionalidad integrada esta limitada por la componibilidad del modelo de datos.\r\n\r\nTexto original：[Transclusion is limited by the data model’s composability](https://notes.andymatuschak.org/z7DvEiUpF6dYkFGbpZZTBKQVM9jjNnx8D8Xzu)\r\n\r\nLas secciones de un articulo se pueden integrar en otro articulo de Wikipedia.。Xanadu Admite la incrustacion de cualquier bloque de texto en el documento.。Roamresearch Admite incrustar parte de las notas del esquema en otras notas.。[Funcion de incrustar](https://notes.andymatuschak.org/z2GUhQPz6czF4cUDBFQFJjmT4zfK4Kom2Sg1)El poder expresivo de depende en gran medida de la componibilidad de los objetos incrustables.。\r\n\r\nEn todos los ejemplos anteriores, ¡no todos los objetos que se van a incrustar se pueden combinar a voluntad! Encuentre un pasaje de texto aleatorio que pueda o no estar disponible en otro lugar: la buena prosa se basa en pistas, narrativa y contexto. Las incrustaciones de texto casi siempre son incoherentes. Me temo que la mayoria de los disenadores de sistemas que estan entusiasmados con este enfoque simplemente disfrutan de las posibilidades tecnicas en lugar de incorporar funcionalidades para ayudar a la escritura o la comunicacion.。\r\n\r\nFigma de「Componentes」es un ejemplo interesante de cuando la incorporacion de funciones puede resultar util. Los elementos visuales a menudo se pueden reutilizar en muchos contextos diferentes, especialmente elementos visuales parcialmente parametrizados.。\r\n\r\n------\r\n\r\nPregunta: De un ejemplo en el que funcione la funcionalidad de incrustacion.？\r\n\r\nResponder：Figma Componentes de diseno\r\n\r\nPregunta: ¿Por que la incrustacion de texto a menudo produce texto incoherente?？\r\n\r\nRespuesta: Si tomas una oracion, un parrafo o una seleccion de texto al azar y lo colocas en otros contextos, generalmente no tendra sentido. No son bloques de texto reutilizables, pero dependen en gran medida de lineas de texto anteriores.。",
         "type": "text/markdown",
-        "caption": " 嵌入功能受数据模型的可组合性限制\r",
+        "caption": " La funcionalidad integrada esta limitada por la componibilidad del modelo de datos.\r",
         "modified": "20230930171250225",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Transclusion is limited by the data models composability"
     }

@@ -108,7 +108,7 @@ export const plugin = {
         const system = Boolean(systemPrefixes?.includes(query[0]));
         const realQuery = (system ? query.substring(1) : query).trim();
 
-        // 构建基本过滤器字符串
+        // Cree una cadena de filtro basica
         const baseFilter = `[all[tiddlers+shadows]]+${context.filter} ${context.applyExclusion ? titleTextExclusionFilter() : ''}`;
         const filter = realQuery ? `${baseFilter} +[search[${realQuery}]]` : baseFilter;
         const result = await filterTiddlersAsync(filter, {

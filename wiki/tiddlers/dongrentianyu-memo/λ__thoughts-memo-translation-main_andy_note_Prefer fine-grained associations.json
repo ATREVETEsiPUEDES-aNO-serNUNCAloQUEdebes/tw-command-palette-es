@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/Prefer fine-grained associations",
-        "text": "# 优先使用细粒度的关联\r\n\r\n原文：[Prefer fine-grained associations (andymatuschak.org)](https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB)\r\n\r\n信息系统中，材料之间的链接（例如[常青笔记之间应该建立大量链接](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)）可以是细粒度的（如文章中一句话中的引用），也可以是粗粒度的（如「另请参阅」小节）。\r\n\r\n一般来说，创建细粒度关联会更好。例如你在读论文，比起在杂乱的相关论文列表中翻找有用内容，X 论文与 N 段落有关这一信息更有用。\r\n\r\n双向链接尤其如此，否则很难知道这里的「反向」关系为何合理。",
+        "text": "# Priorizar el uso de asociaciones detalladas\r\n\r\nTexto original：[Prefer fine-grained associations (andymatuschak.org)](https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB)\r\n\r\nVinculos entre materiales en sistemas de informacion (p. ej.[Deberia haber muchos vinculos entre las notas imperecederas.](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)）Puede ser detallado (como una cita en una oracion de un articulo) o grueso (como「Ver tambien」Seccion）。\r\n\r\nEn general, es mejor crear asociaciones detalladas. Por ejemplo, si esta leyendo un articulo, es mejor buscar contenido util que buscar en una lista desordenada de articulos relacionados.，X Articulos y N Los parrafos sobre esta informacion son mas utiles.。\r\n\r\nEsto es especialmente cierto para los enlaces bidireccionales; de lo contrario, es dificil saber que esta pasando aqui.「revertir」Por que la relacion es razonable。",
         "type": "text/markdown",
-        "caption": " 优先使用细粒度的关联\r",
+        "caption": " Priorizar el uso de asociaciones detalladas\r",
         "modified": "20230930171250223",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Prefer fine-grained associations"
     }

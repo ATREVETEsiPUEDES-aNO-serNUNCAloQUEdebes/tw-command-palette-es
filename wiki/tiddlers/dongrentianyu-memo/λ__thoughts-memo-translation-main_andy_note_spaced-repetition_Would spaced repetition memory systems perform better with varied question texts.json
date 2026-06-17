@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/spaced-repetition/Would spaced repetition memory systems perform better with varied question texts",
-        "text": "# 间隔重复记忆系统用不同的问题文本会有更好的表现吗？\r\n\r\n原文：[Would spaced repetition memory systems perform better with varied question texts? (andymatuschak.org)](https://notes.andymatuschak.org/zPQ4PsyZABQxajikxzp73TUBFG9ShJPG3hd)\r\n\r\n在[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中经常遇到的一个问题是，人们在学习一个问题文本时，过于从字面意思去理解，对其表面特征作出反应，而不是真正思考其内容：[编写间隔重复记忆卡片应避免浅层次的「模式匹配」](https://notes.andymatuschak.org/z6S3cEUXNktEEZEzRqUXh5ivRNMWjJ2nq72Ys)。也许更好的做法是在复习过程中安排不同形式的问题文本，可以由作者创建，也可以由机器生成（[语言模型可以为间隔重复卡片产生有用的问题变体](https://notes.andymatuschak.org/zEhne31FD53eNQw3bpcuomfxMYL3s1qkhbF)）。\r\n\r\n- [Butler, A. (2010). Repeated Testing Produces Superior Transfer of Learning Relative to Repeated Studying. Journal of Experimental Psychology. Learning, Memory, and Cognition, 36, 1118–1133.](https://notes.andymatuschak.org/zKhfH8c9tyT3e8sZzDSKZ3yMmLFjybUT1CA) 发现用不同形式的问题文本进行提取练习与持续用固定的问题文本进行测试的效果完全没有区别",
+        "text": "# ¿Funcionara mejor el sistema de memoria de repeticiones espaciadas utilizando diferentes textos de preguntas?？\r\n\r\nTexto original：[Would spaced repetition memory systems perform better with varied question texts? (andymatuschak.org)](https://notes.andymatuschak.org/zPQ4PsyZABQxajikxzp73TUBFG9ShJPG3hd)\r\n\r\nen[Sistema de memoria de repeticiones espaciadas](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)Un problema que se encuentra a menudo es que cuando las personas estudian un texto de preguntas, lo toman demasiado literalmente y reaccionan a sus caracteristicas superficiales en lugar de pensar realmente en su contenido.：[Al escribir tarjetas de memoria con repeticiones espaciadas, se deben evitar las de nivel superficial.「Coincidencia de patrones」](https://notes.andymatuschak.org/z6S3cEUXNktEEZEzRqUXh5ivRNMWjJ2nq72Ys)。Quizas un mejor enfoque seria organizar diferentes formas de texto de preguntas durante el proceso de revision, ya sea creado por el autor o generado por una maquina.（[Los modelos de lenguaje pueden generar variaciones de preguntas utiles para tarjetas de repeticion espaciadas](https://notes.andymatuschak.org/zEhne31FD53eNQw3bpcuomfxMYL3s1qkhbF)）。\r\n\r\n- [Butler, A. (2010). Repeated Testing Produces Superior Transfer of Learning Relative to Repeated Studying. Journal of Experimental Psychology. Learning, Memory, and Cognition, 36, 1118–1133.](https://notes.andymatuschak.org/zKhfH8c9tyT3e8sZzDSKZ3yMmLFjybUT1CA) Se encontro que no hay diferencia en el efecto de los ejercicios de extraccion utilizando diferentes formas de textos de preguntas y pruebas continuas con textos de preguntas fijas.",
         "type": "text/markdown",
-        "caption": " 间隔重复记忆系统用不同的问题文本会有更好的表现吗？\r",
+        "caption": " ¿Funcionara mejor el sistema de memoria de repeticiones espaciadas utilizando diferentes textos de preguntas?？\r",
         "modified": "20230930171250224",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Would spaced repetition memory systems perform better with varied question texts"
     }

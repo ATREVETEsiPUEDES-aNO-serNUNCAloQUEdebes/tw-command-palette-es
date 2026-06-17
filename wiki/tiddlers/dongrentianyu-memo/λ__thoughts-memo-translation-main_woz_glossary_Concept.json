@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/woz/glossary/Concept",
-        "text": "# 概念\r\n\r\n原文：[Concept - supermemo.guru](https://supermemo.guru/wiki/Concept)\r\n\r\n **概念** 是对一组对象的[泛化](https://supermemo.guru/wiki/Generalization)。其与理念（idea）、实体（entity）、概念（notion）、群体（group）等术语有部分重合。例如， **动物** 是从特定的猫、鸟等对象派生出来的概念。\r\n\r\n大脑中的 **概念** 也可以表达特性（property）、属性（attribute）、特质（quality）等，即对象特征的抽象（例如， **黄色** 的概念）。\r\n\r\n在大脑中， **概念** 可以由[概念细胞](https://supermemo.guru/wiki/Concept_cell)表示（在理想情况下），或者由[概念网络](https://supermemo.guru/wiki/Concept_network)中的激活模式表示（例如在学习和[泛化](https://supermemo.guru/wiki/Generalization)的早期阶段）。\r\n\r\n[概念细胞](https://supermemo.guru/wiki/Concept_cell)的激活可能使大脑产生联想。[一系列的激活](https://supermemo.guru/wiki/Spreading_activation)提供了 **心理计算** （推理）的机制。参见：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)\r\n\r\n欲了解 **概念** 在大脑中的作用，请参见：[概念网络](https://supermemo.guru/wiki/Concept_network)。\r\n\r\n本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 系列中关于记忆、学习、创造力和问题解决的文本。",
+        "text": "# Concepto\r\n\r\nTexto original：[Concept - supermemo.guru](https://supermemo.guru/wiki/Concept)\r\n\r\n **Concepto** Para un grupo de objetos[Generalizacion](https://supermemo.guru/wiki/Generalization)。Eso y las ideas.（idea）、Entidad（entity）、Concepto（notion）、grupo（group）y otros terminos se superponen parcialmente. por ejemplo， **animales** Es un concepto derivado de objetos especificos como gatos y pajaros.。\r\n\r\nEn el cerebro **Concepto** Tambien puede expresar caracteristicas.（property）、Propiedades（attribute）、Rasgos（quality）etc., es decir, la abstraccion de las caracteristicas del objeto (p. ej.， **amarillo** Concepto de）。\r\n\r\nEn el cerebro， **Concepto** Puede ser[Celulas conceptuales.](https://supermemo.guru/wiki/Concept_cell)Representado (idealmente), o por[Red conceptual](https://supermemo.guru/wiki/Concept_network)Representacion del patron de activacion en (por ejemplo, en el aprendizaje y[Generalizacion](https://supermemo.guru/wiki/Generalization)Las primeras etapas de）。\r\n\r\n[Celulas conceptuales.](https://supermemo.guru/wiki/Concept_cell)La activacion de puede hacer que el cerebro asocie。[Una serie de activaciones](https://supermemo.guru/wiki/Spreading_activation)Siempre **Calculo mental** （Mecanismo de razonamiento). Ver：[Como solucionar cualquier problema？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)\r\n\r\nQuieres saber **Concepto** Para conocer su papel en el cerebro, consulte：[Red conceptual](https://supermemo.guru/wiki/Concept_network)。\r\n\r\nBen[Glosario](https://supermemo.guru/wiki/Glossary)Entradas para explicacion. [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) Textos de la serie sobre memoria, aprendizaje, creatividad y resolucion de problemas。",
         "type": "text/markdown",
-        "caption": " 概念\r",
+        "caption": " Concepto\r",
         "modified": "20230930171250230",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Concept"
     }

@@ -1,65 +1,65 @@
-## 被「怎么做」蒙蔽了双眼
+## ser「Como hacerlo」Cegado
 
-原文：[Square Signals : Blinded by "how" (andymatuschak.org)](https://blog.andymatuschak.org/post/69049177559/blinded-by-how)
+Texto original：[Square Signals : Blinded by "how" (andymatuschak.org)](https://blog.andymatuschak.org/post/69049177559/blinded-by-how)
 
-想象一下，你刚搬到一座新城市。每次出门，你都靠一台导航仪告诉你怎么走。但导航仪并不给你看地图，只告诉你走几步、往哪儿拐。出门时，你得戴上眼罩，街名和地标都看不见。但是，经过这么多年，你每次都能准时到达目的地，所以你也没抱怨.
+Imagina que acabas de mudarte a una nueva ciudad. Cada vez que sales, confias en un navegador que te indica el camino. Pero el navegador no te muestra un mapa, solo te dice cuantos pasos dar y donde girar. Cuando sales, tienes que llevar una venda en los ojos para no poder ver los nombres de las calles o los puntos de referencia. Pero, despues de todos estos anos, siempre llegas a tu destino a tiempo, asi que no te quejas..
 
-按照这种方式导航，如果没有逐步的指示，你根本不知道如何去一个新地点。你不可能在路上发现什么意料之外的事，也找不出更快到达目的地的捷径，甚至连一个地方和另一个你去过的地方是相邻的都察觉不到。但这恰恰就是我们平时被教育的方式！
+Navega de esta manera y sin instrucciones paso a paso, no tendras idea de como llegar a una nueva ubicacion. No encontraras nada inesperado en el camino, no encontraras un atajo mas rapido a tu destino, ni siquiera notaras que un lugar esta adyacente a otro lugar en el que has estado. Pero asi es exactamente como nos ensenan.！
 
-这种对待知识的方式几乎无所不在：数学生背一堆特定形式的函数的积分步骤，物理学生将旋转运动方程与线性运动方程分开背诵，而计算机学生死记硬背数据结构的各种特点。他们知道「怎么做」，但对「为什么」却一无所知。这种学习方式是很多人一直到毕业都在用的。
+Esta forma de tratar el conocimiento es casi omnipresente: los estudiantes de matematicas memorizan los pasos de integracion de un conjunto de funciones de una forma especifica, los estudiantes de fisica memorizan las ecuaciones del movimiento rotacional por separado de las ecuaciones del movimiento lineal, y los estudiantes de informatica memorizan las diversas caracteristicas de las estructuras de datos. ellos saben「Como hacerlo」，Pero si「¿Por que?」Pero nada. Muchas personas utilizan este metodo de aprendizaje hasta que se graduan.。
 
-这种只学习一个领域的 **结果** ——但不理解背后 **原理** 的学生——基本上出社会也只能做些职业贡献。他只能照葫芦画瓢，用在学校里学到的 **怎么做** 来处理老师早就教过的问题。但没有了背后的 **为什么** 支撑，面对新情况他就束手无策了，就跟那个戴着眼罩在城市里走路的人差不多。
+Los que solo estudian un campo **Resultados** ——Pero no entiendo el detras de escena. **Principios** Los estudiantes basicamente solo pueden hacer contribuciones profesionales cuando abandonan la sociedad. Solo puede copiar la calabaza y usar lo que aprendio en la escuela. **Como hacerlo** Para afrontar los problemas que el profesor te ha ensenado hace mucho tiempo. Pero no hay detras **¿Por que?** Apoyo, se siente indefenso ante situaciones nuevas, al igual que la persona que lleva un parche en el ojo caminando por la ciudad.。
 
-当然，人不可能什么都懂，什么都知道！搞明白「为什么」自然比单纯知道「怎么做」费劲多了。[有时候，先知道个大概结果，也能激发你去深挖背后的原理](http://blog.andymatuschak.org/post/18851823748/top-to-bottom-bottom-to-top)。但麻烦的是，当我们 **误以为** 知道了「怎么做」就是真正懂了某事，那就走偏了——这种半桶水的知识容易束缚人，还可能拖后腿。我见过很多人，因为这种知识而变得过于保守，害怕尝试新事物，更糟糕的是，他们沾沾自喜，原地踏步。很多行业里的老鸟，往往也就像是走路带着眼罩，只知道数步数，却看不到前方的路。
-
-------
-
-我很幸运，生活和工作中，我身边都是一群才华横溢的人。当然，我们应该肯定身边人的才华和贡献，但有时我和他人发出的赞美，却带有些不同的意味。是那种几乎是叹气的、无助的、沮丧的赞叹：「唉，那家伙真的是 **太牛了** 。」
-
-对他人的欣赏其实能带给我们动力。它可能会让你意识到自己在哪里需要更努力（e.g. 「唔，我好像得补补我的统计学」），或者启发你如何去解决问题（e.g. 「也许那种方法可以应用在同类问题上」）。但那种「真的太牛了」的赞叹背后，隐藏着 **恐吓** 。它无法带来见解，因为它其实是在说「我怎么也达不到他那样」。这就像是我们想去一个地方，但导航并不知道路，自己又无法摘下眼罩。
-
-知识可以指引我们从 A 走到 B——从仰慕者变成榜样。但单靠导航仪提供的脚步数的知识，对规划路线去新的地方显得太过狭隘。要真正探索新路，你需要更广阔的视角——一张地图。每当我自察到赞叹得有点失态，我会摘下眼罩，开始探索周围的环境，绘制一张地图，找一条回家的路。
-
-但在我生命中很多时光里，我都不知道自己带着眼罩，更别提摘下它了。我误将那些按步骤的指示当作了真正的理解。我把「怎么做」和明白「为什么」当做一回事。这些背下来的事实和程序性知识变成了「虚假知识」，有时候比一无所知还糟。（\*译注：有点过于抽象了，举个例子：搞 AI 的被 chatgpt 破防了 / 用 python 的不知道 List 背后是数组 ）
-
-我从未想过可以用另一种方式来获取知识：毕竟，我周围的人似乎都是按照同样的方式来获取方向的。我从未见过有人摘下他们的眼罩——我该怎么做呢？有谁能指点我该怎么开拓自己的路？我怎么知道我知道了什么？
+¡Por supuesto, uno no puede entenderlo todo y saberlo todo! descubrelo「¿Por que?」La naturaleza es mejor que simplemente saber「Como hacerlo」Mucho mas esfuerzo。[A veces, conocer primero un resultado aproximado tambien puede inspirarte a profundizar en los principios que hay detras de el.](http://blog.andymatuschak.org/post/18851823748/top-to-bottom-bottom-to-top)。Pero el problema es que, cuando **Creer erroneamente** Lo tengo「Como hacerlo」Si realmente entiendes algo, te extraviaras; este tipo de conocimiento medio vacio puede limitar facilmente a las personas e incluso obstaculizarlas. He visto a muchas personas, debido a este conocimiento, volverse demasiado conservadoras, temerosas de probar cosas nuevas o, peor aun, volverse complacientes y permanecer en la misma rutina. Los veteranos en muchas industrias a menudo caminan con las anteojeras puestas. Solo saben contar los pasos pero no pueden ver el camino que tienen por delante.。
 
 ------
 
-有时，这种「虚假知识」会引发更强烈的恐惧。有一天，你受邀去一个很远的地方会面。但你的导航从没听过那，你也不知道怎么走。时间渐渐接近，心里的疑惑也随之增多。过去，你总觉得跟着它走就对了。难道真有它不知道的地方吗？有多少这样的地方？它们难道都不重要？你觉得你自己很会导航 —— 难道以前都是靠的运气？
+Tengo la suerte de estar rodeado de gente talentosa en mi vida y en mi trabajo. Por supuesto, debemos reconocer los talentos y contribuciones de quienes nos rodean, pero a veces los elogios que yo y otros damos tienen significados diferentes. Es una admiracion casi suspiro, impotente y frustrada.：「Por desgracia, ese tipo realmente lo es. **Que genial** 。」
 
-这一连串的想法真是吓人。每一步都在放大不断增长的认知失调。这时，很明显得换种方法来认识事物了。但由于要[消除这种失调](https://href.li/?http://en.wikipedia.org/wiki/Cognitive_dissonance#Belief_disconfirmation_paradigm)的压力太大，人们更容易 **主动回避** ，逃避那些引发疑问的目标。
+El aprecio por los demas puede realmente darnos motivacion. Podria hacerte darte cuenta de donde necesitas trabajar mas duro（e.g. 「Mmmm, supongo que necesito repasar mis estadisticas.」），O inspirarte sobre como resolver problemas.（e.g. 「Quizas ese enfoque pueda aplicarse a problemas similares.」）。Pero eso「Realmente asombroso」Detras de la admiracion, hay algo escondido **Intimidacion** 。No conduce a ideas porque realmente dice「Nunca podre ser como el」。Es como si quisieramos ir a algun lado, pero la navegacion no conoce el camino y no podemos quitarnos la venda de los ojos.。
 
-另一种方式看起来并不怎么好。这意味着你要鼓起勇气，承认自己所懂的远比想象中的要少。你需要去探索出背后的一群「为什么」，从而衍生出新的一群「怎么做」。因为你正在绘制地图（首先你会明白你 **需要** 一张地图，然后才是这张地图到底 **是** 什么），所以一开始，你到任何地方都得多花点儿时间。最后容易得到一些结论是：你根本不需要去会面；你不能理解某段数学证明，只有「真正聪明」的人才能；你没办法处理问题，应该「让专家」来处理。
+El conocimiento puede guiarnos desde A caminar hasta B——De admirador a modelo a seguir. Pero depender unicamente del conocimiento de los pasos que proporciona el navegador es demasiado limitado para planificar rutas a nuevos lugares. Para explorar verdaderamente nuevos caminos, se necesita una perspectiva mas amplia: un mapa. Cada vez que me doy cuenta de que estoy un poco abrumado por la admiracion, me quito las vendas de los ojos y empiezo a explorar lo que me rodea, a dibujar un mapa y a encontrar el camino a casa.。
 
-这回，情况比单纯的惊慌失措还糟。认知失调的压力，直接让你放弃了深究事情真相的路。
+Pero durante gran parte de mi vida, ni siquiera sabia que tenia los ojos vendados, y mucho menos quitarmelo. Confundi esas instrucciones paso a paso con una verdadera comprension. yo puse「Como hacerlo」Y entender「¿Por que?」Tratelo como una sola cosa. Estos hechos memorizados y conocimientos procesales se convierten en「Conocimiento falso」，A veces es peor que no saber nada。（\*Nota de traduccion: es demasiado abstracto. Por ejemplo: hacer AI la colcha chatgpt Rompiendo la defensa / uso python No lo se List Detras de escena hay una variedad ）
 
-------
-
-我见过一些人，当这种恐惧越积越多，特别是在连续几年的顺风顺水后，会涌现出更大的隐患。有时，单纯逃避导航不知之地并不能解决渐增的认知失调。你可能还会劝 **其他人** 也不要去那些未知之地。你甚至必须说服自己去那儿的都是蠢货或者害虫，认为他们的导航一定会带歪他们。现在，你已经是个「狂信徒」了。
-
-你并不知道，那些另辟蹊径的人其实并没有被蒙蔽双眼。他们是凭地图行走的，每个人都有自己手绘的地图，他们互相协作，补充其中的细节。
-
-当这些深信不疑的观念在知识“权贵”心中滋生，它们会变得十分危险。强烈的失调会迫使这个狂信徒动用他的权力来 **维持现状** ，逼迫他人的方法不超过他能理解的范围，并将问题扭曲成他早已背下的答案所能解决的那种。对于这位狂信徒来说，任何激进的思想是都是对心理健康的威胁。
-
-所以，当这种人能够影响他人，或掌控他人所依赖的东西时，众人就有麻烦了。无论怎么努力，新问题都会涌现出来，而他们的导航仪里不可能提前编入所有问题的解决方案。早晚有一天，会有一个没有预设答案的问题出现。这位狂信徒需要调动他所有的理解来合成一个新答案，但问题是，他什么都不 **理解** ，他只不过是记住了一些结论罢了。
+Nunca se me ocurrio que el conocimiento pudiera adquirirse de otra manera: despues de todo, todos los que me rodeaban parecian orientarse de la misma manera. Nunca he visto a nadie quitarse la venda de los ojos, ¿que hago? ¿Alguien puede darme algun consejo sobre como forjar mi propio camino? ¿Como se lo que se?？
 
 ------
 
-在软件工程领域，有许多这样的狂信徒，他们固执地维护这种停滞不前的状态：他们只懂一种编程语言，只想了解这一种，认为这是最好的，其它语言都是垃圾。[Steve Yegge 分享过自己从这种偏见中觉醒的经历](https://href.li/?https://sites.google.com/site/steveyegge2/ancient-languages-perl)：
+A veces, esto「Conocimiento falso」Puede desencadenar un miedo mas intenso. Un dia, te invitan a una reunion en un lugar lejano. Pero tu navegador nunca ha oido hablar de eso y no sabes como llegar alli. A medida que se acercaba el momento, las dudas en mi corazon tambien aumentaron. En el pasado, siempre sentias que tenias que seguirlo. ¿Hay realmente algo que no sabe? ¿Cuantos lugares como este hay? ¿No son todos importantes? ¿Crees que eres bueno navegando? ¿Podria ser que confiaste en la suerte en el pasado?？
 
-> 当程序员花费多年时间死记硬背这些编程「咒语」后，告诉他们他们辛苦掌握的编程语言即将被淘汰，那感觉简直就像拿刀对着他们家人呢 …… 编程语言的宗教狂热很容易破解：你只需要编写一个编译器。…… 在此之后的几周，你再看自己的代码都会透视其背后的机制，就像你长时间盯着随机点立体图时的那种感觉。
+Esta serie de pensamientos da realmente miedo. Cada paso amplifica la creciente disonancia cognitiva. Llegados a este punto, es obvio que tenemos que cambiar nuestra forma de entender las cosas. Pero debido a[Eliminar este desequilibrio](https://href.li/?http://en.wikipedia.org/wiki/Cognitive_dissonance#Belief_disconfirmation_paradigm)Con demasiada presion, es mas probable que las personas **Evitacion activa** ，Evite objetivos que generen dudas。
+
+La otra manera no se ve tan bien. Esto significa tener el coraje de admitir que sabes mucho menos de lo que crees. Necesitas explorar el grupo detras.「¿Por que?」，Asi se deriva un nuevo grupo de personas.「Como hacerlo」。Porque estas dibujando un mapa (primero entenderas que **Necesidad** Un mapa, y luego el mapa hasta el final. **es** Que), asi que al principio te lleva un poco mas de tiempo llegar a cualquier parte. Al final, algunas conclusiones faciles son: no es necesario ir a la reunion en absoluto; no se puede entender una determinada prueba matematica, solo「Realmente inteligente」talento; Si no puedes resolver el problema, deberias「Deja que los expertos」para lidiar con。
+
+Esta vez fue peor que el simple panico. La presion de la disonancia cognitiva te hace renunciar directamente a explorar la verdad del asunto.。
+
+------
+
+He visto a algunas personas, cuando este tipo de miedo se acumula, especialmente despues de varios anos consecutivos de navegacion sin contratiempos, emergen mayores peligros ocultos. A veces, simplemente evitar navegar por lugares desconocidos no resuelve la creciente disonancia cognitiva. Tambien podrias aconsejar **Otros** Tampoco vayas a lugares desconocidos. Incluso hay que convencerse de que las personas que fueron alli eran idiotas o alimanas, pensando que su navegacion debio haberlos descarriado. Ahora ya eres un「Fanaticos」。
+
+Lo que no sabes es que quien encuentra otro camino no esta ciego. Caminaron segun el mapa. Todos tenian su propio mapa dibujado a mano y colaboraban entre si para agregar detalles.。
+
+Cuando estas creencias profundamente arraigadas crecen en las mentes de los intelectuales "poderosos", pueden volverse muy peligrosas. Una intensa disonancia obligara al cultista a utilizar sus poderes para **Mantener el status quo** ，Empujar a los demas mas alla de lo que pueden entender y convertir los problemas en problemas que puedan resolverse con respuestas que ya ha memorizado. Para este cultista, cualquier pensamiento radical es una amenaza para la salud mental。
+
+Entonces, cuando una persona asi es capaz de influir en los demas o controlar cosas de las que otros dependen, todos estan en problemas. Por mucho que lo intenten, surgiran nuevos problemas y es imposible programar soluciones para todos ellos de antemano en sus navegadores. Tarde o temprano surgira una pregunta que no tiene una respuesta preestablecida. El cultista necesita movilizar toda su comprension para sintetizar una nueva respuesta, pero el problema es que no tiene ninguna. **entender** ，Simplemente memorizo algunas conclusiones.。
+
+------
+
+En el campo de la ingenieria de software, hay muchos fanaticos que mantienen obstinadamente este estado de estancamiento: solo conocen un lenguaje de programacion, solo quieren saber este y piensan que es el mejor, y otros lenguajes son basura.。[Steve Yegge Compartio su propia experiencia de despertar de este prejuicio.](https://href.li/?https://sites.google.com/site/steveyegge2/ancient-languages-perl)：
+
+> Cuando los programadores pasan anos memorizando programacion「Hechizo」Finalmente, decirles que el lenguaje de programacion que tanto trabajaron para dominar esta a punto de volverse obsoleto es como amenazar a su familia con un cuchillo. …… El fanatismo religioso del lenguaje de programacion es facil de descifrar: solo necesita escribir un compilador。…… Despues de unas semanas, cuando mires tu codigo, veras el mecanismo detras de el, como cuando miras fijamente un estereograma de puntos aleatorios durante mucho tiempo.。
 
 >
 
-> 能够熟练地敲出正确的代码，就像是一位萨满，祈求机器之神，得到你希望的计算结果，这感觉真好。但当你写一个编译器后，那些神话就会破灭，你再也不能创造真正的「魔法」。但你在刺激上失去什么，就在能力上获得什么：对编程语言和与语言相关的工具的掌控力。你会快速而无畏地掌握新的编程语言。你可能失去了那种盲目的信仰，但你会更深入地了解程序那令人心醉的美丽结构。
+> Se siente bien poder escribir el codigo correcto de manera experta, como un chaman, rezando al Dios de la Maquina para obtener los resultados de calculo que desea. Pero cuando escribes un compilador, esos mitos se hacen anicos y ya no puedes crear archivos reales.「magia」。Pero lo que se pierde en emocion, se gana en poder: dominio de lenguajes de programacion y herramientas relacionadas con los lenguajes. Dominaras nuevos lenguajes de programacion de forma rapida y sin miedo. Puede que pierdas esa fe ciega, pero obtendras una comprension mas profunda de la estructura increiblemente hermosa del programa.。
 
-我的故事，其实起始于物理。我花了好几年时间去背那些物理公式，但背后的推导、它们的关系、它们的意义，我一窍不通。我只知道用这些公式来算题，至于为什么要这么算，一头雾水。这就是我们被教的方式，看起来，连老师也只是这样理解这些内容。
+En realidad, mi historia comienza con la fisica. Pase varios anos memorizando esas formulas fisicas, pero no entendia la derivacion, sus relaciones ni sus significados. Solo se utilizar estas formulas para calcular problemas. En cuanto a por que necesito hacer calculos como este, estoy completamente confundido. Asi nos ensenan, y parece que hasta los profesores solo entienden el contenido asi。
 
-我尝试制作物理效果的游戏，但遇到了预料之中的问题：面对新问题时，我完全不知所措；看到那些成功的游戏开发者，我感到畏惧；这种恐惧建立后，我积极拒绝去深入理解其中的原理，我总是告诉自己，从网上随便搜点代码，拼凑一下就能应付过去。幸好，我当时并没有真正地为了维持这种现状而努力。
+Intente hacer un juego con efectos fisicos, pero encontre los problemas esperados: estaba completamente perdido ante nuevos problemas; Tuve miedo cuando vi a esos desarrolladores de juegos exitosos; Despues de que se establecio este miedo, me negue activamente a comprender profundamente los principios. Siempre me dije a mi mismo que podia encontrar algun codigo en Internet y reconstruirlo para afrontarlo. Afortunadamente, en realidad no estaba tratando de mantener el status quo en ese momento.。
 
-在加州理工的大一，有一堂课彻底颠覆了我对物理的学习方式。那是我首次真心对待学科，摘下「眼罩」。在之后的两年，我痛彻心扉地发现，实际上，我对很多事情，包括我最擅长的计算机科学，都缺乏真正的理解。
+Durante mi primer ano en Caltech, hubo una clase que cambio por completo mi forma de estudiar fisica. Esa fue la primera vez que tome el tema en serio y me quite el「Con los ojos vendados」。En los dos anos siguientes, descubri dolorosamente que, de hecho, carecia de una verdadera comprension de muchas cosas, incluida la informatica, en la que soy mejor.。
 
-那堂课是这样的：我们刚学完狭义相对论和电学知识。教授走进教室，把这两块知识巧妙地串联起来。他说：「假设我们有一个电子以相对论的速度沿着导线移动...」他开始写下熟悉的电学和相对论方程。几块黑板的代数运算后，[磁场的方程就这样...出现了](https://href.li/?http://books.google.com/books?id=hlRhwGK40fgC&pg=SA13-PA6&lpg=SA13-PA6&dq="The+relativity+of+magnetic+and+electric+fields"&source=bl&ots=G2RPq-eVq2&sig=5Vh7tDOGUw7nc81NrZVBRYb0tH0&hl=en&sa=X&ei=aeZSUvbvJ6r-igL4y4D4DQ&ved=0CEIQ6AEwAw#v=onepage&q="The relativity of magnetic and electric fields"&f=false)。
+Esa clase fue asi: Acababamos de terminar de aprender sobre la relatividad especial y la electricidad. El profesor entro al aula y conecto habilmente estos dos conocimientos. el dijo：「Supongamos que tenemos un electron que se mueve a lo largo de un alambre a una velocidad relativista....」Comenzo a escribir las conocidas ecuaciones de la electricidad y la relatividad. Despues de algunas operaciones de algebra en la pizarra，[La ecuacion del campo magnetico es esta...aparecio](https://href.li/?http://books.google.com/books?id=hlRhwGK40fgC&pg=SA13-PA6&lpg=SA13-PA6&dq="The+relativity+of+magnetic+and+electric+fields"&source=bl&ots=G2RPq-eVq2&sig=5Vh7tDOGUw7nc81NrZVBRYb0tH0&hl=en&sa=X&ei=aeZSUvbvJ6r-igL4y4D4DQ&ved=0CEIQ6AEwAw#v=onepage&q="The relativity of magnetic and electric fields"&f=false)。
 
-那个公式，我早就 **背** 下来了，但从未理解过它背后的 **意义** 。电与磁，原来差的只是一个看问题的角度。那一刻，我恍然大悟，从此开始对一切都充满好奇，想要深入探究其背后的 **为什么** 。
+Conozco esa formula desde hace mucho tiempo **Volver** Bajo, pero nunca entendio lo que habia detras. **Significado** 。Resulta que la diferencia entre electricidad y magnetismo es solo una perspectiva del problema. En ese momento, de repente lo entendi. A partir de entonces senti curiosidad por todo y quise profundizar en las razones detras de ello. **¿Por que?** 。

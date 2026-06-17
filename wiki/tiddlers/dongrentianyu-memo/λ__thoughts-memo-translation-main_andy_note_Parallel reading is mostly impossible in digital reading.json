@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/Parallel reading is mostly impossible in digital reading",
-        "text": "# 电子阅读时，并排阅读基本上不可能\r\n\r\n原文：[Parallel reading is mostly impossible in digital reading (andymatuschak.org)](https://notes.andymatuschak.org/z8KaXwxWaMdUbhKa3RC2zN8ZB36gfvWcoWmwR)\r\n\r\n据我所知，没有 PDF 或 EPUB 阅读器，允许读者一次查看同一本书的多篇不相邻的页面。如果你要查看手头章节对应的那部分参考书目，你需要来回翻动页面。我只知道 [LiquidText](https://notes.andymatuschak.org/z2fGXCnKwFV1jDmKsp15wkbV5WHSnLpy52Mq) 是常见阅读软件中的唯一例外。\r\n\r\n[物理剪切和粘贴是并行的，并会存在不严格的中间状态](https://notes.andymatuschak.org/z6VMTBKqURcGfZa7Kj24U8wqTCS4vXukuCizB)，然而电子的复制粘贴也并非如此，于是问题更严重了。\r\n\r\n相关笔记：[电子阅读很难保持多个阅读位置](https://notes.andymatuschak.org/z7ZNevNutwN3wT5hTRLUipssHBNbxUWSyDHrr)",
+        "text": "# Cuando se lee electronicamente, la lectura en paralelo es basicamente imposible.\r\n\r\nTexto original：[Parallel reading is mostly impossible in digital reading (andymatuschak.org)](https://notes.andymatuschak.org/z8KaXwxWaMdUbhKa3RC2zN8ZB36gfvWcoWmwR)\r\n\r\nHasta donde yo se, no PDF o EPUB Lector que permite a los lectores ver varias paginas no adyacentes del mismo libro al mismo tiempo. Si desea consultar la seccion de la bibliografia que corresponde al capitulo en cuestion, debe hojearla de un lado a otro. solo lo se [LiquidText](https://notes.andymatuschak.org/z2fGXCnKwFV1jDmKsp15wkbV5WHSnLpy52Mq) La unica excepcion entre el software de lectura comun。\r\n\r\n[El corte y pegado fisico son paralelos y habra estados intermedios sueltos.](https://notes.andymatuschak.org/z6VMTBKqURcGfZa7Kj24U8wqTCS4vXukuCizB)，Sin embargo, copiar y pegar electronicamente no es asi, por lo que el problema se vuelve mas grave.。\r\n\r\nNotas relacionadas：[La lectura electronica es dificil de mantener multiples posiciones de lectura.](https://notes.andymatuschak.org/z7ZNevNutwN3wT5hTRLUipssHBNbxUWSyDHrr)",
         "type": "text/markdown",
-        "caption": " 电子阅读时，并排阅读基本上不可能\r",
+        "caption": " Cuando se lee electronicamente, la lectura en paralelo es basicamente imposible.\r",
         "modified": "20230930171250223",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Parallel reading is mostly impossible in digital reading"
     }

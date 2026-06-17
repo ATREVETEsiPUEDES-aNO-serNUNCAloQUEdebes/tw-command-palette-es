@@ -1,12 +1,12 @@
 # Typescript plugin template for TiddlyWiki5
 
-此插件基于[[Souk21/TW-commandpalette|https://github.com/Souk21/TW-commandpalette]] ，非常感谢他的工作，在过去的一年里这个插件极大地为我提高了工作效率。我将它主要源码复制过来汉化并加入拼音搜索功能，以便我们更灵活地在中文环境下使用。
+Este complemento se basa en[[Souk21/TW-commandpalette|https://github.com/Souk21/TW-commandpalette]] ，Muchas gracias por su trabajo, este complemento ha mejorado enormemente mi productividad durante el ano pasado. Copie su codigo fuente principal al chino y agregue una funcion de busqueda pinyin para que podamos usarlo de manera mas flexible en el entorno chino.。
 
-## 功能
+## Funcion
 
-按下 ctrl/cmd + P 唤起搜索框，按的时候如果多加一个 shift 可以唤起功能框。
+Presione ctrl/cmd + P Abre el cuadro de busqueda, si lo presionas agrega uno mas shift Se puede evocar el cuadro de funciones.。
 
-搜索的时候可以打拼音。
+Puedes usar Pinyin al buscar。
 
 ## During development
 

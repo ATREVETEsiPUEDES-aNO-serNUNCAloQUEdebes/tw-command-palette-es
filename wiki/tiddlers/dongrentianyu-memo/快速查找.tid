@@ -1,25 +1,25 @@
 created: 20230914045324466
-creator: 马不前
+creator: Deja de seguir adelante
 list-after: $:/core/ui/SideBar/Recent
 modified: 20231003123809600
-modifier: 马不前
+modifier: Deja de seguir adelante
 tags: Configuration $:/tags/AdvancedSearch $:/tags/SideBar
-title: 快速查找
+title: Busqueda rapida
 
 <$edit-text tiddler="$:/state/memo/list-search" field="text" tag=input
-placeholder="请输入查询链接，只展示一个" class="w-100"/>
+placeholder="Ingrese el enlace de consulta, solo se mostrara uno" class="w-100"/>
 
-<$button tooltip="清除搜索内容" class="tc-btn-invisible tc-btn-mini">
+<$button tooltip="Borrar el contenido de la busqueda" class="tc-btn-invisible tc-btn-mini">
 <$action-setfield
 $tiddler="$:/state/memo/list-search"
 text=""
 />
-清除内容 <<doc-svg "$:/core/images/close-button" "#b89a6b">>
+Contenido claro <<doc-svg "$:/core/images/close-button" "#b89a6b">>
 </$button>
 
 <$let ls={{{ [[$:/state/memo/list-search]get[text]] }}}
 ss=".+?"
-ls-regexp="原文：\[(.+)\]\(.+?\)"
+ls-regexp="Texto original：\[(.+)\]\(.+?\)"
 sl-regexp={{{  [<ls-regexp>search-replace<ss>,<ls>]  }}}>
 
 <$list filter="[!is[system]regexp:text<sl-regexp>]">
@@ -34,4 +34,4 @@ sl-regexp={{{  [<ls-regexp>search-replace<ss>,<ls>]  }}}>
 </$let>
 
 
-<<list-searchx filter:"[!is[system]]" search:"search:text" class:"alert alert-secondary" placeholder:"请输入查询链接或内容，展示所有条目中存在的" template:"original-title-template" >>
+<<list-searchx filter:"[!is[system]]" search:"search:text" class:"alert alert-secondary" placeholder:"Ingrese el enlace de consulta o el contenido para mostrar el" template:"original-title-template" >>

@@ -14,7 +14,7 @@ test.beforeEach(async ({ page }) => {
 });
 
 test('searches within a built-in filter result set', async ({ page }) => {
-  const title = `Playwright 未打标签 ${Date.now()}`;
+  const title = `Playwright No etiquetado ${Date.now()}`;
 
   await page.evaluate((untaggedTitle) => {
     const wikiWindow = window as unknown as { $tw: any };
@@ -26,8 +26,8 @@ test('searches within a built-in filter result set', async ({ page }) => {
   }, title);
 
   const input = await openCommandPalette(page, '[');
-  await typeIntoPalette(input, '[未打标签');
-  await clickPaletteItem(page, '未打标签');
+  await typeIntoPalette(input, '[No etiquetado');
+  await clickPaletteItem(page, 'No etiquetado');
 
   await expect(page.locator(palettePanelSelector)).toContainText(title);
 });

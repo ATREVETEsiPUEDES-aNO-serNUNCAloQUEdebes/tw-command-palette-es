@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/spaced-repetition/Spaced repetition memory systems are extremely efficient",
-        "text": "# 间隔重复记忆系统非常高效\r\n\r\n原文：[Spaced repetition memory systems are extremely efficient (andymatuschak.org)](https://notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)\r\n\r\n有了[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，只要每天投入短短的几分钟，你就能记住成千上万的问题的答案。这个效果不太直观，其背后是[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)的指数特点：[投入少许精力，而间隔重复的回报指数级增长](https://notes.andymatuschak.org/z7AeS1H6h8GRAaZ9ZuqumphVu1LNM323rdS6u)。\r\n\r\n每当你正确记住一个答案，该问题的测试间隔就会呈几何级数增加，形成一条指数曲线。5 天，2 周，1 个月，2 个月，4 个月，等等。如果你以恒定的速度在软件里添加问题，而每个问题在某一天出现的概率随着时间的推移呈指数式减少，那么你在某一天要复习的问题数量就会基本恒定。\r\n\r\n------\r\n\r\n## 参考文献\r\n\r\nBranwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition\r\n\r\nNielsen, M. (2018). Augmenting Long-term Memory. Retrieved from http://augmentingcognition.com/ltm.html",
+        "text": "# El sistema de memoria de repeticiones espaciadas es muy eficiente.\r\n\r\nTexto original：[Spaced repetition memory systems are extremely efficient (andymatuschak.org)](https://notes.andymatuschak.org/z5rVJfPsyCU3pHBbhwef9DNR5fohTHCQFJWir)\r\n\r\nLo tengo[Sistema de memoria de repeticiones espaciadas](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，Invirtiendo solo unos minutos al dia, podras memorizar las respuestas a miles de preguntas. Este efecto no es muy intuitivo. detras esta[Efecto de espaciado](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)Caracteristicas del indice de：[Haga un poco de esfuerzo y las recompensas de las repeticiones espaciadas aumentaran exponencialmente.](https://notes.andymatuschak.org/z7AeS1H6h8GRAaZ9ZuqumphVu1LNM323rdS6u)。\r\n\r\nCada vez que recuerdes una respuesta correctamente, el intervalo de prueba para esa pregunta aumentara geometricamente, formando una curva exponencial.。5 dias，2 semanas，1 meses，2 meses，4 meses, etc. Si agrega preguntas al software a un ritmo constante y la probabilidad de que cada pregunta aparezca en un dia determinado disminuye exponencialmente con el tiempo, entonces la cantidad de preguntas que tendra que revisar en un dia determinado sera esencialmente constante.。\r\n\r\n------\r\n\r\n## Referencias\r\n\r\nBranwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December 16, 2019, from https://www.gwern.net/Spaced-repetition\r\n\r\nNielsen, M. (2018). Augmenting Long-term Memory. Retrieved from http://augmentingcognition.com/ltm.html",
         "type": "text/markdown",
-        "caption": " 间隔重复记忆系统非常高效\r",
+        "caption": " El sistema de memoria de repeticiones espaciadas es muy eficiente.\r",
         "modified": "20230930171250224",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Spaced repetition memory systems are extremely efficient"
     }

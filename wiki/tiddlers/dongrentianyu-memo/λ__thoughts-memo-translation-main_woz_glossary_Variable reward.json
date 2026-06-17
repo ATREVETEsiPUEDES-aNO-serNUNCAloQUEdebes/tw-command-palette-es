@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/woz/glossary/Variable reward",
-        "text": "# 可变奖励\r\n\r\n原文：[Variable reward - supermemo.guru](https://supermemo.guru/wiki/Variable_reward)\r\n\r\n **可变奖励** （或 **不可预测的奖励** 或 **可变程序的奖励** ）是一种间歇性提供的奖励。强化程序的设计通常是为了使行为最大化。 **可变比率程序** 可以在不可预测的反应次数后提供强化物（例如，以 1:4 的平均比例）。 **可变时距程序** 会使用不可预测的间隔（例如，平均为 60 秒）。关于 **可变奖励** 的力量，一个流行的例子是对赌博的成瘾。该领域的开创性研究是由 [B.F. Skinner](https://en.wikipedia.org/wiki/B._F._Skinner) 进行的。\r\n\r\n另见：\r\n\r\n- [防止成瘾的奖励多样性](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)：如何避免 **可变奖励** 的消极影响\r\n\r\n- [游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)： **可变奖励** 如何导致游戏成瘾",
+        "text": "# Recompensas variables\r\n\r\nTexto original：[Variable reward - supermemo.guru](https://supermemo.guru/wiki/Variable_reward)\r\n\r\n **Recompensas variables** （o **Recompensas impredecibles** o **Recompensas por programas variables** ）Es una recompensa que se proporciona de forma intermitente. Los programas de refuerzo generalmente estan disenados para maximizar el comportamiento.。 **Programa de ratio variable** Se pueden proporcionar refuerzos despues de un numero impredecible de respuestas (por ejemplo, con 1:4 La proporcion promedio de）。 **Programa de intervalo variable** Se utilizaran intervalos impredecibles (p. ej., promediando 60 segundos). Acerca de **Recompensas variables** Un ejemplo popular del poder de 0. es la adiccion al juego. Una investigacion pionera en este campo fue realizada por [B.F. Skinner](https://en.wikipedia.org/wiki/B._F._Skinner) en curso。\r\n\r\nVer tambien：\r\n\r\n- [Variedad de recompensas para prevenir la adiccion](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)：Como evitar **Recompensas variables** Impacto negativo de\r\n\r\n- [Trastorno del juego](https://supermemo.guru/wiki/Gaming_disorder)： **Recompensas variables** Como conducir a la adiccion a los videojuegos",
         "type": "text/markdown",
-        "caption": " 可变奖励\r",
+        "caption": " Recompensas variables\r",
         "modified": "20230930171250231",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Variable reward"
     }

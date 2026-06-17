@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/Learn before you memorize",
-        "text": "# 先学再记\r\n\r\n原文：[Learn before you memorize (andymatuschak.org)](https://notes.andymatuschak.org/z2gsbsviCdBJbefxvenDcvYbYDgssBZHdgd9)\r\n\r\n[Piotr Wozniak - 有效学习 - 表述知识的二十条规则](https://notes.andymatuschak.org/zPvyUkYTbT2oiWEdSDha9ZC7okZDvTFf8eM)有条经典建议：间隔重复最好用来帮助你强化你 **已经** 理解的东西。把它看作是一种「维持状态」的方法——在你运用练习技巧之前，你必须处于足够好的状态。\r\n\r\n从机制上讲，我认为这是真的，因为[助记媒介的卡片依赖于调用外部经验（从叙述中，从现实世界的经验中）](https://notes.andymatuschak.org/zBnpJjh6V7yrWbNBJ39Gx2TXiyXVQ4jByPc)。你所复习的卡片并没有完全「覆盖」主题——不足以从它们中重新学习——但是当你复习每张卡片时，你也强化了（不太强烈的）其他 「附近」的信息，这些信息共同覆盖了更多的主题。但是，只有当你在复习前对该主题有足够的了解，形成良好的知识联系时，才有可能做到这一点。如果没有这些前提，你只是在孤立地强化你正在复习的细节。\r\n\r\n一般来说，单独的记忆卡片无论如何都不能很好地交流：[单独的间隔重复记忆卡片都是一种糟糕的交流媒介](https://notes.andymatuschak.org/z1YhDPWyvzzkC79LFcF4DSTanKpEGpic8bAe)。",
+        "text": "# Aprende primero y luego memoriza\r\n\r\nTexto original：[Learn before you memorize (andymatuschak.org)](https://notes.andymatuschak.org/z2gsbsviCdBJbefxvenDcvYbYDgssBZHdgd9)\r\n\r\n[Piotr Wozniak - Aprendizaje efectivo - Veinte reglas para expresar conocimientos.](https://notes.andymatuschak.org/zPvyUkYTbT2oiWEdSDha9ZC7okZDvTFf8eM)Hay un consejo clasico: la repeticion espaciada es mejor utilizarla para ayudarte a fortalecer tu **Ya** Algo que entender. piensa en ello como un「Mantener el estado」Metodo: debes estar en buena forma antes de poder utilizar tecnicas de practica.。\r\n\r\nMecanisticamente, creo que esto es cierto porque[Las cartas mnemotecnicas se basan en invocar experiencias externas (de la narrativa, de la experiencia del mundo real).）](https://notes.andymatuschak.org/zBnpJjh6V7yrWbNBJ39Gx2TXiyXVQ4jByPc)。Las tarjetas que revisaste no estan completas「Cobertura」Temas: no es suficiente volver a aprender de ellos, pero al revisar cada tarjeta tambien refuerzas (con menos fuerza) las demas. 「cerca」de informacion, que en conjunto cubren mas temas. Sin embargo, esto solo es posible si sabes lo suficiente sobre el tema como para formar buenas conexiones de conocimiento antes de revisarlo. Sin estos requisitos previos, simplemente esta reforzando los detalles que esta revisando de forma aislada.。\r\n\r\nEn general, las tarjetas de memoria por si solas no se comunican bien de todos modos：[Las tarjetas didacticas con repeticiones espaciadas por si solas son un medio de comunicacion deficiente.](https://notes.andymatuschak.org/z1YhDPWyvzzkC79LFcF4DSTanKpEGpic8bAe)。",
         "type": "text/markdown",
-        "caption": " 先学再记\r",
+        "caption": " Aprende primero y luego memoriza\r",
         "modified": "20230930171250221",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Learn before you memorize"
     }

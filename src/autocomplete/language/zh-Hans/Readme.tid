@@ -6,16 +6,16 @@ title: $:/plugins/linonetwo/autocomplete/language/zh-Hans/Readme
 
 <<lingo Description>>
 
-!! 命令菜单
+!! Menu de comandos
 
-如果你想用开箱即用的命令菜单，你还需要安装 [[$:/plugins/linonetwo/commandpalette]] 插件。
+Si desea utilizar el menu de comandos listo para usar, tambien debe instalar [[$:/plugins/linonetwo/commandpalette]] Complementos。
 
-!! 自动补全框
+!! Cuadro de autocompletar
 
-本插件提供了一个自动补全框微件 `<$auto-complete-search />`，基本用法如下：
+Este complemento proporciona un widget de cuadro de autocompletar. `<$auto-complete-search />`，El uso basico es el siguiente：
 
-| !参数名称              | !类型    | !描述    | !默认值 |
-| `cycleHistoryMode`    | yes/no   | 确定是否使用该模式循环浏览已打开的故事条目，仅显示历史记录，无其他功能。            | `no`       |
-| `autoFocus`           | yes/no   | 当微件渲染时，自动将焦点设置到输入框并打开面板。  | `yes`        |
-| `panelBelowInput`   | yes/no   | 默认情况下，面板位于输入下方。禁用此选项可让面板位于窗口顶部的中心位置。  | `yes`     |
-| `destroyWhenNotVis`   | yes/no   | 当不可见时，立即销毁微件。               | `no`       |
+| !Nombre del parametro              | !Escribe    | !Descripcion    | !Valor predeterminado |
+| `cycleHistoryMode`    | yes/no   | Determine si se utilizara este modo para recorrer las entradas de historias abiertas, mostrando solo el historial y ninguna otra funcion.。            | `no`       |
+| `autoFocus`           | yes/no   | Cuando se renderice el widget, establezca automaticamente el foco en el cuadro de entrada y abra el panel.。  | `yes`        |
+| `panelBelowInput`   | yes/no   | De forma predeterminada, el panel esta ubicado debajo de la entrada. Deshabilite esta opcion para centrar el panel en la parte superior de la ventana。  | `yes`     |
+| `destroyWhenNotVis`   | yes/no   | Destruye el widget inmediatamente cuando sea invisible.。               | `no`       |

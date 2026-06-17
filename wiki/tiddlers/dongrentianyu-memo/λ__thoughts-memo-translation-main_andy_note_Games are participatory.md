@@ -1,21 +1,21 @@
-## 游戏是参与式的
+## Los juegos son participativos
 
-原文：[Games effectively develop players’ skills (andymatuschak.org)](https://notes.andymatuschak.org/z2J6v5xtfJaeW5KFF6fNwkHxLWQonxuUA5ndg)
+Texto original：[Games effectively develop players’ skills (andymatuschak.org)](https://notes.andymatuschak.org/z2J6v5xtfJaeW5KFF6fNwkHxLWQonxuUA5ndg)
 
-游戏是一种[参与式环境](https://notes.andymatuschak.org/z63gaUtZqb9mMUKRf85UhtEFPMgBBJbqvT2r8)；这就是它区别于在同一台电视机上播放的电视和电影之处。以及[支持学习的参与式环境](https://notes.andymatuschak.org/z56HX9kF6fRMoRQfT6VhZN9ehnrrLDAq8FEFP)。
+Un juego es un[Entorno participativo](https://notes.andymatuschak.org/z63gaUtZqb9mMUKRf85UhtEFPMgBBJbqvT2r8)；Esto es lo que lo diferencia de la television y las peliculas reproducidas en el mismo televisor. y[Entorno participativo que apoya el aprendizaje.](https://notes.andymatuschak.org/z56HX9kF6fRMoRQfT6VhZN9ehnrrLDAq8FEFP)。
 
-## 游戏是脚手架
+## Los juegos son un andamio
 
-游戏设计者精心部署[认知脚手架](https://notes.andymatuschak.org/z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr)，以确保玩家获得享受和掌握游戏所需的技能。
+Implementacion cuidadosa por parte de los disenadores de juegos.[Andamiaje cognitivo](https://notes.andymatuschak.org/z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr)，Garantizar que los jugadores adquieran las habilidades necesarias para disfrutar y dominar el juego.。
 
-[细粒度的任务进展作为认知脚手架](https://notes.andymatuschak.org/z2qBbdZidZNjbpdggRbmgeUeVf2H7aCevSYvE)：在 [时空幻境（Braid）](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) 中，各层次被仔细排序和组织，以（无言地）逐步介绍概念。完成一个级别通常需要玩家证明他理解了一些东西，所以在游戏中取得进步 **就等于** 开始理解新事物。
+[Progresion detallada de tareas como andamiaje cognitivo](https://notes.andymatuschak.org/z2qBbdZidZNjbpdggRbmgeUeVf2H7aCevSYvE)：en [Ilusion del tiempo y el espacio.（Braid）](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) , los niveles estan cuidadosamente secuenciados y organizados para presentar conceptos (sin palabras) paso a paso. Completar un nivel normalmente requiere que el jugador demuestre que entiende algo, por lo que progresa en el juego. **es igual a** Empieza a entender cosas nuevas.。
 
-[约束作为认知脚手架](https://notes.andymatuschak.org/z8DyCwRiC8HT89mMvtBjwcGVs5ucHPHcrScch)：在见证者（Witness）中，很快就清楚了，唯一的互动元素是那些看起来像连接到一条线的圆圈，而唯一可能的互动是画出一条线。
+[Las limitaciones como andamiaje cognitivo](https://notes.andymatuschak.org/z8DyCwRiC8HT89mMvtBjwcGVs5ucHPHcrScch)：En Testigos（Witness）, rapidamente quedo claro que los unicos elementos interactivos eran circulos que parecian estar conectados a una linea, y que la unica interaccion posible era dibujar una linea.。
 
-[元认知支持作为认知脚手架](https://notes.andymatuschak.org/z4qFtxPZi21DKoLruHcmsocee1YnZy9JMArb6)：因为游戏是动态媒介，所以它们也能够为元认知提供动态支持。特别是，[游戏帮助玩家评估他们正在发展的技能](https://notes.andymatuschak.org/z2tZBJUtAasH3bGxHaEpFdP5zjjiWwqDsFxEM)和[游戏帮助玩家制定和调整计划](https://notes.andymatuschak.org/z7mU6RxxzJ9FZBCcgbYQsv9nExuK3xVm635Ks)。
+[El apoyo metacognitivo como andamiaje cognitivo](https://notes.andymatuschak.org/z4qFtxPZi21DKoLruHcmsocee1YnZy9JMArb6)：Dado que los juegos son medios dinamicos, tambien pueden proporcionar apoyo dinamico para la metacognicion. especialmente，[Los juegos ayudan a los jugadores a evaluar sus habilidades en desarrollo.](https://notes.andymatuschak.org/z2tZBJUtAasH3bGxHaEpFdP5zjjiWwqDsFxEM)y[Los juegos ayudan a los jugadores a formular y ajustar planes.](https://notes.andymatuschak.org/z7mU6RxxzJ9FZBCcgbYQsv9nExuK3xVm635Ks)。
 
-## 游戏充满了情景体验
+## El juego esta lleno de experiencias situacionales.
 
-游戏是一种[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)，所以在 [Braid](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) 这样的游戏中（不像在幼稚的[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)中），玩家感觉不到他们正在被「教导」。在情感上，他们的体验是他们正在构建自己的理解，这可能是非常令人满意的。另请参阅[情景体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)。
+Un juego es un[Experiencia situacional](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)，Entonces en [Braid](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) En un juego asi (a diferencia de un juego infantil[Juegos educativos](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)Medio), los jugadores no sienten que estan siendo「Ensenanza」。Emocionalmente, su experiencia es que estan construyendo su propia comprension, lo que puede resultar muy satisfactorio. Ver tambien[La experiencia situacional crea una fuerte conexion personal con los objetivos del autor.](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)。
 
-另见[教育游戏试图通过情景体验进行教学](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)。
+Ver tambien[Los juegos educativos intentan ensenar a traves de experiencias situacionales](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)。

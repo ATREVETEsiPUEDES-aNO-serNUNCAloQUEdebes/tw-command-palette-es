@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/andy/note/Few digital reading environments support marginal notes",
-        "text": "# 很少有电子阅读环境支持旁注\r\n\r\n原文：[Few digital reading environments support marginal notes (andymatuschak.org)](https://notes.andymatuschak.org/z4Hk27FK5Q9QiwKZGktJ7uMjkYj7SMs8RJGVR)\r\n\r\n在阅读实体书时，自然会在空白处，在相关段落旁边涂鸦。或者在相关位置贴上一张便条。但处于各种原因，电子阅读环境几乎从不支持这种互动。注释被隐藏在一些便条的图标下，或者在一个 「笔记本」中，以平面列表的形式显示，被折叠，与内容脱节。\r\n\r\n[LiquidText](https://notes.andymatuschak.org/z2fGXCnKwFV1jDmKsp15wkbV5WHSnLpy52Mq) 和MarginNote是我想到的唯二例外。请注意，它们都不支持EPUB！[所有的桌面 EPUB 阅读器都很糟糕](https://notes.andymatuschak.org/z5EgfjG9cqZKWW16JQD7Pd51bXZVeNpiFaYJS) Google Docs 已经建立了一个还不错的用户体验；我很希望其他人哪怕向它靠拢一下也好。\r\n\r\n[Hypothes.is](https://notes.andymatuschak.org/z24wddcuZTB2YvHTA4LkZ759DhydyufhrzCh)提供了一个聊胜于无的解决方案，通过其侧边栏的边缘标记的方式提供了一些空间化的索引。但是注释本身是以一个平面列表的形式呈现的；边缘标记只是相当于一个快捷方式。你仍然不能像[Ted Nelson](https://notes.andymatuschak.org/z5WTkCrHDYrEQbqE6wa2zwv2tABXZt6gfNm7E)在1972年描述的那样，滚动浏览一个文件并在阅读旁注（！）。\r\n\r\n请注意，位置不需要那么精确。它只是在大体的附近。[电子批注过于形式化](https://notes.andymatuschak.org/z6eF7M2XP2YqefAFS4rTXKqSLZCGXkj9NBWe7)。",
+        "text": "# Pocos entornos de lectura electronica admiten marginales\r\n\r\nTexto original：[Few digital reading environments support marginal notes (andymatuschak.org)](https://notes.andymatuschak.org/z4Hk27FK5Q9QiwKZGktJ7uMjkYj7SMs8RJGVR)\r\n\r\nAl leer un libro fisico, naturalmente haras garabatos en los margenes y junto a los parrafos relevantes. O pegue una nota en algun lugar relevante. Pero, por diversas razones, los entornos de lectura electronica casi nunca apoyan este tipo de interaccion. Las notas estan ocultas debajo de algunos iconos de notas adhesivas o en un 「Cuaderno」, mostrado en forma de lista plana, colapsado y desconectado del contenido。\r\n\r\n[LiquidText](https://notes.andymatuschak.org/z2fGXCnKwFV1jDmKsp15wkbV5WHSnLpy52Mq) yMarginNoteson las dos unicas excepciones que me vienen a la mente. Tenga en cuenta que ninguno de ellos admiteEPUB！[Todos los escritorios EPUB Los lectores apestan](https://notes.andymatuschak.org/z5EgfjG9cqZKWW16JQD7Pd51bXZVeNpiFaYJS) Google Docs Ya hemos creado una experiencia de usuario decente; Me encantaria que otros se acercaran aun mas a el.。\r\n\r\n[Hypothes.is](https://notes.andymatuschak.org/z24wddcuZTB2YvHTA4LkZ759DhydyufhrzCh)Proporciona una solucion mejor que nada, proporcionando cierta indexacion espacial a traves de la marca del borde de su barra lateral. Pero las anotaciones en si se presentan como una lista plana; los marcadores de borde son solo atajos. todavia no puedes ser como[Ted Nelson](https://notes.andymatuschak.org/z5WTkCrHDYrEQbqE6wa2zwv2tABXZt6gfNm7E)en1972Como se describe en , desplacese por un documento y lea los margenes.（！）。\r\n\r\nTenga en cuenta que no es necesario que la ubicacion sea tan precisa. esta solo en las inmediaciones generales。[La anotacion electronica es demasiado formal.](https://notes.andymatuschak.org/z6eF7M2XP2YqefAFS4rTXKqSLZCGXkj9NBWe7)。",
         "type": "text/markdown",
-        "caption": " 很少有电子阅读环境支持旁注\r",
+        "caption": " Pocos entornos de lectura electronica admiten marginales\r",
         "modified": "20230930171250220",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Few digital reading environments support marginal notes"
     }

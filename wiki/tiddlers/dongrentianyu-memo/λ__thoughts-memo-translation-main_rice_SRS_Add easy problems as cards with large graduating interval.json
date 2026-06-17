@@ -1,13 +1,13 @@
 [
     {
         "created": "20230926010148000",
-        "creator": "马不前",
+        "creator": "Deja de seguir adelante",
         "title": "λ:/thoughts-memo-translation-main/rice/SRS/Add easy problems as cards with large graduating interval",
-        "text": "# 简单问题卡片的初始间隔应更大\r\n\r\n原文：[Add easy problems as cards with large graduating interval](https://wiki.issarice.com/wiki/Add_easy_problems_as_cards_with_large_graduating_interval)\r\n\r\n对于特别简单的数学问题，比如 janich 的线性代数[选择题](https://wiki.issarice.com/index.php?title=Multiple_choice_question&action=edit&redlink=1)，可以设立单独一个牌组，其[毕业间隔](https://wiki.issarice.com/index.php?title=Graduating_interval&action=edit&redlink=1)设为一两年，所以我之后还能再看到几次。但毕业间隔够长，展示次数也不会频繁得让人烦躁。\r\n\r\n我觉得这样一来，十年之内的复习次数大概能减半。",
+        "text": "# El espacio inicial de las tarjetas de preguntas simples debe ser mayor.\r\n\r\nTexto original：[Add easy problems as cards with large graduating interval](https://wiki.issarice.com/wiki/Add_easy_problems_as_cards_with_large_graduating_interval)\r\n\r\nPara problemas matematicos particularmente simples, como janich Algebra lineal de[Preguntas de opcion multiple](https://wiki.issarice.com/index.php?title=Multiple_choice_question&action=edit&redlink=1)，Puedes configurar una plataforma separada con[Intervalo de graduacion](https://wiki.issarice.com/index.php?title=Graduating_interval&action=edit&redlink=1)Configurelo en uno o dos anos para poder verlo unas cuantas veces mas despues. Pero el intervalo entre graduaciones es lo suficientemente largo y el numero de impresiones no sera tan frecuente como para irritar a la gente.。\r\n\r\nCreo que de esta manera el numero de revisiones en diez anos se puede reducir aproximadamente a la mitad.。",
         "type": "text/markdown",
-        "caption": " 简单问题卡片的初始间隔应更大\r",
+        "caption": " El espacio inicial de las tarjetas de preguntas simples debe ser mayor.\r",
         "modified": "20230930171250229",
-        "modifier": "马不前",
+        "modifier": "Deja de seguir adelante",
         "obvault": "thoughts-memo-translation-main",
         "original-title": "Add easy problems as cards with large graduating interval"
     }

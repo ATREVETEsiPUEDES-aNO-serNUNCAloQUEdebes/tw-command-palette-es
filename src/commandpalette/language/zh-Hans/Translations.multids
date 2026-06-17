@@ -1,11 +1,11 @@
 title: $:/plugins/linonetwo/commandpalette/language/zh-Hans/
 
-Name: 命令菜单
-Description: 搜索条目文本，以及执行太微中的命令。美观大方的多合一搜索框和快捷指令中心。
-Configs/Description: 通过这些设置，您可以自定义「命令菜单」插件的行为。
-Configs/PluginConfigs/Caption: 插件设置
-Configs/HideDefaultSearchBar/Caption: 隐藏默认搜索栏
-Configs/HideDefaultSearchBar/Description: 如果您只使用命令菜单搜索，不需要默认搜索栏，请选中此复选框。
-Configs/DesktopWidth/Caption: 桌面模式宽度
-Configs/DesktopWidth/Description: 输入框和结果框占屏幕的宽度（不影响移动端，移动端默认全屏）
-Configs/Appearance/Caption: 样式
+Name: Menu de comandos
+Description: Busque el texto de entrada y ejecute los comandos de Taiweizhong. Hermoso y elegante cuadro de busqueda todo en uno y centro de comando rapido。
+Configs/Description: Estas configuraciones le permiten personalizar「Menu de comandos」Comportamiento del complemento。
+Configs/PluginConfigs/Caption: Configuracion del complemento
+Configs/HideDefaultSearchBar/Caption: Ocultar la barra de busqueda predeterminada
+Configs/HideDefaultSearchBar/Description: Seleccione esta casilla de verificacion si solo usa busquedas en el menu de comandos y no necesita la barra de busqueda predeterminada.。
+Configs/DesktopWidth/Caption: Ancho del modo escritorio
+Configs/DesktopWidth/Description: El cuadro de entrada y el cuadro de resultados ocupan el ancho de la pantalla (no afecta al terminal movil, que de forma predeterminada aparece en pantalla completa)）
+Configs/Appearance/Caption: Estilo
